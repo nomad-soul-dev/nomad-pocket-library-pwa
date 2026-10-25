@@ -73,3 +73,10 @@ self.addEventListener("fetch", (event) => {
     );
   }
 });
+
+
+self.addEventListener('fetch', (event) => {
+  if (event.request.url.includes('manifest.json') || event.request.url.includes('.bin')) {
+    return; // Laisser passer directement vers le réseau sans intercepter
+  }
+});
