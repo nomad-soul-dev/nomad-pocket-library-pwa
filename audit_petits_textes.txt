@@ -1,0 +1,538 @@
+=== AUDIT SPÉCIFIQUE DES TEXTES COURTS (178 œuvres < 500 mots) ===
+
+• Poésies courtes légitimes : 166
+• Autres textes courts      : 12
+================================================================================
+
+--- ÉCHANTILLON DÉTAILLÉ DE TEXTES COURTS (100 PREMIERS) ---
+
+[01] ID: wikisource_3185016 | Mots: 322
+  Titre  : Voyage à l’île de la Réunion (île Bourbon)
+  Auteur : À déterminer | Genre: Réunion
+  [Contenu complet/Extrait] : Saint-Denis. — De Paris à Saint-Denis. — Premier aspect de la ville. — Le boulevard Doret. — La végétation des tropiques. — Le ruisseau des noirs. — La rivière ...
+--------------------------------------------------------------------------------
+[02] ID: gutenberg_79131 | Mots: 302
+  Titre  : Adresse à nos seigneurs de l'Assemblée nationale, par les députés des maîtres de poste du royaume
+  Auteur : Alexis Gensoul | Genre: Livre / Œuvre complète
+  [Contenu complet/Extrait] : ADRESSE A NOS SEIGNEURS DE L’ASSEMBLÉE NATIONALE, par les députés des Maîtres de Poste du royaume. L’Assemblée Nationale est à la veille de rendre un Décret sur...
+--------------------------------------------------------------------------------
+[03] ID: wikisource_4456547 | Mots: 288
+  Titre  : Le style et l’art de Stendhal
+  Auteur : Stendhal | Genre: Euvre littéraire / Poésie
+  [Contenu complet/Extrait] : Première série (1904) : RENAN — HUYSMANS — BARRÈS — NIETZSCHE ET L’AMOUR — MÉRIMÉE — JUDITH GAUTIER — LES DÉCADENTS — MORÉAS — RÉGNIER — VERHAEREN — BARBEY D’AU...
+--------------------------------------------------------------------------------
+[04] ID: wikisource_4435268 | Mots: 288
+  Titre  : Stendhal, Racine et Shakespeare
+  Auteur : Stendhal | Genre: Euvre littéraire / Poésie
+  [Contenu complet/Extrait] : Première série (1904) : RENAN — HUYSMANS — BARRÈS — NIETZSCHE ET L’AMOUR — MÉRIMÉE — JUDITH GAUTIER — LES DÉCADENTS — MORÉAS — RÉGNIER — VERHAEREN — BARBEY D’AU...
+--------------------------------------------------------------------------------
+[05] ID: 9 | Mots: 319
+  Titre  : Préface
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : La sottise, l’erreur, le péché, la lésine, Occupent nos esprits et travaillent nos corps, Et nous alimentons nos aimables remords, Comme les mendiants nourrisse...
+--------------------------------------------------------------------------------
+[06] ID: 14 | Mots: 318
+  Titre  : 5. J’aime le souvenir de ces époques nues
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : J’aime le souvenir de ces époques nues, Dont Phœbus se plaisait à dorer les statues. Alors l’homme et la femme en leur agilité Jouissaient sans mensonge et sans...
+--------------------------------------------------------------------------------
+[07] ID: 15 | Mots: 355
+  Titre  : 6. Les phares
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Rubens, fleuve d’oubli, jardin de la paresse, Oreiller de chair fraîche où l’on ne peut aimer, Mais où la vie afflue et s’agite sans cesse, Comme l’air dans le ...
+--------------------------------------------------------------------------------
+[08] ID: 30 | Mots: 280
+  Titre  : 21. Le masque (statue allégorique dans le goût de la Renaissance, a Ernest Christophe, statuaire)
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Contemplons ce trésor de grâces florentines ; Dans l’ondulation de ce corps musculeux L’Élégance et la Force abondent, sœurs divines. Cette femme, morceau vraim...
+--------------------------------------------------------------------------------
+[09] ID: 33 | Mots: 291
+  Titre  : 24. La chevelure
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Ô toison, moutonnant jusque sur l’encolure ! Ô boucles ! Ô parfum chargé de nonchaloir ! Extase ! Pour peupler ce soir l’alcôve obscure Des souvenirs dormant da...
+--------------------------------------------------------------------------------
+[10] ID: 39 | Mots: 328
+  Titre  : 30. Une charogne
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Rappelez-vous l’objet que nous vîmes, mon âme, Ce beau matin d’été si doux : Au détour d’un sentier une charogne infâme Sur un lit semé de cailloux, Les jambes ...
+--------------------------------------------------------------------------------
+[11] ID: 46 | Mots: 255
+  Titre  : 37. Le balcon
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Mère des souvenirs, maîtresse des maîtresses, Ô toi, tous mes plaisirs ! ô toi, tous mes devoirs ! Tu te rappelleras la beauté des caresses, La douceur du foyer...
+--------------------------------------------------------------------------------
+[12] ID: 58 | Mots: 272
+  Titre  : 46. Confession
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Une fois, une seule, aimable et douce femme, À mon bras votre bras poli S’appuya (sur le fond ténébreux de mon âme Ce souvenir n’est point pâli) ; Il était tard...
+--------------------------------------------------------------------------------
+[13] ID: 66 | Mots: 302
+  Titre  : 53. Le beau navire
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Je veux te raconter, ô molle enchanteresse ! Les diverses beautés qui parent ta jeunesse ; Je veux te peindre ta beauté, Où l’enfance s’allie à la maturité. Qua...
+--------------------------------------------------------------------------------
+[14] ID: 73 | Mots: 352
+  Titre  : 58. À une madone (ex-voto dans le goût espagnol)
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Je veux bâtir pour toi, Madone, ma maîtresse, Un autel souterrain au fond de ma détresse, Et creuser dans le coin le plus noir de mon cœur, Loin du désir mondai...
+--------------------------------------------------------------------------------
+[15] ID: 105 | Mots: 419
+  Titre  : 88. L’imprévu
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Harpagon qui veillait son père agonisant, Se dit, rêveur, devant ces lèvres déjà blanches : « Nous avons au grenier un nombre suffisant, Ce me semble, de vieill...
+--------------------------------------------------------------------------------
+[16] ID: 133 | Mots: 414
+  Titre  : 114. Les sept vieillards (à Victor Hugo)
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Fourmillante cité, cité pleine de rêves, Où le spectre en plein jour raccroche le passant ! Les mystères partout coulent comme des sèves Dans les canaux étroits...
+--------------------------------------------------------------------------------
+[17] ID: 142 | Mots: 321
+  Titre  : 119. Le crépuscule du soir
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Voici le soir charmant, ami du criminel ; Il vient comme un complice, à pas de loup ; le ciel Se ferme lentement comme une grande alcôve, Et l’homme impatient s...
+--------------------------------------------------------------------------------
+[18] ID: 144 | Mots: 474
+  Titre  : 121. Danse macabre (à Ernest Christophe).
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Fière, autant qu’un vivant, de sa noble stature, Avec son gros bouquet, son mouchoir et ses gants, Elle a la nonchalance et la désinvolture D’une coquette maigr...
+--------------------------------------------------------------------------------
+[19] ID: 153 | Mots: 259
+  Titre  : 129. Le vin des chiffonniers
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Souvent, à la clarté rouge d’un réverbère Dont le vent bat la flamme et tourmente le verre, Au cœur d’un vieux faubourg, labyrinthe fangeux Où l’humanité grouil...
+--------------------------------------------------------------------------------
+[20] ID: 154 | Mots: 311
+  Titre  : 130. Le vin de l’assassin
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Ma femme est morte, je suis libre ! Je puis donc boire tout mon soûl. Lorsque je rentrais sans un sou, Ses cris me déchiraient la fibre. Autant qu’un roi je sui...
+--------------------------------------------------------------------------------
+[21] ID: 159 | Mots: 405
+  Titre  : 135. Une martyre (dessin d’un maître inconnu)
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Au milieu des flacons, des étoffes lamées Et des meubles voluptueux, Des marbres, des tableaux, des robes parfumées Qui traînent à plis somptueux, Dans une cham...
+--------------------------------------------------------------------------------
+[22] ID: 165 | Mots: 479
+  Titre  : 141. Un voyage à Cythère
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Mon cœur, comme un oiseau, voltigeait tout joyeux Et planait librement à l’entour des cordages ; Le navire roulait sous un ciel sans nuages, Comme un ange enivr...
+--------------------------------------------------------------------------------
+[23] ID: 167 | Mots: 284
+  Titre  : 143. Le reniement de Saint Pierre
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Qu’est-ce que Dieu fait donc de ce flot d’anathèmes Qui monte tous les jours vers ses chers Séraphins ? Comme un tyran gorgé de viande et de vins, Il s’endort a...
+--------------------------------------------------------------------------------
+[24] ID: 170 | Mots: 431
+  Titre  : 145. Les litanies de Satan
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Ô toi, le plus savant et le plus beau des Anges, Dieu trahi par le sort et privé de louanges, Ô Satan, prends pitié de ma longue misère ! Ô Prince de l’exil, à ...
+--------------------------------------------------------------------------------
+[25] ID: 183 | Mots: 468
+  Titre  : À Arsène Houssaye
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Mon cher ami, je vous envoie un petit ouvrage dont on ne pourrait pas dire, sans injustice, qu’il n’a ni queue ni tête, puisque tout, au contraire, y est à la f...
+--------------------------------------------------------------------------------
+[26] ID: 189 | Mots: 325
+  Titre  : VI. Chacun sa chimère
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Sous un grand ciel gris, dans une grande plaine poudreuse, sans chemins, sans gazon, sans un chardon, sans une ortie, je rencontrai plusieurs hommes qui marchai...
+--------------------------------------------------------------------------------
+[27] ID: 193 | Mots: 424
+  Titre  : X. À une heure du matin
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Enfin ! seul ! On n’entend plus que le roulement de quelques fiacres attardés et éreintés. Pendant quelques heures, nous posséderons le silence, sinon le repos....
+--------------------------------------------------------------------------------
+[28] ID: 195 | Mots: 354
+  Titre  : XII. Les Foules
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Il n’est pas donné à chacun de prendre un bain de multitude : jouir de la foule est un art ; et celui-là seul peut faire, aux dépens du genre humain, une ribote...
+--------------------------------------------------------------------------------
+[29] ID: 199 | Mots: 312
+  Titre  : XVI. L’Horloge
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Les Chinois voient l’heure dans l’œil des chats. Un jour un missionnaire, se promenant dans la banlieue de Nankin, s’aperçut qu’il avait oublié sa montre, et de...
+--------------------------------------------------------------------------------
+[30] ID: 200 | Mots: 295
+  Titre  : XVII. Un Hémisphère dans une chevelure
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Laisse-moi respirer longtemps, longtemps, l’odeur de tes cheveux, y plonger tout mon visage, comme un homme altéré dans l’eau d’une source, et les agiter avec m...
+--------------------------------------------------------------------------------
+[31] ID: 202 | Mots: 423
+  Titre  : XIX. Le Joujou du Pauvre
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Je veux donner l’idée d’un divertissement innocent. Il y a si peu d’amusements qui ne soient pas coupables ! Quand vous sortirez le matin avec l’intention décid...
+--------------------------------------------------------------------------------
+[32] ID: 206 | Mots: 381
+  Titre  : XXIII. La Solitude
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Un gazetier philanthrope me dit que la solitude est mauvaise pour l’homme ; et à l’appui de sa thèse, il cite, comme tous les incrédules, des paroles des Pères ...
+--------------------------------------------------------------------------------
+[33] ID: 215 | Mots: 416
+  Titre  : XXXII. Le Thyrse
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : À Franz Liszt. Qu’est-ce qu’un thyrse ? Selon le sens moral et poétique, c’est un emblème sacerdotal dans la main des prêtres ou des prêtresses célébrant la div...
+--------------------------------------------------------------------------------
+[34] ID: 217 | Mots: 432
+  Titre  : XXXIV. Déjà !
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Cent fois déjà le soleil avait jailli, radieux ou attristé, de cette cuve immense de la mer dont les bords ne se laissent qu’à peine apercevoir ; cent fois il s...
+--------------------------------------------------------------------------------
+[35] ID: 219 | Mots: 298
+  Titre  : XXXVI. Le Désir de peindre
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : Malheureux peut-être l’homme, mais heureux l’artiste que le désir déchire ! Je brûle de peindre celle qui m’est apparue si rarement et qui a fui si vite, comme ...
+--------------------------------------------------------------------------------
+[36] ID: 220 | Mots: 356
+  Titre  : XXXVII. Les Bienfaits de la lune
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : La Lune, qui est le caprice même, regarda par la fenêtre pendant que tu dormais dans ton berceau, et se dit : « Cette enfant me plaît. » Et elle descendit moell...
+--------------------------------------------------------------------------------
+[37] ID: 228 | Mots: 331
+  Titre  : XLV. Le Tir et le cimetière
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : – À la vue du cimetière, Estaminet. – « Singulière enseigne, – se dit notre promeneur, – mais bien faite pour donner soif ! À coup sûr, le maître de ce cabaret ...
+--------------------------------------------------------------------------------
+[38] ID: 231 | Mots: 412
+  Titre  : XLVIII. Any where out of the world
+  Auteur : Baudelaire | Genre: Poésie
+  [Contenu complet/Extrait] : N’importe où hors du monde Cette vie est un hôpital où chaque malade est possédé du désir de changer de lit. Celui-ci voudrait souffrir en face du poêle, et cel...
+--------------------------------------------------------------------------------
+[39] ID: 237 | Mots: 290
+  Titre  : I.
+À ma fille
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : O mon enfant, tu vois, je me soumets. Fais comme moi : vis du monde éloignée ; Heureuse ? non ; triomphante ? jamais. — Résignée ! — Sois bonne et douce, et lèv...
+--------------------------------------------------------------------------------
+[40] ID: 240 | Mots: 342
+  Titre  : IV.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Le firmament est plein de la vaste clarté ; Tout est joie, innocence, espoir, bonheur, bonté. Le beau lac brille au fond du vallon qui le mure ; Le champ sera f...
+--------------------------------------------------------------------------------
+[41] ID: 245 | Mots: 346
+  Titre  : IX.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Le poëme éploré se lamente ; le drame Souffre, et par vingt acteurs répand à flots son âme ; Et la foule accoudée un moment s’attendrit, Puis reprend : « Bah ! ...
+--------------------------------------------------------------------------------
+[42] ID: 247 | Mots: 321
+  Titre  : XI.
+Lise
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : J’avais douze ans ; elle en avait bien seize. Elle était grande, et, moi, j’étais petit. Pour lui parler le soir plus à mon aise, Moi, j’attendais que sa mère s...
+--------------------------------------------------------------------------------
+[43] ID: 250 | Mots: 416
+  Titre  : XIV.
+À Granville, en 1836
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Voie juin. Le moineau raille Dans les champs les amoureux ; Le rossignol de muraille Chante dans son nid pierreux. Les herbes et les branchages, Pleins de soupi...
+--------------------------------------------------------------------------------
+[44] ID: 254 | Mots: 499
+  Titre  : XVIII.
+Les oiseaux
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Je rêvais dans un grand cimetière désert ; De mon âme et des morts j’écoutais le concert, Parmi les fleurs de l’herbe et les croix de la tombe. Dieu veut que ce...
+--------------------------------------------------------------------------------
+[45] ID: 263 | Mots: 385
+  Titre  : XXVII.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Oui, je suis le rêveur ; je suis le camarade Des petites fleurs d’or du mur qui se dégrade, Et l’interlocuteur des arbres et du vent. Tout cela me connaît, voye...
+--------------------------------------------------------------------------------
+[46] ID: 266 | Mots: 286
+  Titre  : I.
+Premier mai
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Tout conjugue le verbe aimer. Voici les roses. Je ne suis pas en train de parler d’autres choses ; Premier mai ! l’amour gai, triste, brûlant, jaloux, Fait soup...
+--------------------------------------------------------------------------------
+[47] ID: 271 | Mots: 386
+  Titre  : VI.
+Lettre
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Tu vois cela d’ici. Des ocres et des craies ; Plaines où les sillons croisent leurs mille raies, Chaumes à fleur de terre et que masque un buisson ; Quelques me...
+--------------------------------------------------------------------------------
+[48] ID: 273 | Mots: 351
+  Titre  : VIII.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Tu peux, comme il te plaît, me faire jeune ou vieux. Comme le soleil fait serein ou pluvieux L’azur dont il est l’âme et que sa clarté dore, Tu peux m’emplir de...
+--------------------------------------------------------------------------------
+[49] ID: 274 | Mots: 322
+  Titre  : IX.
+En écoutant les oiseaux
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Oh ! quand donc aurez-vous fini, petits oiseaux, De jaser au milieu des branches et des eaux, Que nous nous expliquions et que je vous querelle ? Rouge-gorge, v...
+--------------------------------------------------------------------------------
+[50] ID: 279 | Mots: 261
+  Titre  : XIV.
+Billet du matin
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Si les liens des cœurs ne sont pas des mensonges, Oh ! dites, vous devez avoir eu de doux songes, Je n’ai fait que rêver de vous toute la nuit. Et nous nous aim...
+--------------------------------------------------------------------------------
+[51] ID: 283 | Mots: 354
+  Titre  : XVIII.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Je sais bien qu’il est d’usage D’aller en tous lieux criant Que l’homme est d’autant plus sage Qu’il rêve plus de néant ; D’applaudir la grandeur noire, Les hér...
+--------------------------------------------------------------------------------
+[52] ID: 285 | Mots: 265
+  Titre  : XX.
+Il fait froid
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : L’hiver blanchit le dur chemin. Tes jours aux méchants sont en proie. La bise mord ta douce main ; La haine souffle sur ta joie. La neige emplit le noir sillon....
+--------------------------------------------------------------------------------
+[53] ID: 287 | Mots: 412
+  Titre  : XXII.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Aimons toujours ! aimons encore ! Quand l’amour s’en va, l’espoir fuit. L’amour, c’est le cri de l’aurore, L’amour, c’est l’hymne de la nuit. Ce que le flot dit...
+--------------------------------------------------------------------------------
+[54] ID: 288 | Mots: 329
+  Titre  : XXIII.
+Après l’hiver
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Tout revit, ma bien-aimée ! Le ciel gris perd sa pâleur ; Quand la terre est embaumée, Le cœur de l’homme est meilleur. En haut, d’où l’amour ruisselle, En bas,...
+--------------------------------------------------------------------------------
+[55] ID: 290 | Mots: 424
+  Titre  : XXV.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Je respire où tu palpites, Tu sais ; à quoi bon, hélas ! Rester là si tu me quittes, Et vivre si tu t’en vas ? A quoi bon vivre, étant l’ombre De cet ange qui s...
+--------------------------------------------------------------------------------
+[56] ID: 291 | Mots: 252
+  Titre  : XXVI.
+Crépuscule
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : L’étang mystérieux, suaire aux blanches moires, Frissonne ; au fond du bois, la clairière apparaît ; Les arbres sont profonds et les branches sont noires ; Avez...
+--------------------------------------------------------------------------------
+[57] ID: 303 | Mots: 464
+  Titre  : X.
+Amour
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Amour ! « Loi, » dit Jésus. « Mystère, » dit Platon. Sait-on quel fil nous lie au firmament ? Sait-on Ce que les mains de Dieu dans l’immensité sèment ? Est-on ...
+--------------------------------------------------------------------------------
+[58] ID: 305 | Mots: 326
+  Titre  : XII.
+Explication
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : La terre est au soleil ce que l’homme est à l’ange. L’un est fait de splendeur ; l’autre est pétri de fange. Toute étoile est soleil ; tout astre est paradis. A...
+--------------------------------------------------------------------------------
+[59] ID: 307 | Mots: 268
+  Titre  : XIV.
+À la mère de l’enfant mort
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Oh ! vous aurez trop dit au pauvre petit ange Qu’il est d’autres anges là-haut, Que rien ne souffre au ciel, que jamais rien n’y change, Qu’il est doux d’y rent...
+--------------------------------------------------------------------------------
+[60] ID: 312 | Mots: 255
+  Titre  : XIX.
+Baraques de la foire
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Lion ! j’étais pensif, ô bête prisonnière, Devant la majesté de ta grave crinière ; Du plafond de ta cage elle faisait un dais. Nous songions tous les deux, et ...
+--------------------------------------------------------------------------------
+[61] ID: 317 | Mots: 363
+  Titre  : XXIV.
+Aux arbres
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Arbres de la forêt, vous connaissez mon âme ! Au gré des envieux la foule loue et blâme ; Vous me connaissez, vous ! — vous m’avez vu souvent, Seul dans vos pro...
+--------------------------------------------------------------------------------
+[62] ID: 319 | Mots: 422
+  Titre  : XXVI.
+Joies du soir
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Le soleil, dans les monts où sa clarté s’étale, Ajuste à son arc d’or sa flèche horizontale ; Les hauts taillis sont pleins de biches et de faons ; Là rit dans ...
+--------------------------------------------------------------------------------
+[63] ID: 321 | Mots: 265
+  Titre  : XXVIII.
+Le poëte
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Shakspeare songe ; loin du Versailles éclatant, Des buis taillés, des ifs peignés, où l’on entend Gémir la tragédie éplorée et prolixe, Il contemple la foule av...
+--------------------------------------------------------------------------------
+[64] ID: 322 | Mots: 443
+  Titre  : XXIX.
+La nature
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : La terre est de granit, les ruisseaux sont de marbre ; C’est l’hiver ; nous avons bien froid. Veux-tu, bon arbre, Être dans mon foyer la bûche de Noël ? — Bois,...
+--------------------------------------------------------------------------------
+[65] ID: 329 | Mots: 308
+  Titre  : VI.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Quand nous habitions tous ensemble Sur nos collines d’autrefois, Où l’eau court, où le buisson tremble, Dans la maison qui touche aux bois, Elle avait dix ans, ...
+--------------------------------------------------------------------------------
+[66] ID: 335 | Mots: 313
+  Titre  : XII.
+À quoi songeaient les deux cavaliers dans la forêt
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : La nuit était fort noire et la forêt très-sombre. Hermann à mes côtés me paraissait une ombre. Nos chevaux galopaient. A la garde de Dieu ! Les nuages du ciel r...
+--------------------------------------------------------------------------------
+[67] ID: 336 | Mots: 303
+  Titre  : XIII.
+Veni, vidi, vixi
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : J’ai bien assez vécu, puisque dans mes douleurs Je marche, sans trouver de bras qui me secourent, Puisque je ris à peine aux enfants qui m’entourent, Puisque je...
+--------------------------------------------------------------------------------
+[68] ID: 341 | Mots: 300
+  Titre  : I.
+À Aug. V.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Et toi, son frère, sois le frère de mes fils. Cœur fier, qui du destin relèves les défis, Suis à côté de moi la voie inexorable. Que ta mère au front gris soit ...
+--------------------------------------------------------------------------------
+[69] ID: 349 | Mots: 262
+  Titre  : Écrit en 1855
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : J’ajoute un post-scriptum après neuf ans. J’écoute : Êtes-vous toujours là ? Vous êtes mort sans doute, Marquis ; mais d’où je suis on peut parler aux morts. Ah...
+--------------------------------------------------------------------------------
+[70] ID: 359 | Mots: 408
+  Titre  : XIII.
+Paroles sur la dune
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Maintenant que mon temps décroît comme un flambeau, Que mes tâches sont terminées ; Maintenant que voici que je touche au tombeau Par les deuils et par les anné...
+--------------------------------------------------------------------------------
+[71] ID: 362 | Mots: 431
+  Titre  : XVI.
+Lueur au couchant
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Lorsque j’étais en France, et que le peuple en fête Répandait dans Paris sa grande joie honnête, Si c’était un des jours glorieux et vainqueurs Où les fiers sou...
+--------------------------------------------------------------------------------
+[72] ID: 363 | Mots: 334
+  Titre  : XVII.
+Mugitusque boum
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Mugissement des bœufs, au temps du doux Virgile, Comme aujourd’hui, le soir, quand fuit la nuit agile, Ou, le matin, quand l’aube aux champs extasiés Verse à fl...
+--------------------------------------------------------------------------------
+[73] ID: 369 | Mots: 400
+  Titre  : XXIII.
+Pasteurs et troupeaux.
+À Madame Louise C.
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : Le vallon où je vais tous les jours est charmant ; Serein, abandonné, seul sous le firmament, Plein de ronces en fleurs ; c’est un sourire triste. Il vous fait ...
+--------------------------------------------------------------------------------
+[74] ID: 396 | Mots: 349
+  Titre  : X.
+Éclaircie
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : L’Océan resplendit sous sa vaste nuée. L’onde, de son combat sans fin exténuée, S’assoupit, et, laissant l’écueil se reposer, Fait de toute la rive un immense b...
+--------------------------------------------------------------------------------
+[75] ID: 399 | Mots: 484
+  Titre  : XIII.
+Cadaver
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : O mort ! heure splendide ! ô rayons mortuaires ! Avez-vous quelquefois soulevé des suaires ? Et, pendant qu’on pleurait, et qu’au chevet du lit, Frères, amis, e...
+--------------------------------------------------------------------------------
+[76] ID: 405 | Mots: 467
+  Titre  : XIX.
+Voyage de nuit
+  Auteur : Victor Hugo | Genre: Poésie
+  [Contenu complet/Extrait] : On conteste, on dispute, on proclame, on ignore. Chaque religion est une tour sonore ; Ce qu’un prêtre édifie, un prêtre le détruit ; Chaque temple, tirant sa c...
+--------------------------------------------------------------------------------
+[77] ID: 426 | Mots: 335
+  Titre  : Le bal des pendus
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Au gibet noir, manchot aimable, Dansent, dansent les paladins, Les maigres paladins du diable, Les squelettes de Saladins. Messire Belzébuth tire par la cravate...
+--------------------------------------------------------------------------------
+[78] ID: 430 | Mots: 288
+  Titre  : A la musique Place de la Gare, à Charleville.
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Sur la place taillée en mesquines pelouses, Square où tout est correct, les arbres et les fleurs, Tous les bourgeois poussifs qu'étranglent les chaleurs Portent...
+--------------------------------------------------------------------------------
+[79] ID: 449 | Mots: 364
+  Titre  : Les assis
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Noirs de loupes, grêlés, les yeux cerclés de bagues Vertes, leurs doigts boulus crispés à leurs fémurs, Le sinciput plaqué de hargnosités vagues Comme les flora...
+--------------------------------------------------------------------------------
+[80] ID: 455 | Mots: 296
+  Titre  : Accroupissements
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Bien tard, quand il se sent l'estomac écoeuré, Le frère Milotus, un oeil à la lucarne D'où le soleil, clair comme un chaudron récuré, Lui darde une migraine et ...
+--------------------------------------------------------------------------------
+[81] ID: 457 | Mots: 284
+  Titre  : Les pauvres à l'église
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Parqués entre des bancs de chêne, aux coins d'église Qu'attiédit puamment leur souffle, tous leurs yeux Vers le choeur ruisselant d'orrie et la maîtrise Aux vin...
+--------------------------------------------------------------------------------
+[82] ID: 460 | Mots: 355
+  Titre  : Les mains de Jeanne-Marie
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Jeanne-Marie a des mains fortes, Mains sombres que l'été tanna, Mains pâles comme des mains mortes. — Sont-ce des mains de Juana ? Ont-elles pris les crèmes bru...
+--------------------------------------------------------------------------------
+[83] ID: 461 | Mots: 319
+  Titre  : Les soeurs de charité
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Le jeune homme dont l'oeil est brillant, la peau brune, Le beau corps de vingt ans qui devrait aller nu, Et qu'eût, le front cerclé de cuivre, sous la lune Ador...
+--------------------------------------------------------------------------------
+[84] ID: 464 | Mots: 459
+  Titre  : L'homme juste
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Le Juste restait droit sur ses hanches solides : Un rayon lui dorait l'épaule ; des sueurs Me prirent :"Tu veux voir rutiler les bolides ? Et, debout, écouter b...
+--------------------------------------------------------------------------------
+[85] ID: 494 | Mots: 255
+  Titre  : Bruxelles Juillet, Boulevard du Régent.
+  Auteur : Rimbaud | Genre: Poésie
+  [Contenu complet/Extrait] : Plates-bandes d'amarantes jusqu'à L'agréable palais de Jupiter. — Je sais que c'est Toi qui, dans ces lieux, Mêles ton Bleu presque de Sahara ! Puis, comme rose...
+--------------------------------------------------------------------------------
+[86] ID: 508 | Mots: 471
+  Titre  : I L’ISOLEMENT.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Souvent sur la montagne, à l’ombre du vieux chêne, Au coucher du soleil, tristement je m’assieds ; Je promène au hasard mes regards sur la plaine, Dont le table...
+--------------------------------------------------------------------------------
+[87] ID: 510 | Mots: 438
+  Titre  : III À ELVIRE
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Oui, l’Anio murmure encore Le doux nom de Cynthie aux rochers de Tibur ; Vaucluse a retenu le nom chéri de Laure ; Et Ferrare au siècle futur Murmurera toujours...
+--------------------------------------------------------------------------------
+[88] ID: 511 | Mots: 300
+  Titre  : IV LE SOIR.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Le soir ramène le silence. Assis sur ces rochers déserts, Je suis dans le vague des airs Le char de la nuit qui s’avance. Vénus se lève à l’horizon ; À mes pied...
+--------------------------------------------------------------------------------
+[89] ID: 516 | Mots: 431
+  Titre  : IX SOUVENIR.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : En vain le jour succède au jour, Ils glissent sans laisser de trace ; Dans mon âme rien ne t’efface, Ô dernier songe de l’amour ! Je vois mes rapides années S’a...
+--------------------------------------------------------------------------------
+[90] ID: 522 | Mots: 417
+  Titre  : XV LA GLOIRE.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Généreux favoris des filles de Mémoire, Deux sentiers différents devant vous vont s’ouvrir : L’un conduit au bonheur, l’autre mène à la gloire ; Mortels, il fau...
+--------------------------------------------------------------------------------
+[91] ID: 523 | Mots: 285
+  Titre  : XVI LA CHARITÉ. Hymne oriental
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Dieu dit un jour à son soleil : « Toi par qui mon nom luit, toi que ma droite envoie Porter à l’univers ma splendeur et ma joie, Pour que l’immensité me loue à ...
+--------------------------------------------------------------------------------
+[92] ID: 532 | Mots: 457
+  Titre  : XXV LE TEMPLE.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Qu’il est doux, quand du soir l’étoile solitaire, Précédant de la nuit le char silencieux, S’élève lentement dans la voûte des cieux, Et que l’ombre et le jour ...
+--------------------------------------------------------------------------------
+[93] ID: 536 | Mots: 494
+  Titre  : XXIX HYMNE AU SOLEIL.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Vous avez pris pitié de sa longue douleur ; Vous me rendez le jour, Dieu que l’amour implore ! Déjà mon front, couvert d’une molle pâleur, Des teintes de la vie...
+--------------------------------------------------------------------------------
+[94] ID: 538 | Mots: 433
+  Titre  : XXXI ADIEU.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Oui, j’ai quitté ce port tranquille, Ce port si longtemps appelé, Où, loin des ennuis de la ville, Dans un loisir doux et facile, Sans bruit mes jours auraient ...
+--------------------------------------------------------------------------------
+[95] ID: 539 | Mots: 472
+  Titre  : XXXII LA SEMAINE SAINTE
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Ici viennent mourir les derniers bruits du monde ; Nautoniers sans étoile, abordez ! c’est le port : Ici l’âme se plonge en une paix profonde, Et cette paix n’e...
+--------------------------------------------------------------------------------
+[96] ID: 542 | Mots: 288
+  Titre  : XXXV L’AUTOMNE.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Salut, bois couronnés d’un reste de verdure ! Feuillages jaunissants sur les gazons épars ; Salut, derniers beaux jours ! Le deuil de la nature Convient à la do...
+--------------------------------------------------------------------------------
+[97] ID: 546 | Mots: 266
+  Titre  : XXXIX LES OISEAUX.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Orchestre du Très-Haut, bardes de ses louanges, Ils chantent à l’été des notes de bonheur ; Ils parcourent les airs avec des ailes d’anges Échappés tout joyeux ...
+--------------------------------------------------------------------------------
+[98] ID: 548 | Mots: 298
+  Titre  : XLI LE COQUILLAGE AU BORD DE LA MER.
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Quand tes beaux pieds distraits errent, ô jeune fille, Sur ce sable mouillé, frange d’or de la mer, Baisse-toi, mon amour, vers la blonde coquille Que Vénus fai...
+--------------------------------------------------------------------------------
+[99] ID: 555 | Mots: 300
+  Titre  : VII TRISTESSE
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Ramenez-moi, disais-je, au fortuné rivage Où Naples réfléchit dans une mer d’azur Ses palais, ses coteaux, ses astres sans nuage, Où l’oranger fleurit sous un c...
+--------------------------------------------------------------------------------
+[100] ID: 559 | Mots: 328
+  Titre  : XI À EL***
+  Auteur : Lamartine | Genre: Poésie
+  [Contenu complet/Extrait] : Lorsque seul avec toi, pensive et recueillie, Tes deux mains dans la mienne, assis à tes côtés, J’abandonne mon âme aux molles voluptés Et je laisse couler les ...
+--------------------------------------------------------------------------------

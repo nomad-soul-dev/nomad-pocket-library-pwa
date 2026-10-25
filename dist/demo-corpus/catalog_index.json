@@ -1,0 +1,219 @@
+[
+  {
+    "id": "demo_lafontaine_corbeau",
+    "t": "Le Corbeau et le Renard",
+    "a": "Jean de La Fontaine",
+    "d": "1621-1695",
+    "g": "Contes & Fables",
+    "tags": [
+      "Genre: Contes & Fables",
+      "Forme: Fables & Apologues",
+      "17th century",
+      "France"
+    ],
+    "vol": "Fables, Livre I",
+    "mots": 179,
+    "min": 1,
+    "sec": "XVIIe siècle",
+    "mouv": "Classicisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_lafontaine_cigale",
+    "t": "La Cigale et la Fourmi",
+    "a": "Jean de La Fontaine",
+    "d": "1621-1695",
+    "g": "Contes & Fables",
+    "tags": [
+      "Genre: Contes & Fables",
+      "Forme: Fables & Apologues",
+      "17th century",
+      "France"
+    ],
+    "vol": "Fables, Livre I",
+    "mots": 137,
+    "min": 1,
+    "sec": "XVIIe siècle",
+    "mouv": "Classicisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_hugo_demain",
+    "t": "Demain, dès l'aube...",
+    "a": "Victor Hugo",
+    "d": "1802-1885",
+    "g": "Poésie",
+    "tags": [
+      "Genre: Poésie",
+      "Forme: Poème",
+      "19th century",
+      "France"
+    ],
+    "vol": "Les Contemplations, Livre IV",
+    "mots": 129,
+    "min": 1,
+    "sec": "XIXe siècle",
+    "mouv": "Romantisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_baudelaire_albatros",
+    "t": "L'Albatros",
+    "a": "Charles Baudelaire",
+    "d": "1821-1867",
+    "g": "Poésie",
+    "tags": [
+      "Genre: Poésie",
+      "Forme: Poème",
+      "19th century",
+      "France"
+    ],
+    "vol": "Les Fleurs du Mal",
+    "mots": 123,
+    "min": 1,
+    "sec": "XIXe siècle",
+    "mouv": "Symbolisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_verlaine_automne",
+    "t": "Chanson d'automne",
+    "a": "Paul Verlaine",
+    "d": "1844-1896",
+    "g": "Poésie",
+    "tags": [
+      "Genre: Poésie",
+      "Forme: Poème",
+      "19th century",
+      "France"
+    ],
+    "vol": "Poèmes saturniens",
+    "mots": 46,
+    "min": 1,
+    "sec": "XIXe siècle",
+    "mouv": "Symbolisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_maupassant_ficelle",
+    "t": "La Ficelle (ouverture)",
+    "a": "Guy de Maupassant",
+    "d": "1850-1893",
+    "g": "Roman",
+    "tags": [
+      "Genre: Nouvelle",
+      "Forme: Nouvelle réaliste",
+      "19th century",
+      "France"
+    ],
+    "vol": "Contes du jour et de la nuit",
+    "mots": 189,
+    "min": 1,
+    "sec": "XIXe siècle",
+    "mouv": "Réalisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_rimbaud_dormeur",
+    "t": "Le Dormeur du val",
+    "a": "Arthur Rimbaud",
+    "d": "1854-1891",
+    "g": "Poésie",
+    "tags": [
+      "Genre: Poésie",
+      "Forme: Sonnet",
+      "19th century",
+      "France"
+    ],
+    "vol": "Poésies",
+    "mots": 122,
+    "min": 1,
+    "sec": "XIXe siècle",
+    "mouv": "Symbolisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_genese_1",
+    "t": "La Genèse, chapitre 1 (extrait)",
+    "a": "Anonyme (Bible, trad. Louis Segond, 1910)",
+    "d": "Antiquité",
+    "g": "Texte religieux",
+    "tags": [
+      "Genre: Texte religieux",
+      "Domaine public",
+      "Traduction 1910"
+    ],
+    "vol": "Ancien Testament",
+    "mots": 159,
+    "min": 1,
+    "sec": "Antiquité",
+    "mouv": "—",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_perrault_barbebleue",
+    "t": "La Barbe bleue (ouverture)",
+    "a": "Charles Perrault",
+    "d": "1628-1703",
+    "g": "Contes & Fables",
+    "tags": [
+      "Genre: Conte merveilleux",
+      "17th century",
+      "France"
+    ],
+    "vol": "Histoires ou contes du temps passé",
+    "mots": 130,
+    "min": 1,
+    "sec": "XVIIe siècle",
+    "mouv": "Classicisme",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  },
+  {
+    "id": "demo_proverbes",
+    "t": "Proverbes et sagesse populaire (recueil court)",
+    "a": "Collectif / Tradition orale",
+    "d": "—",
+    "g": "Proverbes",
+    "tags": [
+      "Genre: Proverbes",
+      "Domaine public",
+      "France"
+    ],
+    "vol": "Unique",
+    "mots": 75,
+    "min": 1,
+    "sec": "—",
+    "mouv": "—",
+    "txt": 1,
+    "src": [
+      "gutenberg"
+    ]
+  }
+]

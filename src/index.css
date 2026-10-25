@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light dark;
+}
+
+/* ---------- Thèmes de lecture ---------- */
+/* Chaque thème définit un jeu de variables CSS consommées par les composants. */
+
+[data-theme="nuit"] {
+  --bg: #1b1c20;
+  --bg-elevated: #222327;
+  --bg-elevated-2: #2a2b30;
+  --text: #e4ddcf;
+  --text-dim: #9a9790;
+  --accent: #d8a657;
+  --accent-soft: rgba(216, 166, 87, 0.16);
+  --border: #35363b;
+  --highlight: rgba(216, 166, 87, 0.22);
+}
+
+[data-theme="sepia"] {
+  --bg: #f1e7d3;
+  --bg-elevated: #e9dcc2;
+  --bg-elevated-2: #e2d3b4;
+  --text: #3c2f22;
+  --text-dim: #7a6952;
+  --accent: #a3652c;
+  --accent-soft: rgba(163, 101, 44, 0.14);
+  --border: #d9c6a2;
+  --highlight: rgba(163, 101, 44, 0.18);
+}
+
+[data-theme="matrix"] {
+  --bg: #0b0f0c;
+  --bg-elevated: #10150f;
+  --bg-elevated-2: #141a13;
+  --text: #baf5c4;
+  --text-dim: #5f8a67;
+  --accent: #4ddb6a;
+  --accent-soft: rgba(77, 219, 106, 0.14);
+  --border: #1d2b1f;
+  --highlight: rgba(77, 219, 106, 0.18);
+}
+
+[data-theme="clair"] {
+  --bg: #f4f4f3;
+  --bg-elevated: #ffffff;
+  --bg-elevated-2: #ebebe9;
+  --text: #2b2b29;
+  --text-dim: #6c6c68;
+  --accent: #8a6ddb;
+  --accent-soft: rgba(138, 109, 219, 0.12);
+  --border: #e1e1de;
+  --highlight: rgba(138, 109, 219, 0.16);
+}
+
+body {
+  background: var(--bg, #f4f4f3);
+  color: var(--text, #2b2b29);
+}
+
+.reading-surface {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.paragraph-active {
+  background: var(--highlight);
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0 1px var(--accent-soft);
+}
+
+::selection {
+  background: var(--accent-soft);
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 999px;
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.45; }
+}
+.animate-pulse-soft {
+  animation: pulse-soft 1.6s ease-in-out infinite;
+}

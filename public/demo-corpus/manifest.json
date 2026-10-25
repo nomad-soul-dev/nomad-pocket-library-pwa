@@ -1,0 +1,32 @@
+{
+  "nom_projet": "Nomad Pocket Library — Corpus de démonstration",
+  "version": "poc-0.1.0",
+  "algo_compression": "gzip (DEFLATE) — remplace LZMA pour la démonstration",
+  "taille_brute_octets": 24576,
+  "taille_compresse_octets": 5236,
+  "nombre_chunks": 4,
+  "chunks": [
+    {
+      "name": "corpus_part_01.bin",
+      "bytes": 1309,
+      "sha256": "7fedd32631d02bea7156f8a78507f87323c7abc3564690905ddb8e569bf261cd"
+    },
+    {
+      "name": "corpus_part_02.bin",
+      "bytes": 1309,
+      "sha256": "af6360542f73276006e17376292d5f38b7d783592a3f9ce358e496f54e480489"
+    },
+    {
+      "name": "corpus_part_03.bin",
+      "bytes": 1309,
+      "sha256": "fb36534b51f7f1da4e4c904f2dc7ac56740c8c07308a81973d38f7c92bf20b19"
+    },
+    {
+      "name": "corpus_part_04.bin",
+      "bytes": 1309,
+      "sha256": "54b8f854ddec7773be21be7ba18c1411b0f6bc2c9b26ab49309fa119b8b33064"
+    }
+  ],
+  "generated_at": "2026-10-24T17:27:44.953Z",
+  "note": "Corpus réduit (10 œuvres/extraits domaine public) pour valider le pipeline import → vérification SHA-256 → décompression → SQLite WASM → lecture → TTS, avant mise à l'échelle sur les 5098 œuvres réelles."
+}

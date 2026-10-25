@@ -1,0 +1,535 @@
+=== AUDIT DES TITRES SIMILAIRES ET SUSPECTS ===
+
+--- 1. TITRES STRICTEMENT IDENTIQUES (24 groupes) ---
+
+[Groupe Titre: "Autour de la Lune"] (2 entrées)
+  • ID: gutenberg_4717 | Auteur: Jules Verne | Mots: 55127
+  • ID: gutenberg_8012 | Auteur: Jules Verne | Mots: 24271
+
+[Groupe Titre: "2)"] (9 entrées)
+  • ID: gutenberg_63906 | Auteur: Bernardin de Saint-Pierre | Mots: 54714
+  • ID: gutenberg_25403 | Auteur: Jeanne Françoise Julie Adélaïde Bernard Récamier | Mots: 101334
+  • ID: gutenberg_28332 | Auteur: La Tour du Pin Gouvernet, Henriette Lucie Dillon, marquise de, 1770-1853 | Mots: 105714
+  • ID: gutenberg_41843 | Auteur: Jean Humbert | Mots: 74733
+  • ID: gutenberg_57019 | Auteur: Alexandre Dumas | Mots: 57024
+  • ID: gutenberg_63220 | Auteur: Edouard Corbière | Mots: 53861
+  • ID: gutenberg_63305 | Auteur: Guillaume Apollinaire | Mots: 71405
+  • ID: gutenberg_75205 | Auteur: Monsieur de (Nicolas) Blégny | Mots: 109698
+  • ID: wikisource_1578796 | Auteur: Honoré de Balzac | Mots: 174399
+
+[Groupe Titre: "III)"] (2 entrées)
+  • ID: gutenberg_38971 | Auteur: Eugène Sue | Mots: 40561
+  • ID: wikisource_3011744 | Auteur: Gérard de Nerval | Mots: 1286
+
+[Groupe Titre: "La Mare au Diable"] (2 entrées)
+  • ID: gutenberg_23582 | Auteur: George Sand | Mots: 37363
+  • ID: gutenberg_15535 | Auteur: George Sand | Mots: 55535
+
+[Groupe Titre: "6)"] (3 entrées)
+  • ID: gutenberg_50083 | Auteur: C. A. (Charles Athanase) Walckenaer | Mots: 153178
+  • ID: gutenberg_31881 | Auteur: Auguste Comte | Mots: 143468
+  • ID: gutenberg_43712 | Auteur: P. L. Jacob | Mots: 111770
+
+[Groupe Titre: "Une ville flottante"] (2 entrées)
+  • ID: gutenberg_17832 | Auteur: Jules Verne | Mots: 40652
+  • ID: gutenberg_4792 | Auteur: Jules Verne | Mots: 118006
+
+[Groupe Titre: "9)"] (3 entrées)
+  • ID: gutenberg_27427 | Auteur: Marmont, Auguste Frédéric Louis Viesse de, duc de Raguse, 1774-1852 | Mots: 95565
+  • ID: gutenberg_31432 | Auteur: Pierre Louis Ginguené | Mots: 117114
+  • ID: wikisource_2549312 | Auteur: Alphonse Daudet | Mots: 7992
+
+[Groupe Titre: "4)"] (4 entrées)
+  • ID: gutenberg_42177 | Auteur: Kervyn de Lettenhove, Joseph Marie Bruno Constantin, Baron, 1817-1891 | Mots: 99626
+  • ID: gutenberg_35319 | Auteur: Joseph Méry | Mots: 26105
+  • ID: gutenberg_47802 | Auteur: 1829-1871 Ponson du Terrail | Mots: 26706
+  • ID: gutenberg_79707 | Auteur: Monluc, Blaise, seigneur de, 1500?-1577 | Mots: 70390
+
+[Groupe Titre: "3)"] (7 entrées)
+  • ID: gutenberg_26634 | Auteur: Louise Fusil | Mots: 47633
+  • ID: gutenberg_26763 | Auteur: William Shakespeare | Mots: 28689
+  • ID: gutenberg_36909 | Auteur: Marbot, Jean-Baptiste-Antoine-Marcelin, baron de, 1782-1854 | Mots: 108965
+  • ID: gutenberg_38400 | Auteur: Alexandre Dumas | Mots: 74392
+  • ID: gutenberg_49573 | Auteur: Ernest Desprez | Mots: 20602
+  • ID: gutenberg_57879 | Auteur: 1556-1626 Béroalde de Verville | Mots: 47879
+  • ID: gutenberg_71429 | Auteur: Jules Michelet | Mots: 94769
+
+[Groupe Titre: "Avant-propos"] (3 entrées)
+  • ID: wikisource_2525216 | Auteur: Molière | Mots: 41975
+  • ID: wikisource_4284446 | Auteur: Honoré de Balzac | Mots: 921
+  • ID: wikisource_4528 | Auteur: Alphonse Daudet | Mots: 914
+
+[Groupe Titre: "La petite Fadette"] (2 entrées)
+  • ID: gutenberg_34204 | Auteur: George Sand | Mots: 59298
+  • ID: gutenberg_14781 | Auteur: George Sand | Mots: 11338
+
+[Groupe Titre: "Texte entier"] (2 entrées)
+  • ID: wikisource_2961429 | Auteur: Gérard de Nerval | Mots: 1286
+  • ID: wikisource_3736564 | Auteur: Gustave Flaubert | Mots: 37293
+
+[Groupe Titre: "2
+écrits à Sainte-Hélène par les généraux qui ont partagé sa captivité"] (2 entrées)
+  • ID: gutenberg_38166 | Auteur: Gourgaud, Gaspard, Baron, 1783-1852 | Mots: 76933
+  • ID: gutenberg_38696 | Auteur: Gourgaud, Gaspard, Baron, 1783-1852 | Mots: 78017
+
+[Groupe Titre: "II)"] (2 entrées)
+  • ID: gutenberg_38706 | Auteur: Defoe, Daniel, 1661?-1731 | Mots: 118982
+  • ID: wikisource_4286507 | Auteur: Honoré de Balzac | Mots: 921
+
+[Groupe Titre: "6)
+Tableaux et portraits du grand monde sous Louis XVI, Le Directoire, le Consulat et l'Empire, la Restauration et le règne de Louis-Philippe Ier"] (2 entrées)
+  • ID: gutenberg_41121 | Auteur: Abrantès, Laure Junot, duchesse d', 1784-1838 | Mots: 85042
+  • ID: gutenberg_44054 | Auteur: Abrantès, Laure Junot, duchesse d', 1784-1838 | Mots: 81328
+
+[Groupe Titre: "4)
+Extraits des Chroniques, des Mémoires et des Documents originaux, avec des sommaires et des résumés chronologiques"] (2 entrées)
+  • ID: gutenberg_44504 | Auteur: L. (Louis) Dussieux | Mots: 156513
+  • ID: gutenberg_44906 | Auteur: L. (Louis) Dussieux | Mots: 149872
+
+[Groupe Titre: "La guerre des mondes"] (2 entrées)
+  • ID: gutenberg_60656 | Auteur: H. G. (Herbert George) Wells | Mots: 65573
+  • ID: gutenberg_38356 | Auteur: H. G. Wells | Mots: 27958
+
+[Groupe Titre: "5"] (2 entrées)
+  • ID: gutenberg_61920 | Auteur: Jean-Baptiste Louvet de Couvray | Mots: 58928
+  • ID: gutenberg_63679 | Auteur: Jean-Baptiste Louvet de Couvray | Mots: 66726
+
+[Groupe Titre: "13"] (2 entrées)
+  • ID: gutenberg_72189 | Auteur: Froissart, Jean, 1338?-1410? | Mots: 182467
+  • ID: gutenberg_73967 | Auteur: Froissart, Jean, 1338?-1410? | Mots: 201162
+
+[Groupe Titre: "I"] (2 entrées)
+  • ID: wikisource_2961407 | Auteur: Gérard de Nerval | Mots: 1286
+  • ID: wikisource_4286232 | Auteur: Honoré de Balzac | Mots: 921
+
+[Groupe Titre: "VIII."] (2 entrées)
+  • ID: wikisource_4308160 | Auteur: Honoré de Balzac | Mots: 921
+  • ID: 273 | Auteur: Victor Hugo | Mots: 351
+
+[Groupe Titre: "Dédicace"] (3 entrées)
+  • ID: wikisource_1270297 | Auteur: Guy de Maupassant | Mots: 15616
+  • ID: wikisource_2104935 | Auteur: Victor Hugo | Mots: 50671
+  • ID: wikisource_2549299 | Auteur: Alphonse Daudet | Mots: 7992
+
+[Groupe Titre: "IV"] (3 entrées)
+  • ID: wikisource_2115660 | Auteur: Victor Hugo | Mots: 50671
+  • ID: wikisource_2958286 | Auteur: Gérard de Nerval | Mots: 1286
+  • ID: 240 | Auteur: Victor Hugo | Mots: 342
+
+[Groupe Titre: "Préface"] (3 entrées)
+  • ID: wikisource_3736520 | Auteur: Gustave Flaubert | Mots: 37293
+  • ID: 9 | Auteur: Baudelaire | Mots: 319
+  • ID: 235 | Auteur: Victor Hugo | Mots: 520
+
+
+--- 2. PAIRS DE TITRES TRÈS SIMILAIRES (403 paires détectées) ---
+• [92% de similarité]
+   1: A l'ombre des jeunes filles en fleurs — Première partie (Auteur: Marcel Proust, 67770 mots) [ID: gutenberg_2998]
+   2: A l'ombre des jeunes filles en fleurs — Deuxième partie (Auteur: Marcel Proust, 64421 mots) [ID: gutenberg_2999]
+----------------------------------------
+• [92% de similarité]
+   1: A l'ombre des jeunes filles en fleurs — Première partie (Auteur: Marcel Proust, 67770 mots) [ID: gutenberg_2998]
+   2: A l'ombre des jeunes filles en fleurs — Troisième partie (Auteur: Marcel Proust, 72220 mots) [ID: gutenberg_3000]
+----------------------------------------
+• [92% de similarité]
+   1: A l'ombre des jeunes filles en fleurs — Deuxième partie (Auteur: Marcel Proust, 64421 mots) [ID: gutenberg_2999]
+   2: A l'ombre des jeunes filles en fleurs — Troisième partie (Auteur: Marcel Proust, 72220 mots) [ID: gutenberg_3000]
+----------------------------------------
+• [88% de similarité]
+   1: Vingt Mille Lieues Sous Les Mers — Part 1 (Auteur: Jules Verne, 65221 mots) [ID: gutenberg_5095]
+   2: Vingt mille Lieues Sous Les Mers — Complete (Auteur: Jules Verne, 143308 mots) [ID: gutenberg_5097]
+----------------------------------------
+• [96% de similarité]
+   1: Les quarante-cinq — Tome 1 (Auteur: Alexandre Dumas, 81783 mots) [ID: gutenberg_7770]
+   2: Les quarante-cinq — Tome 2 (Auteur: Alexandre Dumas, 83598 mots) [ID: gutenberg_7771]
+----------------------------------------
+• [96% de similarité]
+   1: Les quarante-cinq — Tome 1 (Auteur: Alexandre Dumas, 81783 mots) [ID: gutenberg_7770]
+   2: Les quarante-cinq — Tome 3 (Auteur: Alexandre Dumas, 78037 mots) [ID: gutenberg_7772]
+----------------------------------------
+• [96% de similarité]
+   1: Les quarante-cinq — Tome 2 (Auteur: Alexandre Dumas, 83598 mots) [ID: gutenberg_7771]
+   2: Les quarante-cinq — Tome 3 (Auteur: Alexandre Dumas, 78037 mots) [ID: gutenberg_7772]
+----------------------------------------
+• [98% de similarité]
+   1: Kéraban-Le-Têtu, Volume I (Auteur: Jules Verne, 52373 mots) [ID: gutenberg_8174]
+   2: Kéraban-Le-Têtu, Volume II (Auteur: Jules Verne, 52799 mots) [ID: gutenberg_8175]
+----------------------------------------
+• [96% de similarité]
+   1: Actes et Paroles, Volume 1 (Auteur: Victor Hugo, 142990 mots) [ID: gutenberg_8186]
+   2: Actes et Paroles, Volume 3 (Auteur: Victor Hugo, 89593 mots) [ID: gutenberg_8454]
+----------------------------------------
+• [83% de similarité]
+   1: Nouveaux Contes à Ninon (Auteur: Émile Zola, 51461 mots) [ID: gutenberg_8416]
+   2: Nouveaux contes de Noël (Auteur: Paul Arène, 36639 mots) [ID: gutenberg_73832]
+----------------------------------------
+• [78% de similarité]
+   1: Actes et Paroles, Volume 2: Pendant l'exil 1852-1870 (Auteur: Victor Hugo, 113741 mots) [ID: gutenberg_8453]
+   2: Actes et Paroles, Volume 4: Depuis l'Exil 1876-1885 (Auteur: Victor Hugo, 95644 mots) [ID: gutenberg_8490]
+----------------------------------------
+• [96% de similarité]
+   1: Le Capitaine Aréna — Tome 2 (Auteur: Alexandre Dumas, 50702 mots) [ID: gutenberg_8692]
+   2: Le Capitaine Aréna — Tome 1 (Auteur: Alexandre Dumas, 50557 mots) [ID: gutenberg_8693]
+----------------------------------------
+• [89% de similarité]
+   1: Le Côté de Guermantes - Première partie (Auteur: Marcel Proust, 68609 mots) [ID: gutenberg_8946]
+   2: Le Côté de Guermantes - Deuxième partie (Auteur: Marcel Proust, 76720 mots) [ID: gutenberg_12999]
+----------------------------------------
+• [96% de similarité]
+   1: La dame de Monsoreau — ­Tome 1. (Auteur: Alexandre Dumas, 95339 mots) [ID: gutenberg_9637]
+   2: La dame de Monsoreau — Tome 2. (Auteur: Alexandre Dumas, 92575 mots) [ID: gutenberg_9638]
+----------------------------------------
+• [96% de similarité]
+   1: La dame de Monsoreau — ­Tome 1. (Auteur: Alexandre Dumas, 95339 mots) [ID: gutenberg_9637]
+   2: La dame de Monsoreau — Tome 3. (Auteur: Alexandre Dumas, 81581 mots) [ID: gutenberg_9639]
+----------------------------------------
+• [96% de similarité]
+   1: La dame de Monsoreau — Tome 2. (Auteur: Alexandre Dumas, 92575 mots) [ID: gutenberg_9638]
+   2: La dame de Monsoreau — Tome 3. (Auteur: Alexandre Dumas, 81581 mots) [ID: gutenberg_9639]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 02 (Auteur: Adolphe Thiers, 105121 mots) [ID: gutenberg_9894]
+   2: Histoire de la Révolution française, Tome 01 (Auteur: Adolphe Thiers, 92361 mots) [ID: gutenberg_9945]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 02 (Auteur: Adolphe Thiers, 105121 mots) [ID: gutenberg_9894]
+   2: Histoire de la Révolution française, Tome 03 (Auteur: Adolphe Thiers, 86807 mots) [ID: gutenberg_10385]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 02 (Auteur: Adolphe Thiers, 105121 mots) [ID: gutenberg_9894]
+   2: Histoire de la Révolution française, Tome 04 (Auteur: Adolphe Thiers, 88559 mots) [ID: gutenberg_10678]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 02 (Auteur: Adolphe Thiers, 105121 mots) [ID: gutenberg_9894]
+   2: Histoire de la Révolution française, Tome 05 (Auteur: Adolphe Thiers, 88971 mots) [ID: gutenberg_10953]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 01 (Auteur: Adolphe Thiers, 92361 mots) [ID: gutenberg_9945]
+   2: Histoire de la Révolution française, Tome 03 (Auteur: Adolphe Thiers, 86807 mots) [ID: gutenberg_10385]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 01 (Auteur: Adolphe Thiers, 92361 mots) [ID: gutenberg_9945]
+   2: Histoire de la Révolution française, Tome 04 (Auteur: Adolphe Thiers, 88559 mots) [ID: gutenberg_10678]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 01 (Auteur: Adolphe Thiers, 92361 mots) [ID: gutenberg_9945]
+   2: Histoire de la Révolution française, Tome 05 (Auteur: Adolphe Thiers, 88971 mots) [ID: gutenberg_10953]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 03 (Auteur: Adolphe Thiers, 86807 mots) [ID: gutenberg_10385]
+   2: Histoire de la Révolution française, Tome 04 (Auteur: Adolphe Thiers, 88559 mots) [ID: gutenberg_10678]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 03 (Auteur: Adolphe Thiers, 86807 mots) [ID: gutenberg_10385]
+   2: Histoire de la Révolution française, Tome 05 (Auteur: Adolphe Thiers, 88971 mots) [ID: gutenberg_10953]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 04 (Auteur: Adolphe Thiers, 88559 mots) [ID: gutenberg_10678]
+   2: Histoire de la Révolution française, Tome 05 (Auteur: Adolphe Thiers, 88971 mots) [ID: gutenberg_10953]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 05 (Auteur: Adolphe Thiers, 88971 mots) [ID: gutenberg_10953]
+   2: Histoire de la Révolution française, Tome 06 (Auteur: Adolphe Thiers, 84853 mots) [ID: gutenberg_11423]
+----------------------------------------
+• [96% de similarité]
+   1: La belle Gabrielle — Tome 1 (Auteur: Auguste Maquet, 94995 mots) [ID: gutenberg_11300]
+   2: La belle Gabrielle — Tome 2 (Auteur: Auguste Maquet, 93415 mots) [ID: gutenberg_11678]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 06 (Auteur: Adolphe Thiers, 84853 mots) [ID: gutenberg_11423]
+   2: Histoire de la Révolution française, Tome 07 (Auteur: Adolphe Thiers, 83808 mots) [ID: gutenberg_11964]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 07 (Auteur: Adolphe Thiers, 83808 mots) [ID: gutenberg_11964]
+   2: Histoire de la Révolution française, Tome 09 (Auteur: Adolphe Thiers, 91603 mots) [ID: gutenberg_12258]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 07 (Auteur: Adolphe Thiers, 83808 mots) [ID: gutenberg_11964]
+   2: Histoire de la Révolution française, Tome 08 (Auteur: Adolphe Thiers, 94838 mots) [ID: gutenberg_12295]
+----------------------------------------
+• [98% de similarité]
+   1: Histoire de la Révolution française, Tome 09 (Auteur: Adolphe Thiers, 91603 mots) [ID: gutenberg_12258]
+   2: Histoire de la Révolution française, Tome 08 (Auteur: Adolphe Thiers, 94838 mots) [ID: gutenberg_12295]
+----------------------------------------
+• [97% de similarité]
+   1: Le péché de Monsieur Antoine, Tome 1 (Auteur: George Sand, 95381 mots) [ID: gutenberg_12367]
+   2: Le péché de Monsieur Antoine, Tome 2 (Auteur: George Sand, 51035 mots) [ID: gutenberg_12534]
+----------------------------------------
+• [97% de similarité]
+   1: Le nabab, tome I (Auteur: Alphonse Daudet, 66978 mots) [ID: gutenberg_12726]
+   2: Le nabab, tome II (Auteur: Alphonse Daudet, 68482 mots) [ID: gutenberg_12727]
+----------------------------------------
+• [99% de similarité]
+   1: Œuvres de Napoléon Bonaparte, Tome II. (Auteur: Emperor of the French Napoleon I, 129608 mots) [ID: gutenberg_12782]
+   2: Œuvres de Napoléon Bonaparte, Tome III. (Auteur: Emperor of the French Napoleon I, 141887 mots) [ID: gutenberg_12893]
+----------------------------------------
+• [77% de similarité]
+   1: Les Pardaillan — Tome 01 (Auteur: Michel Zévaco, 129096 mots) [ID: gutenberg_13207]
+   2: Les Pardaillan — Tome 03 : La Fausta (Auteur: Michel Zévaco, 114298 mots) [ID: gutenberg_13383]
+----------------------------------------
+• [98% de similarité]
+   1: Œuvres Complètes de Alfred de Musset — Tome 7. (Auteur: Alfred de Musset, 72492 mots) [ID: gutenberg_13221]
+   2: Œuvres Complètes de Alfred de Musset — Tome 6. (Auteur: Alfred de Musset, 83852 mots) [ID: gutenberg_13231]
+----------------------------------------
+• [77% de similarité]
+   1: Les Pardaillan — Tome 02 : L'épopée d'amour (Auteur: Michel Zévaco, 124032 mots) [ID: gutenberg_13339]
+   2: Les Pardaillan — Tome 03 : La Fausta (Auteur: Michel Zévaco, 114298 mots) [ID: gutenberg_13383]
+----------------------------------------
+• [77% de similarité]
+   1: Les Pardaillan — Tome 02 : L'épopée d'amour (Auteur: Michel Zévaco, 124032 mots) [ID: gutenberg_13339]
+   2: Les Pardaillan — Tome 06 : Les amours du Chico (Auteur: Michel Zévaco, 101769 mots) [ID: gutenberg_13727]
+----------------------------------------
+• [82% de similarité]
+   1: Les Pardaillan — Tome 03 : La Fausta (Auteur: Michel Zévaco, 114298 mots) [ID: gutenberg_13383]
+   2: Les Pardaillan — Tome 04 : Fausta Vaincue (Auteur: Michel Zévaco, 111706 mots) [ID: gutenberg_13523]
+----------------------------------------
+• [84% de similarité]
+   1: Les Pardaillan — Tome 03 : La Fausta (Auteur: Michel Zévaco, 114298 mots) [ID: gutenberg_13383]
+   2: Les Pardaillan — Tome 05 : Pardaillan et Fausta (Auteur: Michel Zévaco, 95952 mots) [ID: gutenberg_13524]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 1 (Auteur: George Sand, 83719 mots) [ID: gutenberg_13629]
+   2: Correspondance, 1812-1876 — Tome 2 (Auteur: George Sand, 87758 mots) [ID: gutenberg_13837]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 1 (Auteur: George Sand, 83719 mots) [ID: gutenberg_13629]
+   2: Correspondance, 1812-1876 — Tome 3 (Auteur: George Sand, 86748 mots) [ID: gutenberg_13838]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 1 (Auteur: George Sand, 83719 mots) [ID: gutenberg_13629]
+   2: Correspondance, 1812-1876 — Tome 5 (Auteur: George Sand, 84030 mots) [ID: gutenberg_13839]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 2 (Auteur: George Sand, 87758 mots) [ID: gutenberg_13837]
+   2: Correspondance, 1812-1876 — Tome 3 (Auteur: George Sand, 86748 mots) [ID: gutenberg_13838]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 2 (Auteur: George Sand, 87758 mots) [ID: gutenberg_13837]
+   2: Correspondance, 1812-1876 — Tome 5 (Auteur: George Sand, 84030 mots) [ID: gutenberg_13839]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 2 (Auteur: George Sand, 87758 mots) [ID: gutenberg_13837]
+   2: Correspondance, 1812-1876 — Tome 4 (Auteur: George Sand, 81409 mots) [ID: gutenberg_13875]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 3 (Auteur: George Sand, 86748 mots) [ID: gutenberg_13838]
+   2: Correspondance, 1812-1876 — Tome 5 (Auteur: George Sand, 84030 mots) [ID: gutenberg_13839]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 3 (Auteur: George Sand, 86748 mots) [ID: gutenberg_13838]
+   2: Correspondance, 1812-1876 — Tome 4 (Auteur: George Sand, 81409 mots) [ID: gutenberg_13875]
+----------------------------------------
+• [97% de similarité]
+   1: Correspondance, 1812-1876 — Tome 5 (Auteur: George Sand, 84030 mots) [ID: gutenberg_13839]
+   2: Correspondance, 1812-1876 — Tome 4 (Auteur: George Sand, 81409 mots) [ID: gutenberg_13875]
+----------------------------------------
+• [98% de similarité]
+   1: La reine Margot - Tome I (Auteur: Alexandre Dumas, 108289 mots) [ID: gutenberg_13856]
+   2: La reine Margot - Tome II (Auteur: Alexandre Dumas, 99452 mots) [ID: gutenberg_13857]
+----------------------------------------
+• [97% de similarité]
+   1: La Daniella, Vol. I. (Auteur: George Sand, 96950 mots) [ID: gutenberg_13917]
+   2: La Daniella, Vol. II. (Auteur: George Sand, 94362 mots) [ID: gutenberg_14038]
+----------------------------------------
+• [98% de similarité]
+   1: Le vicomte de Bragelonne, Tome I. (Auteur: Alexandre Dumas, 171363 mots) [ID: gutenberg_13947]
+   2: Le vicomte de Bragelonne, Tome II. (Auteur: Alexandre Dumas, 163244 mots) [ID: gutenberg_13948]
+----------------------------------------
+• [97% de similarité]
+   1: Le vicomte de Bragelonne, Tome I. (Auteur: Alexandre Dumas, 171363 mots) [ID: gutenberg_13947]
+   2: Le vicomte de Bragelonne, Tome III. (Auteur: Alexandre Dumas, 151976 mots) [ID: gutenberg_13949]
+----------------------------------------
+• [98% de similarité]
+   1: Le vicomte de Bragelonne, Tome II. (Auteur: Alexandre Dumas, 163244 mots) [ID: gutenberg_13948]
+   2: Le vicomte de Bragelonne, Tome III. (Auteur: Alexandre Dumas, 151976 mots) [ID: gutenberg_13949]
+----------------------------------------
+• [99% de similarité]
+   1: Le Livre des Mères et des Enfants, Tome I (Auteur: Marceline Desbordes-Valmore, 21328 mots) [ID: gutenberg_14258]
+   2: Le Livre des Mères et des Enfants, Tome II (Auteur: Marceline Desbordes-Valmore, 18854 mots) [ID: gutenberg_14310]
+----------------------------------------
+• [79% de similarité]
+   1: Les Mystères du Louvre (Auteur: Octave Féré, 162070 mots) [ID: gutenberg_39449]
+   2: Les mystères d'Udolphe (Auteur: Ann Ward Radcliffe, 156748 mots) [ID: gutenberg_43652]
+----------------------------------------
+• [89% de similarité]
+   1: Sodome et Gomorrhe - Deuxième partie (Auteur: Marcel Proust, 103887 mots) [ID: gutenberg_15075]
+   2: Sodome et Gomorrhe - Première partie (Auteur: Marcel Proust, 102583 mots) [ID: gutenberg_15288]
+----------------------------------------
+• [98% de similarité]
+   1: Le juif errant - Tome I (Auteur: Eugène Sue, 276793 mots) [ID: gutenberg_15295]
+   2: Le juif errant - Tome II (Auteur: Eugène Sue, 289207 mots) [ID: gutenberg_15296]
+----------------------------------------
+• [98% de similarité]
+   1: Mémoires pour servir à l'Histoire de mon temps (Tome 2) (Auteur: François Guizot, 130531 mots) [ID: gutenberg_15312]
+   2: Mémoires pour servir à l'Histoire de mon temps (Tome 3) (Auteur: François Guizot, 132239 mots) [ID: gutenberg_15433]
+----------------------------------------
+• [98% de similarité]
+   1: Mémoires pour servir à l'Histoire de mon temps (Tome 2) (Auteur: François Guizot, 130531 mots) [ID: gutenberg_15312]
+   2: Mémoires pour servir à l'Histoire de mon temps (Tome 4) (Auteur: François Guizot, 150256 mots) [ID: gutenberg_15635]
+----------------------------------------
+• [98% de similarité]
+   1: Mémoires pour servir à l'Histoire de mon temps (Tome 3) (Auteur: François Guizot, 132239 mots) [ID: gutenberg_15433]
+   2: Mémoires pour servir à l'Histoire de mon temps (Tome 4) (Auteur: François Guizot, 150256 mots) [ID: gutenberg_15635]
+----------------------------------------
+• [99% de similarité]
+   1: L'ingénieux hidalgo Don Quichotte de la Manche - Tome I (Auteur: Miguel de Cervantes Saavedra, 211397 mots) [ID: gutenberg_16066]
+   2: L'ingénieux hidalgo Don Quichotte de la Manche - Tome II (Auteur: Miguel de Cervantes Saavedra, 224649 mots) [ID: gutenberg_16067]
+----------------------------------------
+• [77% de similarité]
+   1: La conquête d'une cuisinière I
+Seul contre trois belles-mères (Auteur: Eugène Chavette, 75538 mots) [ID: gutenberg_16795]
+   2: La conquête d'une cuisinière II
+Le tombeur-des-crânes (Auteur: Eugène Chavette, 76732 mots) [ID: gutenberg_16796]
+----------------------------------------
+• [98% de similarité]
+   1: Le roman de la rose - Tome I (Auteur: de Lorris Guillaume, 94816 mots) [ID: gutenberg_16816]
+   2: Le roman de la rose - Tome II (Auteur: de Lorris Guillaume, 83344 mots) [ID: gutenberg_17140]
+----------------------------------------
+• [99% de similarité]
+   1: Paula Monti, Tome I
+ou L'Hôtel Lambert - histoire contemporaine (Auteur: Eugène Sue, 45714 mots) [ID: gutenberg_16875]
+   2: Paula Monti, Tome II
+ou L'Hôtel Lambert - histoire contemporaine (Auteur: Eugène Sue, 42730 mots) [ID: gutenberg_16876]
+----------------------------------------
+• [99% de similarité]
+   1: Antiquités d'Herculanum, Tome I. Peintures (Auteur: Tommaso Piroli, 11021 mots) [ID: gutenberg_17231]
+   2: Antiquités d'Herculanum, Tome II. Peintures (Auteur: Tommaso Piroli, 11861 mots) [ID: gutenberg_17232]
+----------------------------------------
+• [98% de similarité]
+   1: Antiquités d'Herculanum, Tome I. Peintures (Auteur: Tommaso Piroli, 11021 mots) [ID: gutenberg_17231]
+   2: Antiquités d'Herculanum, Tome III. Peintures (Auteur: Tommaso Piroli, 17030 mots) [ID: gutenberg_17233]
+----------------------------------------
+• [86% de similarité]
+   1: Antiquités d'Herculanum, Tome I. Peintures (Auteur: Tommaso Piroli, 11021 mots) [ID: gutenberg_17231]
+   2: Antiquités d'Herculanum, Tome IV. Bronzes (Auteur: Tommaso Piroli, 14275 mots) [ID: gutenberg_17234]
+----------------------------------------
+• [84% de similarité]
+   1: Antiquités d'Herculanum, Tome I. Peintures (Auteur: Tommaso Piroli, 11021 mots) [ID: gutenberg_17231]
+   2: Antiquités d'Herculanum, Tome V. Bronzes (Auteur: Tommaso Piroli, 14318 mots) [ID: gutenberg_17235]
+----------------------------------------
+• [79% de similarité]
+   1: Antiquités d'Herculanum, Tome I. Peintures (Auteur: Tommaso Piroli, 11021 mots) [ID: gutenberg_17231]
+   2: Antiquités d'Herculanum, Tome VI. Lampes et candélabres (Auteur: Tommaso Piroli, 20693 mots) [ID: gutenberg_17236]
+----------------------------------------
+• [99% de similarité]
+   1: Antiquités d'Herculanum, Tome II. Peintures (Auteur: Tommaso Piroli, 11861 mots) [ID: gutenberg_17232]
+   2: Antiquités d'Herculanum, Tome III. Peintures (Auteur: Tommaso Piroli, 17030 mots) [ID: gutenberg_17233]
+----------------------------------------
+• [85% de similarité]
+   1: Antiquités d'Herculanum, Tome II. Peintures (Auteur: Tommaso Piroli, 11861 mots) [ID: gutenberg_17232]
+   2: Antiquités d'Herculanum, Tome IV. Bronzes (Auteur: Tommaso Piroli, 14275 mots) [ID: gutenberg_17234]
+----------------------------------------
+• [83% de similarité]
+   1: Antiquités d'Herculanum, Tome II. Peintures (Auteur: Tommaso Piroli, 11861 mots) [ID: gutenberg_17232]
+   2: Antiquités d'Herculanum, Tome V. Bronzes (Auteur: Tommaso Piroli, 14318 mots) [ID: gutenberg_17235]
+----------------------------------------
+• [78% de similarité]
+   1: Antiquités d'Herculanum, Tome II. Peintures (Auteur: Tommaso Piroli, 11861 mots) [ID: gutenberg_17232]
+   2: Antiquités d'Herculanum, Tome VI. Lampes et candélabres (Auteur: Tommaso Piroli, 20693 mots) [ID: gutenberg_17236]
+----------------------------------------
+• [84% de similarité]
+   1: Antiquités d'Herculanum, Tome III. Peintures (Auteur: Tommaso Piroli, 17030 mots) [ID: gutenberg_17233]
+   2: Antiquités d'Herculanum, Tome IV. Bronzes (Auteur: Tommaso Piroli, 14275 mots) [ID: gutenberg_17234]
+----------------------------------------
+• [82% de similarité]
+   1: Antiquités d'Herculanum, Tome III. Peintures (Auteur: Tommaso Piroli, 17030 mots) [ID: gutenberg_17233]
+   2: Antiquités d'Herculanum, Tome V. Bronzes (Auteur: Tommaso Piroli, 14318 mots) [ID: gutenberg_17235]
+----------------------------------------
+• [77% de similarité]
+   1: Antiquités d'Herculanum, Tome III. Peintures (Auteur: Tommaso Piroli, 17030 mots) [ID: gutenberg_17233]
+   2: Antiquités d'Herculanum, Tome VI. Lampes et candélabres (Auteur: Tommaso Piroli, 20693 mots) [ID: gutenberg_17236]
+----------------------------------------
+• [99% de similarité]
+   1: Antiquités d'Herculanum, Tome IV. Bronzes (Auteur: Tommaso Piroli, 14275 mots) [ID: gutenberg_17234]
+   2: Antiquités d'Herculanum, Tome V. Bronzes (Auteur: Tommaso Piroli, 14318 mots) [ID: gutenberg_17235]
+----------------------------------------
+• [76% de similarité]
+   1: Antiquités d'Herculanum, Tome IV. Bronzes (Auteur: Tommaso Piroli, 14275 mots) [ID: gutenberg_17234]
+   2: Antiquités d'Herculanum, Tome VI. Lampes et candélabres (Auteur: Tommaso Piroli, 20693 mots) [ID: gutenberg_17236]
+----------------------------------------
+• [76% de similarité]
+   1: Antiquités d'Herculanum, Tome V. Bronzes (Auteur: Tommaso Piroli, 14318 mots) [ID: gutenberg_17235]
+   2: Antiquités d'Herculanum, Tome VI. Lampes et candélabres (Auteur: Tommaso Piroli, 20693 mots) [ID: gutenberg_17236]
+----------------------------------------
+• [81% de similarité]
+   1: Les misérables Tome I: Fantine (Auteur: Victor Hugo, 110070 mots) [ID: gutenberg_17489]
+   2: Les misérables Tome II: Cosette (Auteur: Victor Hugo, 95876 mots) [ID: gutenberg_17493]
+----------------------------------------
+• [81% de similarité]
+   1: Les misérables Tome I: Fantine (Auteur: Victor Hugo, 110070 mots) [ID: gutenberg_17489]
+   2: Les misérables Tome III: Marius (Auteur: Victor Hugo, 84816 mots) [ID: gutenberg_17494]
+----------------------------------------
+• [76% de similarité]
+   1: Les misérables Tome I: Fantine (Auteur: Victor Hugo, 110070 mots) [ID: gutenberg_17489]
+   2: Les misérables Tome V: Jean Valjean (Auteur: Victor Hugo, 103960 mots) [ID: gutenberg_17519]
+----------------------------------------
+• [80% de similarité]
+   1: Les misérables Tome II: Cosette (Auteur: Victor Hugo, 95876 mots) [ID: gutenberg_17493]
+   2: Les misérables Tome III: Marius (Auteur: Victor Hugo, 84816 mots) [ID: gutenberg_17494]
+----------------------------------------
+• [99% de similarité]
+   1: Le Négrier, Vol. I
+Aventures de mer (Auteur: Edouard Corbière, 24089 mots) [ID: gutenberg_17714]
+   2: Le Négrier, Vol. II
+Aventures de mer (Auteur: Edouard Corbière, 21273 mots) [ID: gutenberg_17715]
+----------------------------------------
+• [97% de similarité]
+   1: Le Négrier, Vol. I
+Aventures de mer (Auteur: Edouard Corbière, 24089 mots) [ID: gutenberg_17714]
+   2: Le Négrier, Vol. III
+Aventures de mer (Auteur: Edouard Corbière, 23759 mots) [ID: gutenberg_17716]
+----------------------------------------
+• [99% de similarité]
+   1: Le Négrier, Vol. II
+Aventures de mer (Auteur: Edouard Corbière, 21273 mots) [ID: gutenberg_17715]
+   2: Le Négrier, Vol. III
+Aventures de mer (Auteur: Edouard Corbière, 23759 mots) [ID: gutenberg_17716]
+----------------------------------------
+• [98% de similarité]
+   1: La femme du mort, Tome I (1897) (Auteur: Alexis Bouvier, 79961 mots) [ID: gutenberg_17738]
+   2: La femme du mort, Tome II (1897) (Auteur: Alexis Bouvier, 49423 mots) [ID: gutenberg_17739]
+----------------------------------------
+• [98% de similarité]
+   1: David Copperfield - Tome I (Auteur: Charles Dickens, 188292 mots) [ID: gutenberg_17868]
+   2: David Copperfield - Tome II (Auteur: Charles Dickens, 183499 mots) [ID: gutenberg_17869]
+----------------------------------------
+• [98% de similarité]
+   1: Barnabé Rudge, Tome I (Auteur: Charles Dickens, 143285 mots) [ID: gutenberg_17879]
+   2: Barnabé Rudge, Tome II (Auteur: Charles Dickens, 144819 mots) [ID: gutenberg_17880]
+----------------------------------------
+• [84% de similarité]
+   1: Fables de La Fontaine. Tome Premier (Auteur: Jean de La Fontaine, 6840 mots) [ID: gutenberg_17941]
+   2: Fables de La Fontaine. Tome Second (Auteur: Jean de La Fontaine, 4861 mots) [ID: gutenberg_17942]
+----------------------------------------
+• [98% de similarité]
+   1: La guerre et la paix, Tome I (Auteur: Tolstoy, Leo, graf, 1828-1910, 170028 mots) [ID: gutenberg_17949]
+   2: La guerre et la paix, Tome II (Auteur: Tolstoy, Leo, graf, 1828-1910, 146077 mots) [ID: gutenberg_17950]
+----------------------------------------
+• [96% de similarité]
+   1: La guerre et la paix, Tome I (Auteur: Tolstoy, Leo, graf, 1828-1910, 170028 mots) [ID: gutenberg_17949]
+   2: La guerre et la paix, Tome III (Auteur: Tolstoy, Leo, graf, 1828-1910, 152285 mots) [ID: gutenberg_17951]
+----------------------------------------
+• [98% de similarité]
+   1: La guerre et la paix, Tome II (Auteur: Tolstoy, Leo, graf, 1828-1910, 146077 mots) [ID: gutenberg_17950]
+   2: La guerre et la paix, Tome III (Auteur: Tolstoy, Leo, graf, 1828-1910, 152285 mots) [ID: gutenberg_17951]
+----------------------------------------
+• [98% de similarité]
+   1: Le comte de Monte-Cristo, Tome I (Auteur: Alexandre Dumas, 121579 mots) [ID: gutenberg_17989]
+   2: Le comte de Monte-Cristo, Tome II (Auteur: Alexandre Dumas, 118097 mots) [ID: gutenberg_17990]
+----------------------------------------
+• [97% de similarité]
+   1: Le comte de Monte-Cristo, Tome I (Auteur: Alexandre Dumas, 121579 mots) [ID: gutenberg_17989]
+   2: Le comte de Monte-Cristo, Tome III (Auteur: Alexandre Dumas, 111724 mots) [ID: gutenberg_17991]
+----------------------------------------
+• [98% de similarité]
+   1: Le comte de Monte-Cristo, Tome I (Auteur: Alexandre Dumas, 121579 mots) [ID: gutenberg_17989]
+   2: Le comte de Monte-Cristo, Tome IV (Auteur: Alexandre Dumas, 118770 mots) [ID: gutenberg_17992]
+----------------------------------------
+• [98% de similarité]
+   1: Le comte de Monte-Cristo, Tome II (Auteur: Alexandre Dumas, 118097 mots) [ID: gutenberg_17990]
+   2: Le comte de Monte-Cristo, Tome III (Auteur: Alexandre Dumas, 111724 mots) [ID: gutenberg_17991]
+----------------------------------------
+• [97% de similarité]
+   1: Le comte de Monte-Cristo, Tome II (Auteur: Alexandre Dumas, 118097 mots) [ID: gutenberg_17990]
+   2: Le comte de Monte-Cristo, Tome IV (Auteur: Alexandre Dumas, 118770 mots) [ID: gutenberg_17992]
+----------------------------------------

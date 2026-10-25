@@ -1,0 +1,162 @@
+// Orchestrateur du pipeline corpus — Nomad Pocket Library
+//
+// Pipeline (identique que la source soit un téléchargement distant ou un import local) :
+//   1. Lecture du manifest.json (ordre exact des segments + tailles + SHA-256 attendus).
+//   2. Pour chaque segment, dans l'ordre : obtention des octets (fetch ou File API).
+//   3. Vérification SHA-256 du segment brut (compressé) — abandon propre si mismatch.
+//   4. Décompression en flux (pako.Inflate + onData) : jamais tout le fichier décompressé
+//      en mémoire d'un coup, les octets produits sont écrits au fil de l'eau.
+//   5. Écriture en flux vers le stockage persistant (OPFS en priorité, IndexedDB en repli).
+//   6. Une fois les 20 (ou N) segments traités : lecture du fichier final et ouverture
+//      via le moteur SQLite (sql.js).
+//
+// Le thread principal pilote le sélecteur de fichiers (<input type="file">) : le Service
+// Worker n'intervient jamais dans l'import, conformément à la réalité des API navigateur.
+
+import * as pako from "pako";
+import type { CorpusManifest, ImportProgress, ImportStage } from "../types";
+import { sha256Hex } from "./crypto";
+import { openCorpusWriter, readCorpusBytes, kvSet, kvGet } from "./storage";
+import { openDatabase } from "./sqlite";
+
+export type ProgressCallback = (progress: ImportProgress) => void;
+
+const INSTALLED_MANIFEST_KEY = "corpus:installed-manifest";
+
+function makeProgressTracker(totalChunks: number, totalBytesCompressed: number, onProgress?: ProgressCallback) {
+  const log: string[] = [];
+  let bytesDone = 0;
+  function emit(stage: ImportStage, chunkIndex: number, message: string) {
+    log.push(`[${new Date().toLocaleTimeString()}] ${message}`);
+    onProgress?.({
+      stage,
+      chunkIndex,
+      totalChunks,
+      bytesDone,
+      bytesTotal: totalBytesCompressed,
+      message,
+      log: [...log],
+    });
+  }
+  return {
+    emit,
+    addBytes(n: number) {
+      bytesDone += n;
+    },
+  };
+}
+
+export async function fetchManifest(baseUrl: string): Promise<CorpusManifest> {
+  const res = await fetch(`${baseUrl}/manifest.json`, { cache: "no-store" });
+  if (!res.ok) throw new Error(`Impossible de récupérer le manifeste (${res.status})`);
+  return res.json();
+}
+
+/** Source générique d'un segment : renvoie ses octets bruts (compressés). */
+type ChunkSource = (chunkIndex: number, chunkName: string) => Promise<Uint8Array>;
+
+async function runPipeline(
+  manifest: CorpusManifest,
+  getChunk: ChunkSource,
+  onProgress?: ProgressCallback
+): Promise<void> {
+  const tracker = makeProgressTracker(manifest.nombre_chunks, manifest.taille_compresse_octets, onProgress);
+  const writer = await openCorpusWriter();
+
+  const inflator = new pako.Inflate();
+  const pendingOutputs: Uint8Array[] = [];
+  inflator.onData = (chunk: Uint8Array) => {
+    pendingOutputs.push(chunk);
+  };
+
+  try {
+    tracker.emit("fetching-manifest", 0, `Manifeste chargé : ${manifest.nombre_chunks} segments, ${manifest.taille_compresse_octets} octets compressés.`);
+
+    for (let i = 0; i < manifest.chunks.length; i++) {
+      const chunkMeta = manifest.chunks[i];
+      tracker.emit("downloading", i + 1, `Récupération du segment ${i + 1}/${manifest.chunks.length} (${chunkMeta.name})…`);
+      const bytes = await getChunk(i, chunkMeta.name);
+
+      tracker.emit("verifying", i + 1, `Vérification SHA-256 du segment ${chunkMeta.name}…`);
+      const hash = await sha256Hex(bytes);
+      if (hash !== chunkMeta.sha256) {
+        throw new Error(
+          `Intégrité compromise sur ${chunkMeta.name} : attendu ${chunkMeta.sha256.slice(0, 12)}…, obtenu ${hash.slice(0, 12)}…`
+        );
+      }
+      tracker.addBytes(bytes.length);
+
+      tracker.emit("decompressing", i + 1, `Décompression du segment ${chunkMeta.name}…`);
+      const isLast = i === manifest.chunks.length - 1;
+      inflator.push(bytes, isLast);
+      if (inflator.err) {
+        throw new Error(`Erreur de décompression (segment ${chunkMeta.name}) : ${inflator.msg}`);
+      }
+
+      tracker.emit("writing-storage", i + 1, `Écriture du segment décompressé en stockage persistant…`);
+      for (const out of pendingOutputs) {
+        await writer.write(out);
+      }
+      pendingOutputs.length = 0;
+    }
+
+    await writer.close();
+
+    tracker.emit("opening-db", manifest.nombre_chunks, "Ouverture de la base SQLite reconstituée…");
+    const fullBytes = await readCorpusBytes();
+    if (!fullBytes) throw new Error("La base reconstituée est introuvable après écriture.");
+    await openDatabase(fullBytes);
+
+    await kvSet(INSTALLED_MANIFEST_KEY, manifest);
+    tracker.emit("ready", manifest.nombre_chunks, `Corpus installé et prêt (${fullBytes.length} octets décompressés).`);
+  } catch (err) {
+    await writer.abort();
+    const message = err instanceof Error ? err.message : String(err);
+    tracker.emit("error", 0, `Échec de l'import : ${message}`);
+    throw err;
+  }
+}
+
+export async function downloadAndInstallCorpus(baseUrl: string, onProgress?: ProgressCallback): Promise<void> {
+  const manifest = await fetchManifest(baseUrl);
+  const getChunk: ChunkSource = async (_index, chunkName) => {
+    const res = await fetch(`${baseUrl}/${chunkName}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`Téléchargement échoué pour ${chunkName} (${res.status})`);
+    const buf = await res.arrayBuffer();
+    return new Uint8Array(buf);
+  };
+  await runPipeline(manifest, getChunk, onProgress);
+}
+
+/**
+ * Import local : l'utilisateur sélectionne lui-même les fichiers de segments via
+ * l'interface (input file piloté par le thread principal). On les réordonne selon
+ * le manifest fourni (qui peut lui-même être l'un des fichiers sélectionnés, ou être
+ * récupéré séparément) afin de garantir l'ordre exact des 20 segments.
+ */
+export async function importLocalFilesAndInstall(
+  manifest: CorpusManifest,
+  files: File[],
+  onProgress?: ProgressCallback
+): Promise<void> {
+  const byName = new Map(files.map((f) => [f.name, f]));
+  const getChunk: ChunkSource = async (_index, chunkName) => {
+    const file = byName.get(chunkName);
+    if (!file) throw new Error(`Segment manquant parmi les fichiers importés : ${chunkName}`);
+    const buf = await file.arrayBuffer();
+    return new Uint8Array(buf);
+  };
+  await runPipeline(manifest, getChunk, onProgress);
+}
+
+export async function getInstalledManifest(): Promise<CorpusManifest | undefined> {
+  return kvGet<CorpusManifest>(INSTALLED_MANIFEST_KEY);
+}
+
+/** Tente de réouvrir la base déjà installée (démarrage hors-ligne). */
+export async function reopenInstalledCorpus(): Promise<boolean> {
+  const bytes = await readCorpusBytes();
+  if (!bytes || bytes.length === 0) return false;
+  await openDatabase(bytes);
+  return true;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Nomad Pocket Library",
+  "short_name": "Nomad Library",
+  "description": "Liseuse PWA hors-ligne : catalogue de 5000+ œuvres du domaine public, lecture vocale et bibliothèque personnelle.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1b1c20",
+  "theme_color": "#1b1c20",
+  "lang": "fr",
+  "icons": [
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

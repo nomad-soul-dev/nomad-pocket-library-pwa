@@ -1,0 +1,713 @@
+=== ÉCHANTILLON DE 100 ŒUVRES SUR 4073 ===
+
+[001] ID: gutenberg_61357
+  Titre     : Coins de Paris
+  Auteur    : Cain, Georges, 1856-1919; Sardou, Victorien, 1831-1908 [Author of introduction, etc.]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 35910
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Paris (france)", "Description and travel", "Genre: Livre / Œuvre complète"]
+  Extrait   : _Georges Cain_  _Coins_  _de Paris_  PARIS  ERNEST FLAMMARION, ÉDITEUR  26, rue Racine, 26  Coins de Paris  OUVRAGES DU MÊME AUTEUR  _Couronnés par l'Académie française_   =Coins d...
+--------------------------------------------------------------------------------
+[002] ID: gutenberg_13938
+  Titre     : Discours prodigieux et espouventable de trois Espaignols et une Espagnolle,
+Magiciens et sorciers qui se faisoient porter par les diables, de ville en ville, avec leurs déclarations d'avoir fait mourir plusieurs personnes et bestail par leurs sorcillèges, et aussi d'avoir fait plusieurs dégats aux biens de la terre : Ensemble l'arrest prononcé contre eux par la Cour de Parlement de Bourdeaux, le Samedy 10. jour de Mars, 1610
+  Auteur    : Anonymous
+  Genre     : Livre / Recueil | Siècle: XVIIe siècle | Mots: 1796
+  Tags      : ["Livre / recueil", "Witchcraft", "Genre: Livre / Recueil"]
+  Extrait   : DICOURS PRODIGIEUX ET espouventable, de trois Espaignols & une Espagnolle, Magiciens & Sorciers, qui se faisoient porter par les diables, de ville en ville, avec leurs declarations...
+--------------------------------------------------------------------------------
+[003] ID: gutenberg_45979
+  Titre     : Les casseurs de bois
+  Auteur    : Corday, Michel, 1870-1937
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 33088
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "20th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Note de transcription  Les mots en italiques ont été _soulignés_. Merci de regarder les autres notes à la fin de cet ouvrage.  LES CASSEURS DE BOIS  OUVRAGES DU MÊME AUTEUR     DAN...
+--------------------------------------------------------------------------------
+[004] ID: gutenberg_70126
+  Titre     : Nêne
+  Auteur    : Pérochon, Ernest, 1885-1942; Chérau, Gaston, 1872-1937 [Author of introduction, etc.]
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 53248
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "20th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : ERNEST PÉROCHON    NÊNE    PRÉFACE DE GASTON CHÉRAU    PRIX GONCOURT 1920    PARIS   LIBRAIRIE PLON   PLON-NOURRIT et Cie, IMPRIMEURS-ÉDITEURS   8, RUE GARANCIÈRE.--6e    Tous droi...
+--------------------------------------------------------------------------------
+[005] ID: gutenberg_63267
+  Titre     : Dernières lettres d'un bon jeune homme à sa cousine Madeleine
+  Auteur    : About, Edmond, 1828-1885
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 73433
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French literature", "Genre: Livre / Œuvre complète"]
+  Extrait   : DERNIÈRES LETTRES   D'UN   BON JEUNE HOMME   A   SA COUSINE MADELEINE    RECUEILLIES ET MISES EN ORDRE   PAR   EDMOND ABOUT    PARIS   MICHEL LÉVY FRÈRES, LIBRAIRES ÉDITEURS   RUE ...
+--------------------------------------------------------------------------------
+[006] ID: gutenberg_18427
+  Titre     : Mon frère Yves
+  Auteur    : Loti, Pierre, 1850-1923
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 69115
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Fiction", "Genre: Livre / Œuvre complète", "Brittany (france)"]
+  Extrait   : Pierre Loti  MON FRÈRE YVES  (1889)  Table des matières  I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII. XIII. XIV. XV. XVI. XVII. XVIII. XIX. XX. XXI. XXII. XXIII. XXIV. XXV. XX...
+--------------------------------------------------------------------------------
+[007] ID: gutenberg_69561
+  Titre     : Mes Prisons
+  Auteur    : Pellico, Silvio, 1789-1854; Reynard, Francisque, 1835- [Translator]
+  Genre     : Livre / Œuvre complète | Siècle: XVIIIe siècle | Mots: 61085
+  Tags      : ["History", "Czech republic", "1859", "Forme: Roman & Récit", "Italy", "Pellico", "Genre: Livre / Œuvre complète", "1789"]
+  Extrait   : Prix: 95 centimes    LES MEILLEURS AUTEURS CLASSIQUES   Français et Étrangers    SILVIO PELLICO    MES PRISONS    Traduction de F. REYNARD    PARIS   ERNEST FLAMMARION, ÉDITEUR   2...
+--------------------------------------------------------------------------------
+[008] ID: gutenberg_15371
+  Titre     : Les mille et une nuits - Tome premier
+  Auteur    : Galland, Antoine, 1646-1715 [Translator]
+  Genre     : Livre / Recueil | Siècle: XVIIIe siècle | Mots: 142014
+  Tags      : ["Fairy tales", "Arab countries", "Livre / œuvre complète", "Livre / recueil", "Forme: Roman & Récit", "Tales", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Ebooks libres et gratuits; this text is also available at http://www.ebooksgratuits.com in Word format, Mobipocket Reader format, eReader format and Acrobat Reader form...
+--------------------------------------------------------------------------------
+[009] ID: gutenberg_69794
+  Titre     : De Pontoise à Stamboul
+  Auteur    : About, Edmond, 1828-1885
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 47732
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Balkan peninsula", "Istanbul (turkey)", "Description and travel", "Genre: Livre / Œuvre complète"]
+  Extrait   : DE PONTOISE   A STAMBOUL    LE GRAIN DE PLOMB   DANS LES RUINES--LES ŒUFS DE PAQUES   LE JARDIN DE MON GRAND’PÈRE--AU PETIT TRIANON   QUATRE DISCOURS    PAR   EDMOND ABOUT    PARIS...
+--------------------------------------------------------------------------------
+[010] ID: gutenberg_13727
+  Titre     : Les Pardaillan — Tome 06 : Les amours du Chico
+  Auteur    : Zévaco, Michel, 1860-1918
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 101769
+  Tags      : ["Livre / recueil", "Forme: Roman & Récit", "Knights and knighthood", "Fiction", "France", "Genre: Livre / Recueil"]
+  Extrait   : MICHEL ZÉVACO  LES PARDAILLAN  Les amours du Chico  I  LES IDÉES DE JUANA  Nous avons dit que Pardaillan, mettant à profit le temps pendant lequel les conjurés se retiraient, avait...
+--------------------------------------------------------------------------------
+[011] ID: gutenberg_64213
+  Titre     : Sésame et les lys: des trésors des rois, des jardins des reines
+  Auteur    : Ruskin, John, 1819-1900; Proust, Marcel, 1871-1922 [Translator]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 66773
+  Tags      : ["Books and reading", "Livre / œuvre complète", "Forme: Roman & Récit", "Social problems", "Women", "Great britain", "Conduct of life", "Genre: Livre / Œuvre complète"]
+  Extrait   : JOHN RUSKIN  SÉSAME ET LES LYS  DES TRÉSORS DES ROIS DES JARDINS DES REINES  TRADUCTION, NOTES ET PRÉFACE  PAR  MARCEL PROUST  PARIS  SOCIÉTÉ DU MERCURE DE FRANCE  XXVI, RUE DE CON...
+--------------------------------------------------------------------------------
+[012] ID: gutenberg_70094
+  Titre     : Itinéraires
+  Auteur    : Hémon, Louis, 1880-1913
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 10742
+  Tags      : ["French", "Livre / œuvre complète", "Novelists", "1913", "Biography", "1880", "Genre: Livre / Œuvre complète"]
+  Extrait   : LOUIS HÉMON    ITINÉRAIRES    PARIS   BERNARD GRASSET   61, rue des Saints-Pères, 61   1927  DU MÊME AUTEUR  MARIA CHAPDELAINE, roman (_Bernard Grasset, éditeur_).  LA BELLE QUE VO...
+--------------------------------------------------------------------------------
+[013] ID: wikisource_2549312
+  Titre     : 9
+  Auteur    : Alphonse Daudet
+  Genre     : Euvre littéraire / Poésie | Siècle: Moyen Âge / Ancien | Mots: 10576
+  Tags      : ["26). ◄  chute du jour portrait d’une femme", "1906 (p. 27", "Forme: Roman & Récit", "Éditeur", "1906 (p. 15", "1906 (p. 9", "1906 (p. 19", "Genre: Euvre littéraire / Poésie", "Madame alphonse daudet (julia daudet) au bord des terrasses : poésies alphonse lemerre", "Forme: Poésie & Vers", "1906 (p. 25"]
+  Extrait   : Full text of "Au bord des terrasses: poésies"        window.__realDefine = customElements.define.bind(customElements);       customElements.define = function() {         try {     ...
+--------------------------------------------------------------------------------
+[014] ID: gutenberg_49399
+  Titre     : Cours familier de Littérature - Volume 25
+  Auteur    : Lamartine, Alphonse de, 1790-1869
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 76681
+  Tags      : ["1900", "Livre / œuvre complète", "Forme: Roman & Récit", "French literature", "History and criticism", "Genre: Livre / Œuvre complète", "France", "1789"]
+  Extrait   : COURS FAMILIER   DE   LITTÉRATURE    REVUE MENSUELLE    XXV    PARIS.--TYPOGRAPHIE DE ROUGE FRÈRES; DUNON ET FRESNÉ   Rue du Four-Saint-Germain, 43.    COURS FAMILIER   DE   LITTÉR...
+--------------------------------------------------------------------------------
+[015] ID: gutenberg_12893
+  Titre     : Œuvres de Napoléon Bonaparte, Tome III.
+  Auteur    : Napoleon I, Emperor of the French, 1769-1821; Panckoucke, C. L. F. (Charles Louis Fleury), 1780-1844 [Editor]
+  Genre     : Livre / Recueil | Siècle: XVIIIe siècle | Mots: 141887
+  Tags      : ["History", "Livre / recueil", "Sources", "Genre: Livre / Recueil", "Forme: Roman & Récit", "1815", "France", "1789"]
+  Extrait   : OEUVRES DE  NAPOLÉON BONAPARTE.  TOME TROISIÈME.  MDCCCXXI.  EXPÉDITION D'ÉGYPTE.  (Suite)  Au quartier-général du mont Carmel, le 28 ventose an 7 (18 mars 1799.)  _Au général Reyn...
+--------------------------------------------------------------------------------
+[016] ID: gutenberg_55023
+  Titre     : Mémoires de Céleste Mogador, Volume 3
+  Auteur    : Chabrillan, Céleste Vénard de, comtesse, 1824-1909
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 60791
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Comtesse", "Actresses", "1909", "1824", "Genre: Livre / Œuvre complète", "France"]
+  Extrait   : MÉMOIRES      DE      CÉLESTE MOGADOR  Paris.--IMP. DE LA LIBRAIRIE NOUVELLE.--Bourdilliat, 15, rue Breda.      MÉMOIRES      DE      CÉLESTE      MOGADOR      TOME TROISIÈME      ...
+--------------------------------------------------------------------------------
+[017] ID: gutenberg_35525
+  Titre     : Charlotte de Bourbon, princesse d'Orange
+  Auteur    : Delaborde, Jules, comte, 1806-1889
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 116925
+  Tags      : ["1582", "Livre / œuvre complète", "Of bourbon", "Forme: Roman & Récit", "1548?", "Charlotte", "Genre: Livre / Œuvre complète", "Prince of orange"]
+  Extrait   : Produced by Hélène de Mink and the Online Distributed Proofreading Team at http://www.pgdp.net (This book was produced from scanned images of public domain material from the Google...
+--------------------------------------------------------------------------------
+[018] ID: gutenberg_8186
+  Titre     : Actes et Paroles, Volume 1
+  Auteur    : Victor Hugo
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 143004
+  Tags      : ["1900", "1802", "Forme: Roman & Récit", "1885", "Genre: Livre / Recueil", "Victor", "France", "1789"]
+  Extrait   : Produced by Carlo Traverso, Anne Dreze, Marc D'Hooghe and the Online Distributed Proofreading Team  OEUVRES COMPLETES DE VICTOR HUGO  ACTES ET PAROLES I  LE DROIT ET LA LOI  I  Tou...
+--------------------------------------------------------------------------------
+[019] ID: gutenberg_7812
+  Titre     : Delphine
+  Auteur    : Staël, Madame de (Anne-Louise-Germaine), 1766-1817
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 270957
+  Tags      : ["Livre / recueil", "Forme: Roman & Récit", "Epistolary fiction", "18th century", "Social conditions", "Fiction", "France", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Carlo Traverso, Charles Franks, and the Online Distributed Proofreading team. This file was produced from images generously made available by the Bibliothèque nationale...
+--------------------------------------------------------------------------------
+[020] ID: wikisource_22157
+  Titre     : Le Petit Chose
+  Auteur    : Alphonse Daudet
+  Genre     : Euvre littéraire / Poésie | Siècle: XXe siècle | Mots: 946
+  Tags      : ["Children's stories", "Euvre littéraire / poésie", "19th century", "French fiction", "Autobiographical fiction", "Young adult fiction", "Alphonse daudet le petit chose histoire d’un enfant hetzel", "Genre: Euvre littéraire / Poésie", "1868. table des matières première partie deuxième partie bookle petit chose histoire d’un", "Forme: Poésie & Vers"]
+  Extrait   : Full text of "ALPHONSE DAUDET//LE PETIT CHOSE HISTOIRE D'UN ENFANT//FASQUELLE//N°925//1974"        window.__realDefine = customElements.define.bind(customElements);       customEle...
+--------------------------------------------------------------------------------
+[021] ID: openlib_OL93833W
+  Titre     : Mademoiselle Fifi
+  Auteur    : Guy de Maupassant
+  Genre     : Livre / Poésie | Siècle: Moyen Âge / Ancien | Mots: 946
+  Tags      : ["Forme: Poésie & Vers", "Livre / poésie", "Genre: Livre / Poésie"]
+  Extrait   : Full text of "Mademoiselle fifi PArisian Adventures and Other Stories"        window.__realDefine = customElements.define.bind(customElements);       customElements.define = functi...
+--------------------------------------------------------------------------------
+[022] ID: gutenberg_18092
+  Titre     : Germaine
+  Auteur    : About, Edmond, 1828-1885
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 67648
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Carlo Traverso, Renald Levesque and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by the...
+--------------------------------------------------------------------------------
+[023] ID: gutenberg_44139
+  Titre     : Le Calvaire
+  Auteur    : Mirbeau, Octave, 1848-1917
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 73881
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "Social life and customs", "Fiction", "Genre: Livre / Œuvre complète", "France"]
+  Extrait   : LE CALVAIRE  PAR  OCTAVE MIRBEAU  AVEC UNE PRÉFACE DE L'AUTEUR  SEIZIÈME ÉDITION  PARIS  PAUL OLLENDORFF, ÉDITEUR  28 _bis_, RUE DE RICHELIEU, 28 _bis_  1887  A MON PÈRE  _Témoigna...
+--------------------------------------------------------------------------------
+[024] ID: gutenberg_56622
+  Titre     : Correspondance: Les lettres et les arts
+  Auteur    : Émile Zola
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 88864
+  Tags      : ["French", "Livre / œuvre complète", "Forme: Roman & Récit", "Novelists", "Émile", "19th century", "Correspondence", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Madeleine Fournier. Images provided by The Internet Archive.                                ÉMILE ZOLA                              CORRESPONDANCE                      ...
+--------------------------------------------------------------------------------
+[025] ID: gutenberg_7173
+  Titre     : Sur la pierre blanche
+  Auteur    : France, Anatole, 1844-1924
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 46518
+  Tags      : ["Livre / recueil", "Forme: Roman & Récit", "French fiction", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Carlo Traverso, Charles Franks and the Online Distributed Proofreading Team. is file was produced from images generously made available by the Bibliothèque nationale de...
+--------------------------------------------------------------------------------
+[026] ID: gutenberg_51237
+  Titre     : Au delà du présent...
+  Auteur    : Sienicka, Léonia
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 68665
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "20th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : NOTES SUR LA TRANSCRIPTION:  —Les erreurs clairement introduites par le typographe ont été  corrigées.  —On a conservé l’orthographie de l’original, incluant ses variantes.  —La ta...
+--------------------------------------------------------------------------------
+[027] ID: gutenberg_17916
+  Titre     : Les vaines tendresses
+Études et Portraits littéraires, premier série
+  Auteur    : Sully Prudhomme, 1839-1907
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 10688
+  Tags      : ["Livre / recueil", "French poetry", "19th century", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Renald Levesque and the Online Distributed Proofreading Team at http://dp.rastko.net. This file was produced from images generously made available by the Bibliothèque n...
+--------------------------------------------------------------------------------
+[028] ID: gutenberg_67620
+  Titre     : Le chemin de velours; Nouvelles dissociations d'idées
+  Auteur    : Gourmont, Remy de, 1858-1915
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 59360
+  Tags      : ["Forme: Roman & Récit", "French essays", "Livre / œuvre complète", "Genre: Livre / Œuvre complète"]
+  Extrait   : REMY DE GOURMONT    Le   Chemin de Velours    NOUVELLES DISSOCIATIONS D’IDÉES          Ni la contradiction n’est marque de fausseté,         ni l’incontradiction n’est marque de vé...
+--------------------------------------------------------------------------------
+[029] ID: gutenberg_61920
+  Titre     : 5
+  Auteur    : Louvet de Couvray, Jean-Baptiste, 1760-1797; Fournier, Hippolyte [Author of introduction, etc.]; Avril, Paul, 1849-1928 [Illustrator]
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 58928
+  Tags      : ["French", "Livre / œuvre complète", "Forme: Roman & Récit", "Erotic fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : LES AMOURS   DU CHEVALIER   DE FAUBLAS    TOME PREMIER    [Vignette: NON BENE QUI SEMPER AMAT]    _ÉDITION JOUAUST_    Paris, 1884    LES AMOURS   DU CHEVALIER   DE FAUBLAS    [Vig...
+--------------------------------------------------------------------------------
+[030] ID: gutenberg_66761
+  Titre     : Les Sèvriennes
+  Auteur    : Réval, Gabrielle, 1869-1938
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 73626
+  Tags      : ["French fiction", "Forme: Roman & Récit", "Livre / œuvre complète", "Genre: Livre / Œuvre complète"]
+  Extrait   : G. REVAL    Les   Sèvriennes    DIX-SEPTIÈME ÉDITION    PARIS   SOCIÉTÉ D’ÉDITIONS LITTÉRAIRES ET ARTISTIQUES   Librairie Paul Ollendorff   50, CHAUSSÉE D’ANTIN, 50    1907   Tous ...
+--------------------------------------------------------------------------------
+[031] ID: gutenberg_49398
+  Titre     : Cours familier de Littérature - Volume 24
+  Auteur    : Lamartine, Alphonse de, 1790-1869
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 108475
+  Tags      : ["1900", "Livre / œuvre complète", "Forme: Roman & Récit", "French literature", "History and criticism", "Genre: Livre / Œuvre complète", "France", "1789"]
+  Extrait   : COURS FAMILIER   DE   LITTÉRATURE    REVUE MENSUELLE    XXIV    COURS FAMILIER   DE   LITTÉRATURE    UN ENTRETIEN PAR MOIS    PAR   M. DE LAMARTINE    TOME VINGT-QUATRIÈME    PARIS...
+--------------------------------------------------------------------------------
+[032] ID: gutenberg_35200
+  Titre     : Vue générale de l'histoire politique de l'Europe
+  Auteur    : Lavisse, Ernest, 1842-1922
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 34735
+  Tags      : ["Europe", "History", "Livre / œuvre complète", "Forme: Roman & Récit", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Mireille Harmelin and the Online Distributed Proofreaders Europe at http://dp.rastko.net. This file was produced from images generously made available by the Bibliothèq...
+--------------------------------------------------------------------------------
+[033] ID: gutenberg_52611
+  Titre     : Le diable amoureux
+  Auteur    : Gérard de Nerval
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 40714
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Devil", "18th century", "French fiction", "Livre / poésie", "Fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Note sur la Transcription:  Les erreurs clairement introduites par le typographe ont été corrigées. Une liste d'autres corrections faites se trouve à la fin du livre. L'orthographe...
+--------------------------------------------------------------------------------
+[034] ID: gutenberg_38242
+  Titre     : Voyage en Égypte et en Syrie - Tome 1
+  Auteur    : Volney, C.-F. (Constantin-François), 1757-1820
+  Genre     : Livre / Œuvre complète | Siècle: XVIIIe siècle | Mots: 102714
+  Tags      : ["Volney", "Livre / œuvre complète", "Forme: Roman & Récit", "1820", "F. (constantin", "Travel", "Genre: Livre / Œuvre complète", "François)"]
+  Extrait   : Produced by Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images available at the Bibliothèque nationale de France (B...
+--------------------------------------------------------------------------------
+[035] ID: gutenberg_54952
+  Titre     : Chanteraine
+  Auteur    : Theuriet, André, 1833-1907
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 51972
+  Tags      : ["French fiction", "Forme: Roman & Récit", "Livre / œuvre complète", "Genre: Livre / Œuvre complète"]
+  Extrait   : Note sur la transcription: Les erreurs clairement introduites par le typographe ont été corrigées. L'orthographe d'origine a été conservée et n'a pas été harmonisée.  Chanteraine  ...
+--------------------------------------------------------------------------------
+[036] ID: gutenberg_20441
+  Titre     : Adieu à la France
+Sur l'embarquement du sieur de Poutrincourt et de son Équipage faisant voile en la terre de Canadas dicte la France Occidentalle
+  Auteur    : Lescarbot, Marc, 1570-1641
+  Genre     : Livre / Œuvre complète | Siècle: XVIIe siècle | Mots: 1171
+  Tags      : ["17th century", "French poetry", "Livre / œuvre complète", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Rénald Lévesque                             ADIEU A LA FRANCE               SUR L'EMBARQUEMENT DU SIEUR DE POUTRINCOURT                           ET DE SON ÉQUIPAGE    ...
+--------------------------------------------------------------------------------
+[037] ID: gutenberg_74823
+  Titre     : Aux pays du Soudan
+  Auteur    : Rivoyre, Denis de, 1837-1907; Martin-Chablis, Ernest [Illustrator]
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 65134
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Sudan", "Ethiopia", "Description and travel", "Genre: Livre / Œuvre complète"]
+  Extrait   : DENIS DE RIVOYRE    AUX   PAYS DU SOUDAN    BOGOS, MENSAH, SOUAKIM    DESSINS DE E. MARTIN-CHABLIS ET CARTE SPÉCIALE.    [Illustration]    PARIS   LIBRAIRIE PLON   E. PLON, NOURRIT...
+--------------------------------------------------------------------------------
+[038] ID: gutenberg_79298
+  Titre     : Les kolatiers & les noix de kola
+  Auteur    : Chevalier, Auguste, 1873-1956; Perrot, Em. (Emile), 1867-1951
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 160113
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Africa", "Genre: Livre / Œuvre complète", "Cola (genus)"]
+  Extrait   : LES VÉGÉTAUX UTILES                                    DE                      L’AFRIQUE TROPICALE FRANÇAISE                                 * * * * *                              ...
+--------------------------------------------------------------------------------
+[039] ID: gutenberg_4562
+  Titre     : Anatomie Du Mouvement: Poésie
+  Auteur    : Bertrand, Huguette, 1942-
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 2076
+  Tags      : ["Livre / recueil", "Forme: Poésie & Vers", "Poetry", "Genre: Livre / Recueil"]
+  Extrait   : Copyright (C) 2002 by Huguette Bertrand  Huguette Bertrand  ANATOMIE DU MOUVEMENT  poésie  Éditions En Marge  =========================================                             ...
+--------------------------------------------------------------------------------
+[040] ID: gutenberg_71331
+  Titre     : Œuvres complètes de Guy de Maupassant - volume 24
+  Auteur    : Guy de Maupassant
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 48055
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French literature", "Genre: Livre / Œuvre complète"]
+  Extrait   : Au lecteur    Cette version numérisée reproduit dans son intégralité la version   originale.    La ponctuation a pu faire l'objet de quelques corrections mineures.    L'orthographe...
+--------------------------------------------------------------------------------
+[041] ID: gutenberg_74599
+  Titre     : L'enfant taciturne
+  Auteur    : Magali-Boisnard, 1882-1945
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 29875
+  Tags      : ["Forme: Roman & Récit", "Genre: Livre / Œuvre complète", "Livre / œuvre complète", "Algerian fiction (french)"]
+  Extrait   : BIBLIOTHÈQUE DU HÉRISSON    MAGALI-BOISNARD    L’ENFANT   TACITURNE    ROMAN    AMIENS   LIBRAIRIE EDGAR MALFÈRE   7, RUE DELAMBRE, 7   (Dépôt à Paris, 1, rue Vavin, 6e arr.)    19...
+--------------------------------------------------------------------------------
+[042] ID: gutenberg_16812
+  Titre     : Le culte du moi 1: Sous l'oeil des barbares
+  Auteur    : Barrès, Maurice, 1862-1923
+  Genre     : Livre / Recueil | Siècle: XXe siècle | Mots: 31453
+  Tags      : ["Livre / recueil", "Forme: Roman & Récit", "19th century", "French fiction", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Marc D'Hooghe  From images generously made available by gallica (Bibliothèque nationale de France) at http://gallica.bnf.fr.         *       *       *       *       *  ...
+--------------------------------------------------------------------------------
+[043] ID: gutenberg_66483
+  Titre     : Un aventurier au XVIII siècle: Le chevalier d'Éon (1728-1810)
+  Auteur    : Homberg, Octave, 1876-1941; Jousselin, Fernand
+  Genre     : Livre / Œuvre complète | Siècle: XVIIIe siècle | Mots: 80708
+  Tags      : ["Livre / œuvre complète", "Eon de beaumont", "Forme: Roman & Récit", "1728", "Charles geneviève louis auguste andré timothée d'", "1810", "Genre: Livre / Œuvre complète"]
+  Extrait   : Au lecteur    Cette version numérisée reproduit dans son intégralité la version   originale.    La ponctuation n'a pas été modifiée hormis quelques corrections   mineures.    Les m...
+--------------------------------------------------------------------------------
+[044] ID: gutenberg_35657
+  Titre     : Eaux printanières
+  Auteur    : Turgenev, Ivan Sergeevich, 1818-1883; Delines, Michel, 1851-1914 [Translator]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 48817
+  Tags      : ["Livre / œuvre complète", "Translations into french", "Forme: Roman & Récit", "Genre: Livre / Œuvre complète", "Russian fiction", "Woman relationships", "Fiction", "First loves"]
+  Extrait   : Produced by Mireille Harmelin and the Online Distributed Proofreaders Europe at http://dp.rastko.net. This file was produced from images generously made available by the Bibliothèq...
+--------------------------------------------------------------------------------
+[045] ID: gutenberg_26823
+  Titre     : Michel Strogoff: Pièce à grand spectacle en 5 actes et 16 tableaux
+  Auteur    : Ennery, Adolphe d', 1811-1899; Verne, Jules, 1828-1905
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 19567
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Russia", "Drama", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Daniel Fromont  PRIX 50 CENTIMES  Tous droits de traduction et de reproduction réservés  J. HETZEL ET Cie, 18 RUE JACOB, PARIS  MICHEL STROGOFF  PIECE A GRAND SPECTACLE...
+--------------------------------------------------------------------------------
+[046] ID: gutenberg_20440
+  Titre     : Une Intrigante sous le règne de Frontenac
+  Auteur    : Caouette, J. B. (Jean Baptiste), 1854-1922
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 16988
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "Frontenac", "1707", "Louis de buade", "Comtesse de", "Fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Rénald Lévesque                              J.-B. Caouette                              Une Intrigante                       Sous le règne de Frontenac                ...
+--------------------------------------------------------------------------------
+[047] ID: gutenberg_16239
+  Titre     : Colomba
+  Auteur    : Mérimée, Prosper, 1803-1870
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 46356
+  Tags      : ["History", "Revenge", "Livre / recueil", "Forme: Roman & Récit", "19th century", "Murder", "Livre / poésie", "Fiction", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Ebooks libres et gratuits; this text is also available at http://www.ebooksgratuits.com  Prosper Mérimée COLOMBA (1840)  Table des matières  I II III IV V VI VII VIII I...
+--------------------------------------------------------------------------------
+[048] ID: gutenberg_58309
+  Titre     : Lettres d'un satyre
+  Auteur    : Gourmont, Remy de, 1858-1915; Vibert, P.-E. (Pierre-Eugène), 1875-1937 [Illustrator]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 19757
+  Tags      : ["French", "Satire", "Livre / œuvre complète", "Forme: Roman & Récit", "French literature", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Thanks to Carlo Traverso, Laurent Vogel and the Distributed Proofreading team at DP-test Italia. (This file was produced from images generously made available by the Bi...
+--------------------------------------------------------------------------------
+[049] ID: 797
+  Titre     : LE PREMIER RAYON DE MAI
+  Auteur    : Théophile Gautier
+  Genre     : Poésie | Siècle: Moyen Âge / Ancien | Mots: 308
+  Tags      : ["Poésie", "Forme: Poésie & Vers", "Nomad Poétique", "Genre: Poésie"]
+  Extrait   : Hier j'étais à table avec ma chère belle, Ses deux pieds sur les miens, assis en face d'elle, Dans sa petite chambre, ainsi que dans leur nid Deux ramiers bienheureux que le bon Di...
+--------------------------------------------------------------------------------
+[050] ID: gutenberg_71764
+  Titre     : La ténébreuse affaire de Green-Park
+  Auteur    : Galopin, Arnould, 1865-1934
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 34195
+  Tags      : ["Livre / œuvre complète", "Australia", "Forme: Roman & Récit", "Dickson", "Detective and mystery stories", "Allan (fictitious character)", "Fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : ARNOULD GALOPIN    La Ténébreuse   Affaire   de Green-Park    ALBIN MICHEL, ÉDITEUR   PARIS--22, RUE HUYGHENS, 22--PARIS  Il a été tiré de cet ouvrage: 20 exemplaires sur vergé pur...
+--------------------------------------------------------------------------------
+[051] ID: gutenberg_26809
+  Titre     : Le Rideau levé; ou l'Education de Laure
+  Auteur    : Mirabeau, Honoré-Gabriel de Riqueti, comte de, 1749-1791
+  Genre     : Livre / Œuvre complète | Siècle: XVIIIe siècle | Mots: 40666
+  Tags      : ["Forme: Roman & Récit", "Livre / œuvre complète", "Genre: Livre / Œuvre complète", "Erotic literature"]
+  Extrait   : Produced by Daniel Fromont  LES MAITRES DE L'AMOUR  L'oeuvre  du  Comte de Mirabeau  (...)  Le Rideau levé, ou l'Education de Laure  (...)  PARIS  BIBLIOTHEQUE DES CURIEUX  4, RUE ...
+--------------------------------------------------------------------------------
+[052] ID: gutenberg_13704
+  Titre     : L'homme à l'oreille cassée
+  Auteur    : About, Edmond, 1828-1885
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 56419
+  Tags      : ["Livre / recueil", "Genre: Livre / Recueil", "Forme: Roman & Récit", "Science fiction"]
+  Extrait   : L'HOMME À L'OREILLE CASSÉE gar Edmond About (1862)  Table des matières  À MADAME LA COMTESSE DE NAJAC. I -- Où l'on tue le veau gras pour fêter le retour d'un enfant économe. II --...
+--------------------------------------------------------------------------------
+[053] ID: gutenberg_13219
+  Titre     : Les Ordres De Chevalerie: les ordres serbes
+  Auteur    : Brasier, L. (Léon); Brunet, J. L. (J. Louis), 1870-
+  Genre     : Livre / Recueil | Siècle: XXe siècle | Mots: 6519
+  Tags      : ["History", "Livre / recueil", "Serbia", "Balkan peninsula", "Medals", "Decorations of honor", "Genre: Livre / Recueil"]
+  Extrait   : LES ORDRES DE CHEVALERIE LES ORDRES SERBES  PAR  L. BRASIER _Chevalier de la Légion d'honneur Rédacteur à la Grande Chancellerie de la Légion d'honneur_.  J.L. BRUNET _Commandeur d...
+--------------------------------------------------------------------------------
+[054] ID: gutenberg_29918
+  Titre     : Les Contemporains, Quatrième Série
+Etudes et Portraits Littéraires
+  Auteur    : Lemaître, Jules, 1853-1914
+  Genre     : Contes & Fables | Siècle: Moyen Âge / Ancien | Mots: 73227
+  Tags      : ["French", "Forme: Fables & Apologues", "Livre / œuvre complète", "Genre: Contes & Fables", "Forme: Roman & Récit", "Authors", "19th century", "French literature", "History and criticism"]
+  Extrait   : Produced by Mireille Harmelin, Christine P. Travers, Gallica - Bibliothèque Nationale de France and the Online Distributed Proofreading Team at https://www.pgdp.net  [Notes au lect...
+--------------------------------------------------------------------------------
+[055] ID: gutenberg_13400
+  Titre     : Conscience
+  Auteur    : Malot, Hector, 1830-1907
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 96415
+  Tags      : ["Physicians", "Livre / recueil", "Forme: Roman & Récit", "Paris (france)", "Fiction", "Genre: Livre / Recueil"]
+  Extrait   : CONSCIENCE  HECTOR MALOT  1888  PREMIÈRE PARTIE  I  Lorsque le bohème Crozat était sorti de la misère par un bon mariage qui le faisait bourgeois de la rue de Vaugirard, il n'avait...
+--------------------------------------------------------------------------------
+[056] ID: gutenberg_78903
+  Titre     : Histoire de l'idée laïque en France au XIXe siècle
+  Auteur    : Weill, Georges, 1865-1944
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 102081
+  Tags      : ["History", "Livre / œuvre complète", "Church history", "Forme: Roman & Récit", "19th century", "Church and state", "Genre: Livre / Œuvre complète", "France"]
+  Extrait   : Au lecteur    Cette version numérisée reproduit dans son intégralité la version   originale. Les erreurs manifestes de typographie ont été corrigées.    La ponctuation a pu faire l...
+--------------------------------------------------------------------------------
+[057] ID: gutenberg_77593
+  Titre     : Le livre de Olivier de Castille et de Artus d'Algarbe
+  Auteur    : Camuz, Filipe
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 45163
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "To 1500", "French literature", "Genre: Livre / Œuvre complète", "Romances"]
+  Extrait   : [Le livre de Olivier de Castille et de Artus d’Algarbe]  A la tressaincte et tresbienheureuse louenge et manificence de noustre sauveur jhesucrist Et de sa tresdoulce et tresglorie...
+--------------------------------------------------------------------------------
+[058] ID: gutenberg_27035
+  Titre     : Entrevistas
+  Auteur    : Lebert, Marie
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 151529
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "World wide web", "Internet", "Genre: Livre / Œuvre complète"]
+  Extrait   : ENTRETIENS / INTERVIEWS / ENTREVISTAS  © 2001 by Marie Lebert is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa...
+--------------------------------------------------------------------------------
+[059] ID: gutenberg_56990
+  Titre     : Un grand français du XVIIme siècle : Pierre Paul Riquet et le canal du Midi
+  Auteur    : Fernay, Jacques, 1842-1909
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 42610
+  Tags      : ["History", "Livre / œuvre complète", "Riquet de bonrepos", "Forme: Roman & Récit", "Canal du midi (france)", "1604", "Genre: Livre / Œuvre complète", "Paul"]
+  Extrait   : Produced by Claudine Corbasson, Christian Boissonnas and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made availab...
+--------------------------------------------------------------------------------
+[060] ID: gutenberg_19233
+  Titre     : Les opinions de M. Jérôme Coignard
+Recueillies par Jacques Tournebroche
+  Auteur    : France, Anatole, 1844-1924
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 42191
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Carlo Traverso, Eric Vautier and the Online Distributed Proofreaders Europe at http://dp.rastko.net. This file was produced from images generously made available by the...
+--------------------------------------------------------------------------------
+[061] ID: gutenberg_74721
+  Titre     : Du Niger au golfe de Guinée par le pays de Kong et le Mossi, tome 2 (de 2)
+  Auteur    : Binger, Louis Gustave, 1856-1936; Riou, Edouard, 1833-1900 [Illustrator]
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 145210
+  Tags      : ["French", "Speaking west", "Livre / œuvre complète", "Forme: Roman & Récit", "Niger", "Mali", "Africa", "Genre: Livre / Œuvre complète"]
+  Extrait   : =DU NIGER=                                    AU                            =GOLFE DE GUINÉE=                     PAR LE PAYS DE KONG ET LE MOSSI                                 * ...
+--------------------------------------------------------------------------------
+[062] ID: gutenberg_9893
+  Titre     : Le Comte Ory: Opéra en deux actes
+  Auteur    : Rossini, Gioacchino, 1792-1868 [Composer]; Delestre-Poirson, C.-G. (Charles-Gaspard), 1790-1859 [Librettist]; Scribe, Eugène, 1791-1861 [Librettist]
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 5920
+  Tags      : ["Livre / recueil", "Operas", "Librettos", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Vital Debroey, Renald Levesque and PG Distributed Proofreaders. This file was produced from images generously made available by the Bibliothèque nationale de France (Bn...
+--------------------------------------------------------------------------------
+[063] ID: gutenberg_68764
+  Titre     : Observations sur l'organisation des postes et messageries, présentées au Corps législatif
+  Auteur    : Pérez, Joachim de, 1759-1822?
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 3343
+  Tags      : ["Livre / œuvre complète", "1799", "Public", "Postal service", "1814. motion d'ordre sur l'organisation des postes et messageries", "1755", "Genre: Livre / Œuvre complète"]
+  Extrait   : Au lecteur    Cette version numérisée reproduit dans son intégralité la version   originale.    CORPS LÉGISLATIF.    OBSERVATIONS    _Sur l'organisation des Postes et Messageries_,...
+--------------------------------------------------------------------------------
+[064] ID: gutenberg_39325
+  Titre     : Mémoires du comte Reynier ... Campagne d'Égypte, deuxième partie
+  Auteur    : Reynier, Jean-Louis-Ebenézer, 1771-1814; Langlois, Isidore [Annotator]; Berthier, Louis-Alexandre, 1753-1815
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 100059
+  Tags      : ["History", "Livre / œuvre complète", "Napoleon i", "Forme: Roman & Récit", "1815", "1798", "1801", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Mireille Harmelin, Christine P. Travers and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made availabl...
+--------------------------------------------------------------------------------
+[065] ID: gutenberg_47712
+  Titre     : Les civilisés: Roman
+  Auteur    : Farrère, Claude, 1876-1957
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 65479
+  Tags      : ["French", "History", "Livre / œuvre complète", "Forme: Roman & Récit", "Indochina", "Fiction", "Genre: Livre / Œuvre complète", "France"]
+  Extrait   : LES CIVILISÉS  Par  CLAUDE FARRÈRE  ROMAN  OUVRAGE AYANT OBTENU LE PRIX GONCOURT EN 1905  QUARANTE-SIXIÈME ÉDITION  PARIS  SOCIÉTÉ D'ÉDITIONS LITTÉRAIRES ET ARTISTIQUES  _Librairie...
+--------------------------------------------------------------------------------
+[066] ID: gutenberg_14692
+  Titre     : Portraits littéraires, Tome III
+  Auteur    : Sainte-Beuve, Charles Augustin, 1804-1869
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 184516
+  Tags      : ["French", "Livre / recueil", "Forme: Roman & Récit", "Authors", "French literature", "History and criticism", "Genre: Livre / Recueil"]
+  Extrait   : PORTRAITS LITTÉRAIRES  1864  PAR  C.-A. SAINTE-BEUVE DE L'ACADÉMIE FRANÇAISE.  Nouvelle Édition revue et corrigée Tome III  THÉOCRITE, FRANÇOIS Ier POÈTE, LE CHEVALIER DE MÉBÉ, L'A...
+--------------------------------------------------------------------------------
+[067] ID: 1106
+  Titre     : CHANT DEUXIÈME
+  Auteur    : Alfred de Vigny
+  Genre     : Poésie | Siècle: Moyen Âge / Ancien | Mots: 1902
+  Tags      : ["Poésie", "Forme: Poésie & Vers", "Nomad Poétique", "Genre: Poésie"]
+  Extrait   : Souvent parmi les monts qui dominent la terre S’ouvre un puits naturel, profond et solitaire ; L’eau qui tombe du ciel s’y garde, obscur miroir Où, dans le jour, on voit les étoile...
+--------------------------------------------------------------------------------
+[068] ID: 319
+  Titre     : XXVI.
+Joies du soir
+  Auteur    : Victor Hugo
+  Genre     : Poésie | Siècle: Moyen Âge / Ancien | Mots: 422
+  Tags      : ["Poésie", "Forme: Poésie & Vers", "Nomad Poétique", "Genre: Poésie"]
+  Extrait   : Le soleil, dans les monts où sa clarté s’étale, Ajuste à son arc d’or sa flèche horizontale ; Les hauts taillis sont pleins de biches et de faons ; Là rit dans les rochers, veinés ...
+--------------------------------------------------------------------------------
+[069] ID: gutenberg_29843
+  Titre     : Les contemplations: Autrefois, 1830-1843
+  Auteur    : Victor Hugo
+  Genre     : Contes & Fables | Siècle: XIXe siècle | Mots: 36874
+  Tags      : ["Forme: Fables & Apologues", "Genre: Contes & Fables", "Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French poetry"]
+  Extrait   : Produced by Adrian Mastronardi, Rénald Lévesque and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by...
+--------------------------------------------------------------------------------
+[070] ID: gutenberg_78135
+  Titre     : Histoire poétique des Mérovingiens
+  Auteur    : Kurth, Godefroid, 1847-1916
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 174371
+  Tags      : ["History", "Merovingians", "Livre / œuvre complète", "Forme: Roman & Récit", "To 987", "Genre: Livre / Œuvre complète", "France"]
+  Extrait   : ﻿    HISTOIRE POÉTIQUE   DES   MÉROVINGIENS    PAR   GODEFROID KURTH   PROFESSEUR A L’UNIVERSITÉ DE LIÈGE    PARIS   ALPHONSE PICARD ET FILS, ÉDITEURS   82, Rue Bonaparte, 82    BR...
+--------------------------------------------------------------------------------
+[071] ID: gutenberg_50267
+  Titre     : V. Blasco Ibáñez, ses romans et le roman de sa vie
+  Auteur    : Pitollet, Camille, 1874-1964
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 90026
+  Tags      : ["Livre / œuvre complète", "Blasco ibáñez", "Forme: Roman & Récit", "Vicente", "1928", "1867", "Genre: Livre / Œuvre complète"]
+  Extrait   : V. BLASCO IBÁÑEZ                     SES ROMANS ET LE ROMAN DE SA VIE                          OUVRAGES DU MÊME AUTEUR       Contributions à l’étude de l’hispanisme de G.-E. Lessin...
+--------------------------------------------------------------------------------
+[072] ID: gutenberg_22016
+  Titre     : Vie de Benjamin Franklin, écrite par lui-même - Tome 2
+suivie de ses œuvres morales, politiques et littéraires
+  Auteur    : Franklin, Benjamin, 1706-1790; Castéra, Jean-Henri, 1749-1838 [Translator]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 64144
+  Tags      : ["Statesmen", "Benjamin", "Livre / œuvre complète", "Forme: Roman & Récit", "Franklin", "United states", "Genre: Livre / Œuvre complète", "1706"]
+  Extrait   : Produced by Carlo Traverso, Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by the ...
+--------------------------------------------------------------------------------
+[073] ID: gutenberg_77358
+  Titre     : L'heure sexuelle
+  Auteur    : Rachilde, 1860-1953
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 45395
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : RACHILDE    L’HEURE SEXUELLE   --ROMAN--    DIXIÈME ÉDITION    PARIS   SOCIÉTÉ DV MERCVRE DE FRANCE   XV, RVE DE L’ÉCHAVDÉ-SAINT-GERMAIN, XV    MCM   Tous droits réservés.  DU MÊME...
+--------------------------------------------------------------------------------
+[074] ID: gutenberg_60665
+  Titre     : Elpénor
+  Auteur    : Giraudoux, Jean, 1882-1944
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 13358
+  Tags      : ["Odysseus", "Livre / œuvre complète", "Fantasy fiction", "Elpenor (greek mythology)", "King of ithaca (mythological character)", "Fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : ELPÉNOR                   L’impression de ce volume tiré à 950                  exemplaires (1-950) a été achevée sous                  les presses de l’Imprimerie Durand, à       ...
+--------------------------------------------------------------------------------
+[075] ID: gutenberg_58801
+  Titre     : Essais de Montaigne (self-édition) - Volume III
+  Auteur    : Montaigne, Michel de, 1533-1592; Michaud [Translator]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 323816
+  Tags      : ["Forme: Roman & Récit", "French essays", "Livre / œuvre complète", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Claudine Corbasson and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by The Internet Arc...
+--------------------------------------------------------------------------------
+[076] ID: wikisource_4286507
+  Titre     : II.
+  Auteur    : Honoré de Balzac
+  Genre     : Euvre littéraire / Poésie | Siècle: Moyen Âge / Ancien | Mots: 954
+  Tags      : ["D’apprentissage bookhonoré de balzacferdinand brunetièrecalmann", "Éditeur1906 (5e éd.)parisvla portée sociale du roman de balzacbrunetière", "1906 (5e éd.) (p. 282", "Honoré de balzac", "Éditeur", "Éditeur1906 (5e éd.)parisvles années d’apprentissagebrunetière", "1906.djvubrunetière", "Genre: Euvre littéraire / Poésie", "Lévy", "Forme: Poésie & Vers"]
+  Extrait   : Full text of "The Unpublished Correspondence of Honore De Balzac and Madame Zulma Carraud"        window.__realDefine = customElements.define.bind(customElements);       customElem...
+--------------------------------------------------------------------------------
+[077] ID: gutenberg_78405
+  Titre     : D'Archangel au golfe Persique
+  Auteur    : Zavie, Émile, 1884-1943
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 72768
+  Tags      : ["French", "Livre / œuvre complète", "Russia (federation)", "Forme: Roman & Récit", "Personal narratives", "Middle east", "1918", "Genre: Livre / Œuvre complète"]
+  Extrait   : ÉMILE ZAVIE    D’ARCHANGEL   AU GOLFE PERSIQUE    AVENTURES DE CINQUANTE   FRANÇAIS EN PERSE    LE ROMAN   FRANÇAIS   D’AUJOURD’HUI    PARIS   A LA CITÉ DES LIVRES   27, RUE SAINT-...
+--------------------------------------------------------------------------------
+[078] ID: gutenberg_41872
+  Titre     : Le Peuple de la mer
+  Auteur    : Elder, Marc, 1884-1933
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 58354
+  Tags      : ["French", "Livre / œuvre complète", "Sea stories", "Forme: Roman & Récit", "20th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images available at the BibliothÃ¨que nationale de France (...
+--------------------------------------------------------------------------------
+[079] ID: gutenberg_53279
+  Titre     : Collection complète des oeuvres de l'Abbé de Mably, Volume 1 (of 15)
+  Auteur    : Mably, Gabriel Bonnot de, 1709-1785; Brizard, Gabriel, -1793 [Contributor]; Arnoux, Guillaume [Editor]
+  Genre     : Livre / Œuvre complète | Siècle: XVIIIe siècle | Mots: 102351
+  Tags      : ["History", "Livre / œuvre complète", "Forme: Roman & Récit", "Political science", "Philosophy", "Genre: Livre / Œuvre complète", "Law"]
+  Extrait   : Au lecteur.      Ce livre électronique reproduit intégralement le texte original,     et l’orthographe d’origine a été conservée. Seules les erreurs     clairement introduites par ...
+--------------------------------------------------------------------------------
+[080] ID: gutenberg_17736
+  Titre     : La Vita Nuova (La Vie Nouvelle)
+  Auteur    : Dante Alighieri, 1265-1321; Durand Fardel, Max. (Maxime), 1815-1899 [Translator]
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 38742
+  Tags      : ["Translations into french", "Livre / recueil", "Forme: Roman & Récit", "Italian literature", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Marc D'Hooghe.  LA VITA NUOVA  (La Vie Nouvelle)  PAR  DANTE ALIGHIERI  TRADUCTION ACCOMPAGNÉE DE COMMENTAIRES  par  MAX DURAND FARDEL  PARIS  1898  A M. CHARLES DEJOB ...
+--------------------------------------------------------------------------------
+[081] ID: gutenberg_66845
+  Titre     : La Guerre est morte: roman
+  Auteur    : Delluc, Louis, 1890-1924; Wegener, Gerda, 1886-1940 [Illustrator]
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 38102
+  Tags      : ["1914", "Livre / œuvre complète", "Forme: Roman & Récit", "1918", "World war", "Fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : LOUIS DELLUC    La   Guerre est morte    ROMAN    DEUXIÈME MILLE    PARIS   L’ÉDITION   4, RUE DE FURSTENBERG, 4    1917   Tous droits réservés  DU MÊME AUTEUR      _Monsieur de Be...
+--------------------------------------------------------------------------------
+[082] ID: gutenberg_70954
+  Titre     : Trois femmes
+  Auteur    : Mille, Pierre, 1864-1941
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 43493
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "20th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : PIERRE MILLE    TROIS FEMMES    PARIS   CALMANN-LÉVY, ÉDITEURS   3, RUE AUBER, 3      Il a été tiré de cet ouvrage     CINQ CENTS EXEMPLAIRES SUR PAPIER VÉLIN DU MARAIS     tous nu...
+--------------------------------------------------------------------------------
+[083] ID: gutenberg_17240
+  Titre     : Le chasseur d'ours
+  Auteur    : Buet, Charles, 1846-1897
+  Genre     : Livre / Recueil | Siècle: Moyen Âge / Ancien | Mots: 5801
+  Tags      : ["Livre / recueil", "Genre: Livre / Recueil", "Hunting stories"]
+  Extrait   : Produced by Carlo Traverso, Renald Levesque and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by th...
+--------------------------------------------------------------------------------
+[084] ID: gutenberg_63174
+  Titre     : L'occasion perdue recouverte
+  Auteur    : Pierre Corneille
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 19540
+  Tags      : ["Livre / œuvre complète", "17th century", "Forme: Roman & Récit", "French poetry", "Genre: Livre / Œuvre complète"]
+  Extrait   : Au lecteur.      L'orthographe d'origine a été conservée et n'a pas été     harmonisée, mais quelques erreurs clairement introduites par le     typographe ou à l'impression ont été...
+--------------------------------------------------------------------------------
+[085] ID: gutenberg_36510
+  Titre     : La vie infernale
+1. Pascale et Marguerite; 2. Lia d'Argelès
+  Auteur    : Gaboriau, Emile, 1832-1873
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 229847
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Chuck Greif, Broward Public Libraries and the Online Distributed Proofreading Team at http://www.pgdp.net (This book was produced from scanned images of public domain m...
+--------------------------------------------------------------------------------
+[086] ID: gutenberg_72702
+  Titre     : Nos frères farouches
+  Auteur    : Renard, Jules, 1864-1910
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 28884
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "20th century", "French fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : JULES RENARD    NOS FRÈRES   FAROUCHES    nrf   5e Édition    GALLIMARD  Copyright by Librairie Gallimard, Paris  Tous droits de reproduction, de traduction et d’adaptation réservé...
+--------------------------------------------------------------------------------
+[087] ID: gutenberg_21277
+  Titre     : La vie et la mort du roi Richard II
+  Auteur    : Shakespeare, William, 1564-1616; Guizot, François, 1787-1874 [Translator]
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 29989
+  Tags      : ["Livre / œuvre complète", "Historical drama", "Forme: Roman & Récit", "Richard ii", "Drama", "1400", "1399", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Paul Murray, Rénald Lévesque and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by the B...
+--------------------------------------------------------------------------------
+[088] ID: wikisource_1717453
+  Titre     : Les Avadânas, contes et apologues indiens
+  Auteur    : Auteur Classique
+  Genre     : FABLES | Siècle: Patrimoine Classique | Mots: 1472
+  Tags      : ["Forme: Fables & Apologues", "Découverte Ciblée", "Genre: FABLES"]
+  Extrait   : Les Avadânas, contes et apologues indiens - Wikisource (function(){var className="client-js minerva-badge-clientpref-0 skin-theme-clientpref-day mf-expand-sections-clientpref-0 mf-...
+--------------------------------------------------------------------------------
+[089] ID: gutenberg_12459
+  Titre     : Contes et poésies de Prosper Jourdan: 1854-1866
+  Auteur    : Jourdan, Prosper, 1840-1866
+  Genre     : Contes & Fables | Siècle: XIXe siècle | Mots: 33356
+  Tags      : ["Forme: Fables & Apologues", "Genre: Contes & Fables", "Livre / recueil", "Forme: Roman & Récit", "Poetry", "Short stories", "Forme: Poésie & Vers"]
+  Extrait   : CONTES ET POÉSIES  DE  PROSPER JOURDAN  --1854-1866--  ROSINE ET ROSETTE  LÉONE  POÉSIES DIVERSES  QUELQUES PAGES D'UN LIVRE  NOTES AU CRAYON  PARIS  SEPTEMBRE 1866  A  PROSPER JOU...
+--------------------------------------------------------------------------------
+[090] ID: gutenberg_78141
+  Titre     : Secrets d'État
+  Auteur    : Bernard, Tristan, 1866-1947
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 48468
+  Tags      : ["French", "Thrillers (fiction)", "Livre / œuvre complète", "Forme: Roman & Récit", "Foreign countries", "Fiction", "Genre: Livre / Œuvre complète"]
+  Extrait   : Tristan BERNARD    Secrets d’État    PARIS   ÉDITION DU “MONDE ILLUSTRÉ”   13, quai Voltaire, 13    1908  OUVRAGES DU MÊME AUTEUR    Mémoires d’un Jeune Homme rangé (roman), biblio...
+--------------------------------------------------------------------------------
+[091] ID: gutenberg_18106
+  Titre     : Lettres de Marie Bashkirtseff
+Préface de François Coppée
+  Auteur    : Bashkirtseff, Marie, 1860?-1884; Coppée, François, 1842-1908 [Commentator]
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 37412
+  Tags      : ["Livre / œuvre complète", "1884", "Marie", "Forme: Roman & Récit", "Russia", "1860", "Correspondence", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Mireille Harmelin and the Online Distributed Proofreaders Europe at http://dp.rastko.net. This file was produced from images generously made available by the Bibliothèq...
+--------------------------------------------------------------------------------
+[092] ID: gutenberg_79075
+  Titre     : De l'emploi du temps
+  Auteur    : Genlis, Stéphanie Félicité, comtesse de, 1746-1830
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 55991
+  Tags      : ["Time management", "Time", "Livre / œuvre complète", "Forme: Roman & Récit", "Self", "Religious aspects", "Genre: Livre / Œuvre complète", "Culture"]
+  Extrait   : DE L’EMPLOI   DU TEMPS.    Par Mme la Comtesse de GENLIS.          On se plaint que le temps ait fui,         Il faut qu’il pèse ou qu’il échappe.             Le Mière.          _L...
+--------------------------------------------------------------------------------
+[093] ID: gutenberg_13654
+  Titre     : Ida et Carmelita
+  Auteur    : Malot, Hector, 1830-1907
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 60856
+  Tags      : ["Livre / recueil", "Forme: Roman & Récit", "19th century", "French fiction", "Genre: Livre / Recueil"]
+  Extrait   : OEUVRES COMPLÈTES D'HECTOR MALOT  [Illustration]  IDA  ET  CARMELITA  PAR  HECTOR MALOT  AVERTISSEMENT  _M. Hector Malot qui a fait paraître, le 20 mai 1859, son premier roman «LES...
+--------------------------------------------------------------------------------
+[094] ID: gutenberg_38618
+  Titre     : La Liberté et le Déterminisme
+  Auteur    : Fouillée, Alfred, 1838-1912
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 151198
+  Tags      : ["Forme: Roman & Récit", "Free will and determinism", "Livre / œuvre complète", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Mireille Harmelin, Hélène de Mink, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by...
+--------------------------------------------------------------------------------
+[095] ID: gutenberg_61075
+  Titre     : Pelléas et Mélisande: Drame lyrique en cinq actes
+Tiré du théâtre de Maurice Maeterlinck; Musique de Claude Debussy
+  Auteur    : Debussy, Claude, 1862-1918 [Composer]; Maeterlinck, Maurice, 1862-1949
+  Genre     : Livre / Œuvre complète | Siècle: XXe siècle | Mots: 9762
+  Tags      : ["Livre / œuvre complète", "Librettos", "Forme: Théâtre & Dramaturgie", "Operas", "Genre: Livre / Œuvre complète"]
+  Extrait   : Nouvelle édition, modifiée conformément aux   représentations de l'Opéra-Comique    PELLÉAS   ET   MÉLISANDE    DRAME LYRIQUE EN CINQ ACTES   TIRÉ DU THÉÂTRE DE   MAURICE MAETERLIN...
+--------------------------------------------------------------------------------
+[096] ID: gutenberg_76638
+  Titre     : La Légende des siècles tome III
+  Auteur    : Victor Hugo
+  Genre     : Livre / Œuvre complète | Siècle: Moyen Âge / Ancien | Mots: 42407
+  Tags      : ["Livre / œuvre complète", "Forme: Roman & Récit", "19th century", "French poetry", "Genre: Livre / Œuvre complète"]
+  Extrait   : Au lecteur    Cette version numérisée reproduit dans son intégralité la version   originale. Les erreurs manifestes de typographie ont été corrigées.    La ponctuation a pu faire l...
+--------------------------------------------------------------------------------
+[097] ID: gutenberg_28370
+  Titre     : 19)
+I L'Europe meridionale (Grèce, Turquie, Roumanie, Serbie, Italie, Espagne et Portugal)
+  Auteur    : Reclus, Elisée, 1830-1905
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 330325
+  Tags      : ["Europe", "Livre / œuvre complète", "Forme: Roman & Récit", "Geography", "Southern", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Carlo Traverso, Rénald Lévesque and the Online Distributed Proofreaders Europe at http://dp.rastko.net. This file was produced from images generously made available by ...
+--------------------------------------------------------------------------------
+[098] ID: gutenberg_16848
+  Titre     : Numa Roumestan: Moeurs Parisiennes
+  Auteur    : Alphonse Daudet
+  Genre     : Livre / Recueil | Siècle: XIXe siècle | Mots: 80563
+  Tags      : ["History", "Forme: Roman & Récit", "19th century", "Social classes", "1870", "Woman relationships", "Fiction", "Genre: Livre / Recueil"]
+  Extrait   : Produced by Ebooks libres et gratuits (Walter, Michèle, Coolmicro and Fred); this text is also available at http://www.ebooksgratuits.com  Alphonse Daudet  NUMA ROUMESTAN  Moeurs P...
+--------------------------------------------------------------------------------
+[099] ID: gutenberg_28788
+  Titre     : Jeux et exercices des jeunes filles
+  Auteur    : Du Parquet, Marguerite, active 19th century; Fath, Georges, 1818-1900 [Illustrator]
+  Genre     : Livre / Œuvre complète | Siècle: XIXe siècle | Mots: 48498
+  Tags      : ["Livre / œuvre complète", "Games", "Forme: Roman & Récit", "Young women", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Laurent Vogel, Rénald Lévesque, Linda Cantoni (partitions et fichiers audio) and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produce...
+--------------------------------------------------------------------------------
+[100] ID: gutenberg_27809
+  Titre     : Mémoires de Frédérique Sophie Wilhelmine de Prusse, margrave de Bareith. Tome 2
+  Auteur    : Wilhelmine, Margravine, consort of Friedrich, Margrave of Bayreuth, 1709-1758
+  Genre     : Livre / Œuvre complète | Siècle: XVIIIe siècle | Mots: 90074
+  Tags      : ["1740", "Livre / œuvre complète", "Forme: Roman & Récit", "1758", "Prussia (germany)", "1713", "1709", "Genre: Livre / Œuvre complète"]
+  Extrait   : Produced by Mireille Harmelin, Rénald Lévesque and the Online Distributed Proofreaders Europe at http://dp.rastko.net. This file was produced from images generously made available ...
+--------------------------------------------------------------------------------
