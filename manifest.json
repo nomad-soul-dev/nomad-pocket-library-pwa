@@ -1,1486 +1,1883 @@
 {
-  "total_oeuvres": 4073,
-  "total_parts": 185,
-  "parts": [
-    {
-      "filename": "corpus_part_01.bin",
-      "name": "corpus_part_01.bin",
-      "fichier": "corpus_part_01.bin",
-      "size": 3058762,
-      "sha256": "fea60c30bff5c7fe7e3e447defd3698d221a54bffb0a6e20440f06913768602b",
-      "count": 23
-    },
-    {
-      "filename": "corpus_part_02.bin",
-      "name": "corpus_part_02.bin",
-      "fichier": "corpus_part_02.bin",
-      "size": 3137987,
-      "sha256": "8434cec9166b0c3c02d01ef7ab0dea724c817f21aa9c6c1e2c3801634beb9208",
-      "count": 37
-    },
-    {
-      "filename": "corpus_part_03.bin",
-      "name": "corpus_part_03.bin",
-      "fichier": "corpus_part_03.bin",
-      "size": 2943014,
-      "sha256": "d87877a6ffdb1abb6995221d7c8a4b03ac77f37ae26e47f9a7738c73c3e21737",
-      "count": 22
-    },
-    {
-      "filename": "corpus_part_04.bin",
-      "name": "corpus_part_04.bin",
-      "fichier": "corpus_part_04.bin",
-      "size": 3038890,
-      "sha256": "829fe83cb650fda3b2dfce866c1167583edd08780e2121564e2959b424428dec",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_05.bin",
-      "name": "corpus_part_05.bin",
-      "fichier": "corpus_part_05.bin",
-      "size": 3113687,
-      "sha256": "fcc77a21ae4d3ced252250bd8f534bb24cc9cc2fe88bf6c1fefac68e560bdf38",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_06.bin",
-      "name": "corpus_part_06.bin",
-      "fichier": "corpus_part_06.bin",
-      "size": 2883802,
-      "sha256": "2c02e945fe2e514f0994fc38416116fa7f38ba1f7adab3ab432744eb92361b53",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_07.bin",
-      "name": "corpus_part_07.bin",
-      "fichier": "corpus_part_07.bin",
-      "size": 2955196,
-      "sha256": "9e2f597af1de1c35d9c969fd950cffdb7f5a222f76aff5f4c97bf0dc70c0bd34",
-      "count": 13
-    },
-    {
-      "filename": "corpus_part_08.bin",
-      "name": "corpus_part_08.bin",
-      "fichier": "corpus_part_08.bin",
-      "size": 3130580,
-      "sha256": "ecd8bdb926f9654540daf629c6a058058d87447f839153bfcc614aa88d8a80d5",
-      "count": 13
-    },
-    {
-      "filename": "corpus_part_09.bin",
-      "name": "corpus_part_09.bin",
-      "fichier": "corpus_part_09.bin",
-      "size": 2997285,
-      "sha256": "ed18c60f942beec0a6b8a0e4c442081c5b2d5448620260205ad3bf5ed87e06d6",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_10.bin",
-      "name": "corpus_part_10.bin",
-      "fichier": "corpus_part_10.bin",
-      "size": 3142475,
-      "sha256": "cb4a57fa5023bc0ed5920106232908b5de76d0779bbd7a0c611942751ce5705d",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_11.bin",
-      "name": "corpus_part_11.bin",
-      "fichier": "corpus_part_11.bin",
-      "size": 3090662,
-      "sha256": "c6dc70d56c6d186605f0cdfeba656a7863d8e04097920ea2dbeeed14a88c1869",
-      "count": 28
-    },
-    {
-      "filename": "corpus_part_12.bin",
-      "name": "corpus_part_12.bin",
-      "fichier": "corpus_part_12.bin",
-      "size": 3095862,
-      "sha256": "65b27e622f8034d03ccddcd9c14c3b1caf211c6316c309d442ab9f3430c4607a",
-      "count": 23
-    },
-    {
-      "filename": "corpus_part_13.bin",
-      "name": "corpus_part_13.bin",
-      "fichier": "corpus_part_13.bin",
-      "size": 2890586,
-      "sha256": "2c01fc4af4b6f3a34750eeae7d231f73b2b7f5b6651d0aa27fcb46d47eeb0101",
-      "count": 25
-    },
-    {
-      "filename": "corpus_part_14.bin",
-      "name": "corpus_part_14.bin",
-      "fichier": "corpus_part_14.bin",
-      "size": 3102179,
-      "sha256": "94c4d39e8dc72f7fa5230481d5fc96f20fb63cecb04f04df95a58a74542c72de",
-      "count": 18
-    },
-    {
-      "filename": "corpus_part_15.bin",
-      "name": "corpus_part_15.bin",
-      "fichier": "corpus_part_15.bin",
-      "size": 3085469,
-      "sha256": "10611debc307618b45a71285860ba21fae1fd6b83ad6bae91b063f8e55878e20",
-      "count": 25
-    },
-    {
-      "filename": "corpus_part_16.bin",
-      "name": "corpus_part_16.bin",
-      "fichier": "corpus_part_16.bin",
-      "size": 3018385,
-      "sha256": "3e6e0c6ea70017d38508bca90bd6c2f05aa42e04b2a790129d37dacc918bc182",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_17.bin",
-      "name": "corpus_part_17.bin",
-      "fichier": "corpus_part_17.bin",
-      "size": 3128469,
-      "sha256": "2ab4da8ef8ac5b70b378e89d7a67f508205d294eab0323bf76126df98e2f0999",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_18.bin",
-      "name": "corpus_part_18.bin",
-      "fichier": "corpus_part_18.bin",
-      "size": 3025069,
-      "sha256": "db7911f11ff751bc88801c82bc03f2cc5611c947c7a0cf09b29e438e9cc4d6c0",
-      "count": 30
-    },
-    {
-      "filename": "corpus_part_19.bin",
-      "name": "corpus_part_19.bin",
-      "fichier": "corpus_part_19.bin",
-      "size": 3030009,
-      "sha256": "17c010e46d90251b832ba67798fbedf90012eb13cfe6028d71f99597bc00f301",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_20.bin",
-      "name": "corpus_part_20.bin",
-      "fichier": "corpus_part_20.bin",
-      "size": 2954611,
-      "sha256": "add8ce0221e822f5e063d8d1493dd775dc29b4a36bf1e733f3975949d5732c44",
-      "count": 18
-    },
-    {
-      "filename": "corpus_part_21.bin",
-      "name": "corpus_part_21.bin",
-      "fichier": "corpus_part_21.bin",
-      "size": 3060879,
-      "sha256": "5b43f4b4b74323c0b73d36cf6e900340ce6bf5139f14f6431c4bfb57d46695d0",
-      "count": 18
-    },
-    {
-      "filename": "corpus_part_22.bin",
-      "name": "corpus_part_22.bin",
-      "fichier": "corpus_part_22.bin",
-      "size": 3108427,
-      "sha256": "34eb7d047dafdcbd400191466b082a2cabbbd04fd3d898fe980969e3d18359e6",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_23.bin",
-      "name": "corpus_part_23.bin",
-      "fichier": "corpus_part_23.bin",
-      "size": 2763431,
-      "sha256": "11520f9f8675794881a5d18b53b3c2215edb2e8b6834e1f184a58840f87a0c8d",
-      "count": 7
-    },
-    {
-      "filename": "corpus_part_24.bin",
-      "name": "corpus_part_24.bin",
-      "fichier": "corpus_part_24.bin",
-      "size": 3126884,
-      "sha256": "e3fdc8ffa0a2fab509e121e0bb81a3a114951780aa0d754d8828e8f35dcbf2a5",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_25.bin",
-      "name": "corpus_part_25.bin",
-      "fichier": "corpus_part_25.bin",
-      "size": 3114045,
-      "sha256": "25de5264433a6bd1834303ff221c86ceee465ebfad92fa5549be0020f1cfa5ee",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_26.bin",
-      "name": "corpus_part_26.bin",
-      "fichier": "corpus_part_26.bin",
-      "size": 3038327,
-      "sha256": "28597dbf623346fb5cf6a607b0286aa3c2a876040c8a1282b2b030547d639a88",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_27.bin",
-      "name": "corpus_part_27.bin",
-      "fichier": "corpus_part_27.bin",
-      "size": 2985580,
-      "sha256": "c0810f1c69e8c564bf5a4194b92830c90c846f1997caacc06ae7d973e5d6d2c8",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_28.bin",
-      "name": "corpus_part_28.bin",
-      "fichier": "corpus_part_28.bin",
-      "size": 2877731,
-      "sha256": "4ffee27a8f2cd18eed787a95c83c8518cb53fa551d1dad30cb4f8c331f46b24f",
-      "count": 14
-    },
-    {
-      "filename": "corpus_part_29.bin",
-      "name": "corpus_part_29.bin",
-      "fichier": "corpus_part_29.bin",
-      "size": 3065103,
-      "sha256": "93d2d529cbe2c2ee3b0db375f80756b0bde98ec528e0cfbbbcc2541843bdd9fd",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_30.bin",
-      "name": "corpus_part_30.bin",
-      "fichier": "corpus_part_30.bin",
-      "size": 2979292,
-      "sha256": "9acbb6f8ef957dbc307e8464a5ff383219097a0220abb0b408af3ad7cf42d952",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_31.bin",
-      "name": "corpus_part_31.bin",
-      "fichier": "corpus_part_31.bin",
-      "size": 3010757,
-      "sha256": "34e6e3b301b9b9daa9ed6b0a3ab92edf1764a1aff4f615c9c849e27b0d7c3170",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_32.bin",
-      "name": "corpus_part_32.bin",
-      "fichier": "corpus_part_32.bin",
-      "size": 3077302,
-      "sha256": "2d49ac009949150f94e8a298373104dcbd12783ca40d07e1e8d0d97ccf157aee",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_33.bin",
-      "name": "corpus_part_33.bin",
-      "fichier": "corpus_part_33.bin",
-      "size": 3003219,
-      "sha256": "355cff4df5e0f57622ab092409e61994aa02c3969ba35003749485dca60d5bcc",
-      "count": 24
-    },
-    {
-      "filename": "corpus_part_34.bin",
-      "name": "corpus_part_34.bin",
-      "fichier": "corpus_part_34.bin",
-      "size": 3034427,
-      "sha256": "9cedb8ff85bc59c72363802a1b4515315931a10ee7b06db55f2afa9487bda5fa",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_35.bin",
-      "name": "corpus_part_35.bin",
-      "fichier": "corpus_part_35.bin",
-      "size": 2943402,
-      "sha256": "86726ff80cb8cc3747c9d3b5bca0a99678633990c14a9cecbbf4f8a807a7f074",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_36.bin",
-      "name": "corpus_part_36.bin",
-      "fichier": "corpus_part_36.bin",
-      "size": 2721033,
-      "sha256": "288e32dcdacbea357093c9bcdb6af3a6f8bd5e26261f634c459d239bb41fd06f",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_37.bin",
-      "name": "corpus_part_37.bin",
-      "fichier": "corpus_part_37.bin",
-      "size": 2915919,
-      "sha256": "ce882d24b6c94e6541787e575cb4e454ff349a5d44401961007fa8670d88d2c6",
-      "count": 14
-    },
-    {
-      "filename": "corpus_part_38.bin",
-      "name": "corpus_part_38.bin",
-      "fichier": "corpus_part_38.bin",
-      "size": 3063924,
-      "sha256": "01bfd46cc6f88471acd075947b3cf906f1eea70b0b7d566cf0c4aa3c8e89c3e9",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_39.bin",
-      "name": "corpus_part_39.bin",
-      "fichier": "corpus_part_39.bin",
-      "size": 3018985,
-      "sha256": "56d533b246924cd8797bcf3cd36dfd037bfe793b3c11e63aaf0b3d3fc6152cc8",
-      "count": 25
-    },
-    {
-      "filename": "corpus_part_40.bin",
-      "name": "corpus_part_40.bin",
-      "fichier": "corpus_part_40.bin",
-      "size": 3040471,
-      "sha256": "4f6cb75e5f5a5512e93d5c80807505fbd71f6d851804cc7376852dbd926be75b",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_41.bin",
-      "name": "corpus_part_41.bin",
-      "fichier": "corpus_part_41.bin",
-      "size": 3080973,
-      "sha256": "7e4a604d8b9b928aa3039c9e5cbe23c119808d36c2c8b76f8ecdc3c93a386350",
-      "count": 22
-    },
-    {
-      "filename": "corpus_part_42.bin",
-      "name": "corpus_part_42.bin",
-      "fichier": "corpus_part_42.bin",
-      "size": 2947755,
-      "sha256": "b199ff7d5fc3ad692401a06beb108386e4709f82184baa75a33efc1bf161a355",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_43.bin",
-      "name": "corpus_part_43.bin",
-      "fichier": "corpus_part_43.bin",
-      "size": 3036279,
-      "sha256": "4def6eef6a58191edf4848454b1f9d371fb2206b31a22d2bf91230d04b37bc3a",
-      "count": 13
-    },
-    {
-      "filename": "corpus_part_44.bin",
-      "name": "corpus_part_44.bin",
-      "fichier": "corpus_part_44.bin",
-      "size": 3125568,
-      "sha256": "83d53ca2606286472351f497a73784287c8253deaf38974848ea7cbb91359cbd",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_45.bin",
-      "name": "corpus_part_45.bin",
-      "fichier": "corpus_part_45.bin",
-      "size": 3085299,
-      "sha256": "6c2b4575bbe6582681454da070579cb41de5aa5f1abf24174f540a9f6ed5b7a7",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_46.bin",
-      "name": "corpus_part_46.bin",
-      "fichier": "corpus_part_46.bin",
-      "size": 3023644,
-      "sha256": "562ec9723eecd178b5f14c704dcdb63944f49f5f4ed2f5623bd0f0639d6aacea",
-      "count": 22
-    },
-    {
-      "filename": "corpus_part_47.bin",
-      "name": "corpus_part_47.bin",
-      "fichier": "corpus_part_47.bin",
-      "size": 2998565,
-      "sha256": "59cab3ae15983497157753491ef856cb0227cda9d95a901a710bb7f789388a94",
-      "count": 26
-    },
-    {
-      "filename": "corpus_part_48.bin",
-      "name": "corpus_part_48.bin",
-      "fichier": "corpus_part_48.bin",
-      "size": 3092737,
-      "sha256": "6f0af98e596b2e3f2ff35eadca1b262330091ad460c46d3cae54f87acf866a03",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_49.bin",
-      "name": "corpus_part_49.bin",
-      "fichier": "corpus_part_49.bin",
-      "size": 2934334,
-      "sha256": "03b7ffe5e20ebc8cb65fecc9786b5045042b7e6a2f6ddfc51b7a2887a696ed6d",
-      "count": 23
-    },
-    {
-      "filename": "corpus_part_50.bin",
-      "name": "corpus_part_50.bin",
-      "fichier": "corpus_part_50.bin",
-      "size": 2916159,
-      "sha256": "232df6eefc2921c3640c66fb7172b0f3ffb162258292165b4f9a6a95b6f7f75c",
-      "count": 18
-    },
-    {
-      "filename": "corpus_part_51.bin",
-      "name": "corpus_part_51.bin",
-      "fichier": "corpus_part_51.bin",
-      "size": 3105771,
-      "sha256": "2ba80ef260fb1e17cf9d61c57a182967416d9e64a4551fc0984bd5a58aeb0982",
-      "count": 23
-    },
-    {
-      "filename": "corpus_part_52.bin",
-      "name": "corpus_part_52.bin",
-      "fichier": "corpus_part_52.bin",
-      "size": 3000292,
-      "sha256": "d6a8c6fce3db7dec31c76c7b84a7b0492fbed50ae76efea3d1c23a53dde55b46",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_53.bin",
-      "name": "corpus_part_53.bin",
-      "fichier": "corpus_part_53.bin",
-      "size": 2862116,
-      "sha256": "2f90cdbb8522f1e8c2d4986eff5e361108df811c97c2db4fd8cc085a8db26e95",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_54.bin",
-      "name": "corpus_part_54.bin",
-      "fichier": "corpus_part_54.bin",
-      "size": 3142757,
-      "sha256": "40d00b281971c28c002ff3295975e62e25f9ca2516fe08f524e447420179d6ac",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_55.bin",
-      "name": "corpus_part_55.bin",
-      "fichier": "corpus_part_55.bin",
-      "size": 3138694,
-      "sha256": "e15542b7d4bf756ce33783b4eed823412f3aae8209a1c063e3260f1e783199db",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_56.bin",
-      "name": "corpus_part_56.bin",
-      "fichier": "corpus_part_56.bin",
-      "size": 3004711,
-      "sha256": "db1b2af3544acbc006e945e45ffd8bb97d1ed0a462afdb27046e95cdc7583957",
-      "count": 26
-    },
-    {
-      "filename": "corpus_part_57.bin",
-      "name": "corpus_part_57.bin",
-      "fichier": "corpus_part_57.bin",
-      "size": 3060237,
-      "sha256": "19f76a6cf53c0107265fffd9d9b74807bc6fa99880245118a3f1fa458b171bec",
-      "count": 28
-    },
-    {
-      "filename": "corpus_part_58.bin",
-      "name": "corpus_part_58.bin",
-      "fichier": "corpus_part_58.bin",
-      "size": 2944467,
-      "sha256": "7433e3804dbae36868f6f7d60140f0c4f4dad6d96af62d2f870457ef41ed652c",
-      "count": 25
-    },
-    {
-      "filename": "corpus_part_59.bin",
-      "name": "corpus_part_59.bin",
-      "fichier": "corpus_part_59.bin",
-      "size": 3109673,
-      "sha256": "63b9d2b78aa5685fd277858d48ba7ebdfcf5112f9b24e02a26c9b648876ad1d0",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_60.bin",
-      "name": "corpus_part_60.bin",
-      "fichier": "corpus_part_60.bin",
-      "size": 3124377,
-      "sha256": "dc284bf679f34a1606aec20f54457d3af88dc324cdea3fb040e3f1f1a0a4f281",
-      "count": 23
-    },
-    {
-      "filename": "corpus_part_61.bin",
-      "name": "corpus_part_61.bin",
-      "fichier": "corpus_part_61.bin",
-      "size": 3140826,
-      "sha256": "3406026bd4bffe99519df03181d53179a7bb59ad3f195e7dc251f5c6b4d27cb4",
-      "count": 26
-    },
-    {
-      "filename": "corpus_part_62.bin",
-      "name": "corpus_part_62.bin",
-      "fichier": "corpus_part_62.bin",
-      "size": 3126071,
-      "sha256": "593f6054e07119a1a3dcc333e3d9479cdb978d6ceabda205d052cb10d2dc084a",
-      "count": 24
-    },
-    {
-      "filename": "corpus_part_63.bin",
-      "name": "corpus_part_63.bin",
-      "fichier": "corpus_part_63.bin",
-      "size": 3145090,
-      "sha256": "4b0e6a3b002909be7e2cd222bf7b5e01f0056b7d6e09265adbb9fca2e839751c",
-      "count": 31
-    },
-    {
-      "filename": "corpus_part_64.bin",
-      "name": "corpus_part_64.bin",
-      "fichier": "corpus_part_64.bin",
-      "size": 2997835,
-      "sha256": "f519f80ebe00b5f2faf75d53db485119b97e5caf4c4d5ba278dca36b23083f13",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_65.bin",
-      "name": "corpus_part_65.bin",
-      "fichier": "corpus_part_65.bin",
-      "size": 3068765,
-      "sha256": "233275ec2ed91bbd978f356b16f701253d528780fd3ced8e071849b3dae08108",
-      "count": 10
-    },
-    {
-      "filename": "corpus_part_66.bin",
-      "name": "corpus_part_66.bin",
-      "fichier": "corpus_part_66.bin",
-      "size": 3063361,
-      "sha256": "9813a43cf4b59b7924d30ce9189a87a4745fb27bb17521b09cd320fc01294669",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_67.bin",
-      "name": "corpus_part_67.bin",
-      "fichier": "corpus_part_67.bin",
-      "size": 3119665,
-      "sha256": "88b0616ace03765cf016f3223e016afe4c49fa71fc2fbea726b4b38085304cbe",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_68.bin",
-      "name": "corpus_part_68.bin",
-      "fichier": "corpus_part_68.bin",
-      "size": 3107716,
-      "sha256": "799ed3de3210d733f301ace0cd51d2a64f523c310e86607f3d03992a357359e8",
-      "count": 25
-    },
-    {
-      "filename": "corpus_part_69.bin",
-      "name": "corpus_part_69.bin",
-      "fichier": "corpus_part_69.bin",
-      "size": 3082233,
-      "sha256": "849758c3cef93294fb19f011ab465450e864675b628b59561d477a4d52c706ac",
-      "count": 30
-    },
-    {
-      "filename": "corpus_part_70.bin",
-      "name": "corpus_part_70.bin",
-      "fichier": "corpus_part_70.bin",
-      "size": 3073472,
-      "sha256": "2441c266d2d6c0fc3590c272f410ca02b753dc74d194f09c9ad7859b59847cc9",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_71.bin",
-      "name": "corpus_part_71.bin",
-      "fichier": "corpus_part_71.bin",
-      "size": 3129122,
-      "sha256": "4d505f1a4bf86b50910a3ac4f3a03117d948ad172896cc84019ce9eaf5982a33",
-      "count": 18
-    },
-    {
-      "filename": "corpus_part_72.bin",
-      "name": "corpus_part_72.bin",
-      "fichier": "corpus_part_72.bin",
-      "size": 3141340,
-      "sha256": "ceeb1f97529ef8e10e1dd836e605d673a34ab5410dd2c77bd2067e5d30b8b66b",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_73.bin",
-      "name": "corpus_part_73.bin",
-      "fichier": "corpus_part_73.bin",
-      "size": 2882791,
-      "sha256": "e9528178a8bd6de95f95f47975ba7c045c3d82c213dcc94e7ec09be1ca187d6f",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_74.bin",
-      "name": "corpus_part_74.bin",
-      "fichier": "corpus_part_74.bin",
-      "size": 3044664,
-      "sha256": "0e1fe288fa0723b39e7a5516ff1b235a48c89b24130acf975af5a9fb5866e79b",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_75.bin",
-      "name": "corpus_part_75.bin",
-      "fichier": "corpus_part_75.bin",
-      "size": 2649437,
-      "sha256": "ae86d3ef8e1c43bb0c59040a00a3a9feb1296ab80e0a3452be89c367805f8e1f",
-      "count": 10
-    },
-    {
-      "filename": "corpus_part_76.bin",
-      "name": "corpus_part_76.bin",
-      "fichier": "corpus_part_76.bin",
-      "size": 2978737,
-      "sha256": "84cea3d0ca2eb9fb9cbde9de79feeab5b69a1fecb72ee0c1d39d128836c150d8",
-      "count": 18
-    },
-    {
-      "filename": "corpus_part_77.bin",
-      "name": "corpus_part_77.bin",
-      "fichier": "corpus_part_77.bin",
-      "size": 3055801,
-      "sha256": "1b8b2c95ac2ecc011543a1e930df5fa160580423104088b969268749923bf8f6",
-      "count": 14
-    },
-    {
-      "filename": "corpus_part_78.bin",
-      "name": "corpus_part_78.bin",
-      "fichier": "corpus_part_78.bin",
-      "size": 3068008,
-      "sha256": "07bb1d71665825066b5f9ed5c72e184cd15f87b1ce0e503065b3da5089d92ba5",
-      "count": 27
-    },
-    {
-      "filename": "corpus_part_79.bin",
-      "name": "corpus_part_79.bin",
-      "fichier": "corpus_part_79.bin",
-      "size": 3076064,
-      "sha256": "dd6a4b0ffa7fe8c141a74d7e47a75712bfb81c96ef3741e702f4cab6aa84643a",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_80.bin",
-      "name": "corpus_part_80.bin",
-      "fichier": "corpus_part_80.bin",
-      "size": 3070767,
-      "sha256": "af8bf64065ae90f21d9e6ede6d8d7a8f237e3063431122b3a2c51ee24e627bf4",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_81.bin",
-      "name": "corpus_part_81.bin",
-      "fichier": "corpus_part_81.bin",
-      "size": 2977697,
-      "sha256": "c64050e88ee26cf9a0e3b0fd34dc4da0b0ca3351c857cffe26ccd2353fe15e36",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_82.bin",
-      "name": "corpus_part_82.bin",
-      "fichier": "corpus_part_82.bin",
-      "size": 2963285,
-      "sha256": "617380e57c50f79ab98629b234b420fec4a70d5cb07acbd31021f8b0f7346c39",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_83.bin",
-      "name": "corpus_part_83.bin",
-      "fichier": "corpus_part_83.bin",
-      "size": 2957731,
-      "sha256": "39c6303cb1cb1b9001e28f67f78f8ded10eff072b9036935349c9948a56be53e",
-      "count": 14
-    },
-    {
-      "filename": "corpus_part_84.bin",
-      "name": "corpus_part_84.bin",
-      "fichier": "corpus_part_84.bin",
-      "size": 2838181,
-      "sha256": "52cb5e36802b24119c3b40528ba3be08b7721d24d6379f04022a4950f7b032b9",
-      "count": 13
-    },
-    {
-      "filename": "corpus_part_85.bin",
-      "name": "corpus_part_85.bin",
-      "fichier": "corpus_part_85.bin",
-      "size": 3046277,
-      "sha256": "2a516fa28d16e86876ea5e079b09596c6e1062bf9243c1e5295f850798d8012d",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_86.bin",
-      "name": "corpus_part_86.bin",
-      "fichier": "corpus_part_86.bin",
-      "size": 3080138,
-      "sha256": "34b6daa5f511dfb2894dcce951dad7cc675cd52de3da18becf0dc37ebe4e4d71",
-      "count": 23
-    },
-    {
-      "filename": "corpus_part_87.bin",
-      "name": "corpus_part_87.bin",
-      "fichier": "corpus_part_87.bin",
-      "size": 3106291,
-      "sha256": "361d723f2878411e9463f929a7d0fea91643f5f025183335a27bb53c104f4fea",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_88.bin",
-      "name": "corpus_part_88.bin",
-      "fichier": "corpus_part_88.bin",
-      "size": 2950498,
-      "sha256": "64133c268983bd54efa42557b627793c8d41f6a9e20711cc9121ebb3b1d5417a",
-      "count": 24
-    },
-    {
-      "filename": "corpus_part_89.bin",
-      "name": "corpus_part_89.bin",
-      "fichier": "corpus_part_89.bin",
-      "size": 3129090,
-      "sha256": "a293d2aced812684074f131434fe3145ab156b2426cb509f885c32cf00dc4e64",
-      "count": 19
-    },
-    {
-      "filename": "corpus_part_90.bin",
-      "name": "corpus_part_90.bin",
-      "fichier": "corpus_part_90.bin",
-      "size": 3018464,
-      "sha256": "2da9c9accf66d16e25ec7274a2b65052e86ac9fcedb95c744c322c537aab9a1a",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_91.bin",
-      "name": "corpus_part_91.bin",
-      "fichier": "corpus_part_91.bin",
-      "size": 3049433,
-      "sha256": "092d92b8891f09f28603ac017252718581935d34b6d8743d66d417baaba898bf",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_92.bin",
-      "name": "corpus_part_92.bin",
-      "fichier": "corpus_part_92.bin",
-      "size": 3006034,
-      "sha256": "1db67cfe974b18536b3a1a2997cc1a488b55a71f153503cd6fbf4f47b07fc29f",
-      "count": 21
-    },
-    {
-      "filename": "corpus_part_93.bin",
-      "name": "corpus_part_93.bin",
-      "fichier": "corpus_part_93.bin",
-      "size": 3102322,
-      "sha256": "0c3ddca4ec89fce81b545e7eb8491767c7db1cdaf8feb419d7c521e13a129614",
-      "count": 20
-    },
-    {
-      "filename": "corpus_part_94.bin",
-      "name": "corpus_part_94.bin",
-      "fichier": "corpus_part_94.bin",
-      "size": 3023075,
-      "sha256": "aa777f580d0fc4503ed961b6519d5eda9e1de42227a8de90fc03b250e3a2f93a",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_95.bin",
-      "name": "corpus_part_95.bin",
-      "fichier": "corpus_part_95.bin",
-      "size": 3101860,
-      "sha256": "6ee16e0835c0b2c91accc8cefb51d5064bf3b3b4afabbfcb4540ec70f3836257",
-      "count": 16
-    },
-    {
-      "filename": "corpus_part_96.bin",
-      "name": "corpus_part_96.bin",
-      "fichier": "corpus_part_96.bin",
-      "size": 2692195,
-      "sha256": "57ac3609fc0b7ec8032d507760b85ff52acab30b2020d44ff23ed46c87431a88",
-      "count": 14
-    },
-    {
-      "filename": "corpus_part_97.bin",
-      "name": "corpus_part_97.bin",
-      "fichier": "corpus_part_97.bin",
-      "size": 3123257,
-      "sha256": "854b169ae17318f2c6c9495b22e02699c1792d5c4b2ee2eb8e4e6ffdaf9eb2f9",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_98.bin",
-      "name": "corpus_part_98.bin",
-      "fichier": "corpus_part_98.bin",
-      "size": 3061542,
-      "sha256": "92a49fd4e66a8e72bde8b1ce2d2de0e8679ea7d2dfb06fe655fab42deacc5623",
-      "count": 15
-    },
-    {
-      "filename": "corpus_part_99.bin",
-      "name": "corpus_part_99.bin",
-      "fichier": "corpus_part_99.bin",
-      "size": 3019969,
-      "sha256": "54900895a8eb26506e58a67a3f819400f4705b2989d1278c159a1c6f8d16f294",
-      "count": 17
-    },
-    {
-      "filename": "corpus_part_100.bin",
+  "nom_projet": "Corpus Nomad Pocket Library",
+  "version": "1.0",
+  "algo_compression": "gzip",
+  "taille_brute_octets": 1471291392,
+  "taille_compresse_octets": 551135185,
+  "nombre_chunks": 468,
+  "chunks": [
+    {
+      "name": "corpus_part_001.bin",
+      "bytes": 1160881
+    },
+    {
+      "name": "corpus_part_002.bin",
+      "bytes": 1166105
+    },
+    {
+      "name": "corpus_part_003.bin",
+      "bytes": 1217069
+    },
+    {
+      "name": "corpus_part_004.bin",
+      "bytes": 1165106
+    },
+    {
+      "name": "corpus_part_005.bin",
+      "bytes": 1164828
+    },
+    {
+      "name": "corpus_part_006.bin",
+      "bytes": 1162298
+    },
+    {
+      "name": "corpus_part_007.bin",
+      "bytes": 1182004
+    },
+    {
+      "name": "corpus_part_008.bin",
+      "bytes": 1184583
+    },
+    {
+      "name": "corpus_part_009.bin",
+      "bytes": 1189199
+    },
+    {
+      "name": "corpus_part_010.bin",
+      "bytes": 1182781
+    },
+    {
+      "name": "corpus_part_011.bin",
+      "bytes": 1198416
+    },
+    {
+      "name": "corpus_part_012.bin",
+      "bytes": 1198829
+    },
+    {
+      "name": "corpus_part_013.bin",
+      "bytes": 1166235
+    },
+    {
+      "name": "corpus_part_014.bin",
+      "bytes": 1174521
+    },
+    {
+      "name": "corpus_part_015.bin",
+      "bytes": 1185476
+    },
+    {
+      "name": "corpus_part_016.bin",
+      "bytes": 1194472
+    },
+    {
+      "name": "corpus_part_017.bin",
+      "bytes": 1173260
+    },
+    {
+      "name": "corpus_part_018.bin",
+      "bytes": 1173071
+    },
+    {
+      "name": "corpus_part_019.bin",
+      "bytes": 1168801
+    },
+    {
+      "name": "corpus_part_020.bin",
+      "bytes": 1176504
+    },
+    {
+      "name": "corpus_part_021.bin",
+      "bytes": 1188272
+    },
+    {
+      "name": "corpus_part_022.bin",
+      "bytes": 1210489
+    },
+    {
+      "name": "corpus_part_023.bin",
+      "bytes": 1157845
+    },
+    {
+      "name": "corpus_part_024.bin",
+      "bytes": 1192605
+    },
+    {
+      "name": "corpus_part_025.bin",
+      "bytes": 1168881
+    },
+    {
+      "name": "corpus_part_026.bin",
+      "bytes": 1176677
+    },
+    {
+      "name": "corpus_part_027.bin",
+      "bytes": 1193809
+    },
+    {
+      "name": "corpus_part_028.bin",
+      "bytes": 1181892
+    },
+    {
+      "name": "corpus_part_029.bin",
+      "bytes": 1165180
+    },
+    {
+      "name": "corpus_part_030.bin",
+      "bytes": 1169816
+    },
+    {
+      "name": "corpus_part_031.bin",
+      "bytes": 1142900
+    },
+    {
+      "name": "corpus_part_032.bin",
+      "bytes": 1198281
+    },
+    {
+      "name": "corpus_part_033.bin",
+      "bytes": 1182143
+    },
+    {
+      "name": "corpus_part_034.bin",
+      "bytes": 1163381
+    },
+    {
+      "name": "corpus_part_035.bin",
+      "bytes": 1205653
+    },
+    {
+      "name": "corpus_part_036.bin",
+      "bytes": 1143263
+    },
+    {
+      "name": "corpus_part_037.bin",
+      "bytes": 1195118
+    },
+    {
+      "name": "corpus_part_038.bin",
+      "bytes": 1203490
+    },
+    {
+      "name": "corpus_part_039.bin",
+      "bytes": 1167613
+    },
+    {
+      "name": "corpus_part_040.bin",
+      "bytes": 1193759
+    },
+    {
+      "name": "corpus_part_041.bin",
+      "bytes": 1203732
+    },
+    {
+      "name": "corpus_part_042.bin",
+      "bytes": 1195517
+    },
+    {
+      "name": "corpus_part_043.bin",
+      "bytes": 1157648
+    },
+    {
+      "name": "corpus_part_044.bin",
+      "bytes": 1157479
+    },
+    {
+      "name": "corpus_part_045.bin",
+      "bytes": 1182619
+    },
+    {
+      "name": "corpus_part_046.bin",
+      "bytes": 1166773
+    },
+    {
+      "name": "corpus_part_047.bin",
+      "bytes": 1181652
+    },
+    {
+      "name": "corpus_part_048.bin",
+      "bytes": 1159136
+    },
+    {
+      "name": "corpus_part_049.bin",
+      "bytes": 1155289
+    },
+    {
+      "name": "corpus_part_050.bin",
+      "bytes": 1193342
+    },
+    {
+      "name": "corpus_part_051.bin",
+      "bytes": 1191075
+    },
+    {
+      "name": "corpus_part_052.bin",
+      "bytes": 1203229
+    },
+    {
+      "name": "corpus_part_053.bin",
+      "bytes": 1161836
+    },
+    {
+      "name": "corpus_part_054.bin",
+      "bytes": 1177882
+    },
+    {
+      "name": "corpus_part_055.bin",
+      "bytes": 1152267
+    },
+    {
+      "name": "corpus_part_056.bin",
+      "bytes": 1176795
+    },
+    {
+      "name": "corpus_part_057.bin",
+      "bytes": 1132708
+    },
+    {
+      "name": "corpus_part_058.bin",
+      "bytes": 1127461
+    },
+    {
+      "name": "corpus_part_059.bin",
+      "bytes": 1194973
+    },
+    {
+      "name": "corpus_part_060.bin",
+      "bytes": 1209171
+    },
+    {
+      "name": "corpus_part_061.bin",
+      "bytes": 1131048
+    },
+    {
+      "name": "corpus_part_062.bin",
+      "bytes": 1188900
+    },
+    {
+      "name": "corpus_part_063.bin",
+      "bytes": 1165050
+    },
+    {
+      "name": "corpus_part_064.bin",
+      "bytes": 1168363
+    },
+    {
+      "name": "corpus_part_065.bin",
+      "bytes": 1194358
+    },
+    {
+      "name": "corpus_part_066.bin",
+      "bytes": 1212027
+    },
+    {
+      "name": "corpus_part_067.bin",
+      "bytes": 1204994
+    },
+    {
+      "name": "corpus_part_068.bin",
+      "bytes": 1184205
+    },
+    {
+      "name": "corpus_part_069.bin",
+      "bytes": 1135810
+    },
+    {
+      "name": "corpus_part_070.bin",
+      "bytes": 1156983
+    },
+    {
+      "name": "corpus_part_071.bin",
+      "bytes": 1170342
+    },
+    {
+      "name": "corpus_part_072.bin",
+      "bytes": 1199627
+    },
+    {
+      "name": "corpus_part_073.bin",
+      "bytes": 1172936
+    },
+    {
+      "name": "corpus_part_074.bin",
+      "bytes": 1180136
+    },
+    {
+      "name": "corpus_part_075.bin",
+      "bytes": 1142665
+    },
+    {
+      "name": "corpus_part_076.bin",
+      "bytes": 1184324
+    },
+    {
+      "name": "corpus_part_077.bin",
+      "bytes": 1219051
+    },
+    {
+      "name": "corpus_part_078.bin",
+      "bytes": 1152395
+    },
+    {
+      "name": "corpus_part_079.bin",
+      "bytes": 1167269
+    },
+    {
+      "name": "corpus_part_080.bin",
+      "bytes": 1129764
+    },
+    {
+      "name": "corpus_part_081.bin",
+      "bytes": 1195682
+    },
+    {
+      "name": "corpus_part_082.bin",
+      "bytes": 1183855
+    },
+    {
+      "name": "corpus_part_083.bin",
+      "bytes": 1122761
+    },
+    {
+      "name": "corpus_part_084.bin",
+      "bytes": 1202611
+    },
+    {
+      "name": "corpus_part_085.bin",
+      "bytes": 1179381
+    },
+    {
+      "name": "corpus_part_086.bin",
+      "bytes": 1171024
+    },
+    {
+      "name": "corpus_part_087.bin",
+      "bytes": 1194630
+    },
+    {
+      "name": "corpus_part_088.bin",
+      "bytes": 1178570
+    },
+    {
+      "name": "corpus_part_089.bin",
+      "bytes": 1179887
+    },
+    {
+      "name": "corpus_part_090.bin",
+      "bytes": 1197367
+    },
+    {
+      "name": "corpus_part_091.bin",
+      "bytes": 1172773
+    },
+    {
+      "name": "corpus_part_092.bin",
+      "bytes": 1092420
+    },
+    {
+      "name": "corpus_part_093.bin",
+      "bytes": 1150935
+    },
+    {
+      "name": "corpus_part_094.bin",
+      "bytes": 1208088
+    },
+    {
+      "name": "corpus_part_095.bin",
+      "bytes": 1195311
+    },
+    {
+      "name": "corpus_part_096.bin",
+      "bytes": 1201255
+    },
+    {
+      "name": "corpus_part_097.bin",
+      "bytes": 1152888
+    },
+    {
+      "name": "corpus_part_098.bin",
+      "bytes": 1201288
+    },
+    {
+      "name": "corpus_part_099.bin",
+      "bytes": 1168507
+    },
+    {
       "name": "corpus_part_100.bin",
-      "fichier": "corpus_part_100.bin",
-      "size": 3039410,
-      "sha256": "4cb9788a751d8e4d5e857fb7204d0e9ccb74689392b4e929fa9963ea6f7048a6",
-      "count": 20
+      "bytes": 1151013
     },
     {
-      "filename": "corpus_part_101.bin",
       "name": "corpus_part_101.bin",
-      "fichier": "corpus_part_101.bin",
-      "size": 2990485,
-      "sha256": "fd37e82d1b41d68e3c4ae613c54d2a1a5697058d4aaaff350fade788ab21b7b6",
-      "count": 14
+      "bytes": 1193202
     },
     {
-      "filename": "corpus_part_102.bin",
       "name": "corpus_part_102.bin",
-      "fichier": "corpus_part_102.bin",
-      "size": 3143214,
-      "sha256": "16f3b7253bba3eea0349973a06d50e62b6d279dc6061792f25150cb9d3a9593b",
-      "count": 15
+      "bytes": 1209992
     },
     {
-      "filename": "corpus_part_103.bin",
       "name": "corpus_part_103.bin",
-      "fichier": "corpus_part_103.bin",
-      "size": 3075074,
-      "sha256": "e76c3145f9dbeeea1fc05deb68a36921abb9c8b0baf0e3e48cc670f417da8b38",
-      "count": 20
+      "bytes": 1178831
     },
     {
-      "filename": "corpus_part_104.bin",
       "name": "corpus_part_104.bin",
-      "fichier": "corpus_part_104.bin",
-      "size": 2394664,
-      "sha256": "472aaae16132d4e9c7e403deafd6b8ec2838538d0822bf67c9eb130e7014919b",
-      "count": 10
+      "bytes": 1181082
     },
     {
-      "filename": "corpus_part_105.bin",
       "name": "corpus_part_105.bin",
-      "fichier": "corpus_part_105.bin",
-      "size": 2989593,
-      "sha256": "f862bb763916df0418c302563c19fec16531f9b6d49fd3be667791629a407a99",
-      "count": 14
+      "bytes": 1185390
     },
     {
-      "filename": "corpus_part_106.bin",
       "name": "corpus_part_106.bin",
-      "fichier": "corpus_part_106.bin",
-      "size": 2723494,
-      "sha256": "2fcc57db86de49715d6de08295bf8cc97364e42fa658c60444a389c19fd93526",
-      "count": 17
+      "bytes": 1170551
     },
     {
-      "filename": "corpus_part_107.bin",
       "name": "corpus_part_107.bin",
-      "fichier": "corpus_part_107.bin",
-      "size": 3124632,
-      "sha256": "7d8f28b7252b043673b0593329bb369002533a0bfe4455faf564d2fb146e6f9b",
-      "count": 15
+      "bytes": 1178939
     },
     {
-      "filename": "corpus_part_108.bin",
       "name": "corpus_part_108.bin",
-      "fichier": "corpus_part_108.bin",
-      "size": 3015934,
-      "sha256": "2c1fbb4c79320d0f6eb79abf7656d18a62e716351bb097d2d6ccd3542e74a106",
-      "count": 16
+      "bytes": 1162841
     },
     {
-      "filename": "corpus_part_109.bin",
       "name": "corpus_part_109.bin",
-      "fichier": "corpus_part_109.bin",
-      "size": 3086381,
-      "sha256": "6fb32d50b1cd7b3dabafc05748fe3ac3b2b9372388d389506ec586c85f552f79",
-      "count": 20
+      "bytes": 1153747
     },
     {
-      "filename": "corpus_part_110.bin",
       "name": "corpus_part_110.bin",
-      "fichier": "corpus_part_110.bin",
-      "size": 3130852,
-      "sha256": "fff520c767a5b40257c9c79187fdb10b87e5dd4793b1a51f9e2383baf3607cfd",
-      "count": 22
+      "bytes": 1183598
     },
     {
-      "filename": "corpus_part_111.bin",
       "name": "corpus_part_111.bin",
-      "fichier": "corpus_part_111.bin",
-      "size": 3124659,
-      "sha256": "ca87735d029712b20ceba8767ac1f10030647d858d33b812561451df84a07281",
-      "count": 18
+      "bytes": 1200324
     },
     {
-      "filename": "corpus_part_112.bin",
       "name": "corpus_part_112.bin",
-      "fichier": "corpus_part_112.bin",
-      "size": 3108394,
-      "sha256": "54e44eebe74f7a7b040de13b681501999c5048b5686495aeeaa9f95fe75af1d6",
-      "count": 18
+      "bytes": 1196181
     },
     {
-      "filename": "corpus_part_113.bin",
       "name": "corpus_part_113.bin",
-      "fichier": "corpus_part_113.bin",
-      "size": 3012435,
-      "sha256": "97cada7eeaa65b8ed8583f63ea3700989154e3f7f09aa23c508974aa160276c0",
-      "count": 19
+      "bytes": 1204798
     },
     {
-      "filename": "corpus_part_114.bin",
       "name": "corpus_part_114.bin",
-      "fichier": "corpus_part_114.bin",
-      "size": 3094558,
-      "sha256": "0211416cb295c3431f2f6681016b71ad3aa393de59bd4b979ede8feda2ed87ac",
-      "count": 18
+      "bytes": 1125597
     },
     {
-      "filename": "corpus_part_115.bin",
       "name": "corpus_part_115.bin",
-      "fichier": "corpus_part_115.bin",
-      "size": 2987597,
-      "sha256": "bea36bbc4692c08ebad0492ada19791bd47a4895368d118436b97fe5f8a59f5a",
-      "count": 18
+      "bytes": 1174722
     },
     {
-      "filename": "corpus_part_116.bin",
       "name": "corpus_part_116.bin",
-      "fichier": "corpus_part_116.bin",
-      "size": 2633092,
-      "sha256": "856f0f6159d37f93849904edcea6b731e8bd3f14037fcd0390b95b156e168067",
-      "count": 20
+      "bytes": 1196754
     },
     {
-      "filename": "corpus_part_117.bin",
       "name": "corpus_part_117.bin",
-      "fichier": "corpus_part_117.bin",
-      "size": 2758369,
-      "sha256": "7c879b06069af8480130f4d6e127ea91f43f20fb38086191237f57bcbdf79fde",
-      "count": 9
+      "bytes": 1197172
     },
     {
-      "filename": "corpus_part_118.bin",
       "name": "corpus_part_118.bin",
-      "fichier": "corpus_part_118.bin",
-      "size": 3056800,
-      "sha256": "a4015b381e5e8eb26516495fdff79e01aa226fddaaf6db8d04b45d5a2db862d0",
-      "count": 10
+      "bytes": 1183511
     },
     {
-      "filename": "corpus_part_119.bin",
       "name": "corpus_part_119.bin",
-      "fichier": "corpus_part_119.bin",
-      "size": 2894857,
-      "sha256": "ef95247ff748b24efc030a60a558e4360f5307b71911f37f4c53a1ce4b824445",
-      "count": 17
+      "bytes": 1189797
     },
     {
-      "filename": "corpus_part_120.bin",
       "name": "corpus_part_120.bin",
-      "fichier": "corpus_part_120.bin",
-      "size": 2982799,
-      "sha256": "41d800297f0fc45e2324e5d1288bc2a4a31190d71c51a0392e026616d43138d4",
-      "count": 19
+      "bytes": 1218487
     },
     {
-      "filename": "corpus_part_121.bin",
       "name": "corpus_part_121.bin",
-      "fichier": "corpus_part_121.bin",
-      "size": 2938370,
-      "sha256": "ac11317a605a264a720c9cd2a81c62226c7d762a12231e3ea6a53c71bda0f74c",
-      "count": 14
+      "bytes": 1177274
     },
     {
-      "filename": "corpus_part_122.bin",
       "name": "corpus_part_122.bin",
-      "fichier": "corpus_part_122.bin",
-      "size": 3077156,
-      "sha256": "bc5bec505f2e3205780b954ec6582dcbba764b61c379cae3857c60132e710066",
-      "count": 20
+      "bytes": 1184347
     },
     {
-      "filename": "corpus_part_123.bin",
       "name": "corpus_part_123.bin",
-      "fichier": "corpus_part_123.bin",
-      "size": 3114374,
-      "sha256": "bbee947cea49e98a842f409093506d007142f0a90255c13e8e13573bffa129f6",
-      "count": 21
+      "bytes": 1182199
     },
     {
-      "filename": "corpus_part_124.bin",
       "name": "corpus_part_124.bin",
-      "fichier": "corpus_part_124.bin",
-      "size": 3106579,
-      "sha256": "917ae1f7eae8a2a377a6f59c6ce2374e96d87277d3a1c4f5ca7ee753afe2284c",
-      "count": 17
+      "bytes": 1178172
     },
     {
-      "filename": "corpus_part_125.bin",
       "name": "corpus_part_125.bin",
-      "fichier": "corpus_part_125.bin",
-      "size": 3130348,
-      "sha256": "a4335e267f59d933028332743a5a8acc5d14c5495a827839fa746b9025bb1f30",
-      "count": 20
+      "bytes": 1154985
     },
     {
-      "filename": "corpus_part_126.bin",
       "name": "corpus_part_126.bin",
-      "fichier": "corpus_part_126.bin",
-      "size": 3057545,
-      "sha256": "ae8e515a3a59a8af830826d0053573b91c04d41ea6c98b3c90f428fdc59cce42",
-      "count": 17
+      "bytes": 1174690
     },
     {
-      "filename": "corpus_part_127.bin",
       "name": "corpus_part_127.bin",
-      "fichier": "corpus_part_127.bin",
-      "size": 3123309,
-      "sha256": "8031dd0f9ecb8d2a6dcdb3a6a3e1456a5b64f9c25cb174e7f6bdfd1259e0ba90",
-      "count": 23
+      "bytes": 1157172
     },
     {
-      "filename": "corpus_part_128.bin",
       "name": "corpus_part_128.bin",
-      "fichier": "corpus_part_128.bin",
-      "size": 3041736,
-      "sha256": "52b290e3c8c38f2889d8651ae5a8e6f573f390489c9120b8241eb260864db451",
-      "count": 19
+      "bytes": 1166147
     },
     {
-      "filename": "corpus_part_129.bin",
       "name": "corpus_part_129.bin",
-      "fichier": "corpus_part_129.bin",
-      "size": 3047199,
-      "sha256": "74e477094e3d7691dcf7bab44dee8c0b18e3b7631cd23f072658b49905144f8c",
-      "count": 28
+      "bytes": 1170852
     },
     {
-      "filename": "corpus_part_130.bin",
       "name": "corpus_part_130.bin",
-      "fichier": "corpus_part_130.bin",
-      "size": 3004739,
-      "sha256": "b5ac374fc415b9cc7473f190156d4619d9015384e79659a44f01a01e0dc502ef",
-      "count": 20
+      "bytes": 1203008
     },
     {
-      "filename": "corpus_part_131.bin",
       "name": "corpus_part_131.bin",
-      "fichier": "corpus_part_131.bin",
-      "size": 3067190,
-      "sha256": "720b2c3354d10893a76e8ea6bf8dbb94ee3876da5b1860c320ee7467886de4c4",
-      "count": 20
+      "bytes": 1194981
     },
     {
-      "filename": "corpus_part_132.bin",
       "name": "corpus_part_132.bin",
-      "fichier": "corpus_part_132.bin",
-      "size": 3105192,
-      "sha256": "912ae1fefba3f11d488a466068d3986661aabba1f1118c2d930d54442f44b25c",
-      "count": 24
+      "bytes": 1160811
     },
     {
-      "filename": "corpus_part_133.bin",
       "name": "corpus_part_133.bin",
-      "fichier": "corpus_part_133.bin",
-      "size": 3028707,
-      "sha256": "4fff6a8c7f580696da72774cb6be04c031410be3ff02b885b47ad6150292b54b",
-      "count": 21
+      "bytes": 1196151
     },
     {
-      "filename": "corpus_part_134.bin",
       "name": "corpus_part_134.bin",
-      "fichier": "corpus_part_134.bin",
-      "size": 3030937,
-      "sha256": "d0dbbb5e273733b800d8cdac3318e75601e5efd049daf5a6b7997a92659340eb",
-      "count": 13
+      "bytes": 1158914
     },
     {
-      "filename": "corpus_part_135.bin",
       "name": "corpus_part_135.bin",
-      "fichier": "corpus_part_135.bin",
-      "size": 3139491,
-      "sha256": "69ddc440a7afdea7d82c73d21b054bb6e65cae8aaa168119b37160a8c6a8e32a",
-      "count": 22
+      "bytes": 1182886
     },
     {
-      "filename": "corpus_part_136.bin",
       "name": "corpus_part_136.bin",
-      "fichier": "corpus_part_136.bin",
-      "size": 2968150,
-      "sha256": "bd4d83c2648797b72d014486d6adbad0e3cd8e75ac4d716dedb43b4e4c01e67a",
-      "count": 22
+      "bytes": 1183251
     },
     {
-      "filename": "corpus_part_137.bin",
       "name": "corpus_part_137.bin",
-      "fichier": "corpus_part_137.bin",
-      "size": 3038863,
-      "sha256": "4c65f94ee7df1f685095a03be5706bcb70e98e85383a9ec2a9b87d062b36b544",
-      "count": 23
+      "bytes": 1167339
     },
     {
-      "filename": "corpus_part_138.bin",
       "name": "corpus_part_138.bin",
-      "fichier": "corpus_part_138.bin",
-      "size": 3035702,
-      "sha256": "c5d2c628344cb528e3430eb2d68b7dae41a41ce33241dac407f843afbafa03c8",
-      "count": 24
+      "bytes": 1183867
     },
     {
-      "filename": "corpus_part_139.bin",
       "name": "corpus_part_139.bin",
-      "fichier": "corpus_part_139.bin",
-      "size": 2962399,
-      "sha256": "4e352c7394b5f3106502ecf82add10857625a468feca459b54c9087b24dcc6fe",
-      "count": 24
+      "bytes": 1208025
     },
     {
-      "filename": "corpus_part_140.bin",
       "name": "corpus_part_140.bin",
-      "fichier": "corpus_part_140.bin",
-      "size": 3116684,
-      "sha256": "f220784a535f07107456397432ab847373b3dcc0bf0d68674e78448fb84fb34e",
-      "count": 16
+      "bytes": 1198596
     },
     {
-      "filename": "corpus_part_141.bin",
       "name": "corpus_part_141.bin",
-      "fichier": "corpus_part_141.bin",
-      "size": 2996642,
-      "sha256": "4c3b1b9125a5d7015cae42727c8f1244ad8f546bb1d0732cfb6a071367855b0f",
-      "count": 22
+      "bytes": 1201778
     },
     {
-      "filename": "corpus_part_142.bin",
       "name": "corpus_part_142.bin",
-      "fichier": "corpus_part_142.bin",
-      "size": 3090285,
-      "sha256": "a745eaa5bb7652532e904cca296531c6a0bf4f33146380b0a0c36b3e83b2e0c3",
-      "count": 22
+      "bytes": 1145420
     },
     {
-      "filename": "corpus_part_143.bin",
       "name": "corpus_part_143.bin",
-      "fichier": "corpus_part_143.bin",
-      "size": 2950405,
-      "sha256": "0a0c4625b2ed838450efff4211b659dd93ad8b3adcbbeb713e4bf54ffa7585a2",
-      "count": 21
+      "bytes": 1187766
     },
     {
-      "filename": "corpus_part_144.bin",
       "name": "corpus_part_144.bin",
-      "fichier": "corpus_part_144.bin",
-      "size": 3000294,
-      "sha256": "74602ecabd8ada57aa323ee337d37e9ae43b081654c2f60268ba4bed20109eee",
-      "count": 26
+      "bytes": 1170592
     },
     {
-      "filename": "corpus_part_145.bin",
       "name": "corpus_part_145.bin",
-      "fichier": "corpus_part_145.bin",
-      "size": 3113503,
-      "sha256": "380c1644be543262c065205b4b4bfd4c854bca6ebe9ab6c1458dea5ca836ed05",
-      "count": 28
+      "bytes": 1189840
     },
     {
-      "filename": "corpus_part_146.bin",
       "name": "corpus_part_146.bin",
-      "fichier": "corpus_part_146.bin",
-      "size": 2996725,
-      "sha256": "93fd86cf2789a05ab667e25ebe782dc19edb688545b6ced621a17cbbb12133f7",
-      "count": 32
+      "bytes": 1190246
     },
     {
-      "filename": "corpus_part_147.bin",
       "name": "corpus_part_147.bin",
-      "fichier": "corpus_part_147.bin",
-      "size": 3031111,
-      "sha256": "81694bebe9c1c3885ecc4495846af1106bed9c57b2ea86248508b35241282e98",
-      "count": 32
+      "bytes": 1198086
     },
     {
-      "filename": "corpus_part_148.bin",
       "name": "corpus_part_148.bin",
-      "fichier": "corpus_part_148.bin",
-      "size": 3088738,
-      "sha256": "56720f1baa62d3f44099fb551cc8afcb991b9183208424bcb0ce0e559fe8edf9",
-      "count": 23
+      "bytes": 1173203
     },
     {
-      "filename": "corpus_part_149.bin",
       "name": "corpus_part_149.bin",
-      "fichier": "corpus_part_149.bin",
-      "size": 3106505,
-      "sha256": "e83b21bf7407116adfd2535b38eb035bf773fab2c6ec6e9708a107396ddc19f2",
-      "count": 31
+      "bytes": 1171317
     },
     {
-      "filename": "corpus_part_150.bin",
       "name": "corpus_part_150.bin",
-      "fichier": "corpus_part_150.bin",
-      "size": 3079215,
-      "sha256": "1ca19f64425d1fab14797b438fc232037bf2b04ceb9f9188487dc3e4672e1cd2",
-      "count": 19
+      "bytes": 1164242
     },
     {
-      "filename": "corpus_part_151.bin",
       "name": "corpus_part_151.bin",
-      "fichier": "corpus_part_151.bin",
-      "size": 3064043,
-      "sha256": "d01a7d4ecf1c1b35bccc56c4f80f17064b4423dc34c88d692becc6ad2e34231d",
-      "count": 22
+      "bytes": 1203350
     },
     {
-      "filename": "corpus_part_152.bin",
       "name": "corpus_part_152.bin",
-      "fichier": "corpus_part_152.bin",
-      "size": 3004733,
-      "sha256": "f8ce2de0695b93938a810fc54d08a9044123dcd1fd8227a3a96a5434476b3c2d",
-      "count": 24
+      "bytes": 1166330
     },
     {
-      "filename": "corpus_part_153.bin",
       "name": "corpus_part_153.bin",
-      "fichier": "corpus_part_153.bin",
-      "size": 3103312,
-      "sha256": "41d85dd3df847685699e633ed0a562790df9bf1ee3112437a5aae6c39bcbe842",
-      "count": 27
+      "bytes": 1200430
     },
     {
-      "filename": "corpus_part_154.bin",
       "name": "corpus_part_154.bin",
-      "fichier": "corpus_part_154.bin",
-      "size": 2560119,
-      "sha256": "0908f26af1de1628c39da02f9e78e1c2104fb54f2f23d42168c27f1e6773cce7",
-      "count": 19
+      "bytes": 1170653
     },
     {
-      "filename": "corpus_part_155.bin",
       "name": "corpus_part_155.bin",
-      "fichier": "corpus_part_155.bin",
-      "size": 3083067,
-      "sha256": "7acd779a6b23920938f6bae858f4f4c1cf002cf12338ac86183fbd52c97d6f4b",
-      "count": 23
+      "bytes": 1166714
     },
     {
-      "filename": "corpus_part_156.bin",
       "name": "corpus_part_156.bin",
-      "fichier": "corpus_part_156.bin",
-      "size": 2992363,
-      "sha256": "8cf8679a1974b81058e7239e3c9b84bd20273c65f3245295332d4a77d32313bd",
-      "count": 26
+      "bytes": 1183491
     },
     {
-      "filename": "corpus_part_157.bin",
       "name": "corpus_part_157.bin",
-      "fichier": "corpus_part_157.bin",
-      "size": 3131221,
-      "sha256": "dc85d30401f983542e7e62f7c00a75ac6bdc9800c855f666273eb5e8480f3021",
-      "count": 20
+      "bytes": 1135519
     },
     {
-      "filename": "corpus_part_158.bin",
       "name": "corpus_part_158.bin",
-      "fichier": "corpus_part_158.bin",
-      "size": 3087191,
-      "sha256": "dcc54aa46a96a9a58027fb85385b8a9f3b30fbe481ad6ef7018c90438df2acd0",
-      "count": 14
+      "bytes": 1198202
     },
     {
-      "filename": "corpus_part_159.bin",
       "name": "corpus_part_159.bin",
-      "fichier": "corpus_part_159.bin",
-      "size": 3068955,
-      "sha256": "bfce859dd7e43f6a2597213123da1b9557718f6fe1e386dc3e61a5a93681f7fb",
-      "count": 21
+      "bytes": 1178435
     },
     {
-      "filename": "corpus_part_160.bin",
       "name": "corpus_part_160.bin",
-      "fichier": "corpus_part_160.bin",
-      "size": 2921133,
-      "sha256": "04a38f9182cd2dc87aac7550141f22b4fb30acd35d3fa9ef2d88c4fc7dbb6559",
-      "count": 18
+      "bytes": 1174818
     },
     {
-      "filename": "corpus_part_161.bin",
       "name": "corpus_part_161.bin",
-      "fichier": "corpus_part_161.bin",
-      "size": 3129271,
-      "sha256": "ecaf42b7e3c90f0ce2dc8346f478dd99abbeb062d7b5161638ea207d2d4a9ded",
-      "count": 22
+      "bytes": 1198049
     },
     {
-      "filename": "corpus_part_162.bin",
       "name": "corpus_part_162.bin",
-      "fichier": "corpus_part_162.bin",
-      "size": 3050441,
-      "sha256": "5bb2621c1721f4f464736dd6664b08d2985404ebb097571d0de4feee928361f0",
-      "count": 25
+      "bytes": 1140262
     },
     {
-      "filename": "corpus_part_163.bin",
       "name": "corpus_part_163.bin",
-      "fichier": "corpus_part_163.bin",
-      "size": 3071980,
-      "sha256": "6fa8bd58b0a40439e632671bcd8ec3ffbdabde6caf5dc0d3aceae93936f5a0d9",
-      "count": 29
+      "bytes": 1169848
     },
     {
-      "filename": "corpus_part_164.bin",
       "name": "corpus_part_164.bin",
-      "fichier": "corpus_part_164.bin",
-      "size": 3131547,
-      "sha256": "2dc383e36afe0bb31ee4638252dc21845be46c7695ed09dc18801fff03cbf0f6",
-      "count": 19
+      "bytes": 1155656
     },
     {
-      "filename": "corpus_part_165.bin",
       "name": "corpus_part_165.bin",
-      "fichier": "corpus_part_165.bin",
-      "size": 2867973,
-      "sha256": "2d5f1695d8d49975488a80da5e20c175d3baf30d420fcfcac199a21fc1002bbc",
-      "count": 18
+      "bytes": 1158631
     },
     {
-      "filename": "corpus_part_166.bin",
       "name": "corpus_part_166.bin",
-      "fichier": "corpus_part_166.bin",
-      "size": 3030434,
-      "sha256": "6592b9cff049b210aeded80ba9173e0d203799d525e150f04bb74b178ac42652",
-      "count": 14
+      "bytes": 1157484
     },
     {
-      "filename": "corpus_part_167.bin",
       "name": "corpus_part_167.bin",
-      "fichier": "corpus_part_167.bin",
-      "size": 3070454,
-      "sha256": "429096bf723ea7bffc207ffdfdb49b88fee550346532fa176392963d93e4227e",
-      "count": 21
+      "bytes": 1178180
     },
     {
-      "filename": "corpus_part_168.bin",
       "name": "corpus_part_168.bin",
-      "fichier": "corpus_part_168.bin",
-      "size": 2974806,
-      "sha256": "414cc6333a63d29d7d02605d8f2139ecb3caee58a37eb11fe89b2e9f8fdc71f6",
-      "count": 24
+      "bytes": 1196323
     },
     {
-      "filename": "corpus_part_169.bin",
       "name": "corpus_part_169.bin",
-      "fichier": "corpus_part_169.bin",
-      "size": 3145571,
-      "sha256": "ede6e66034bc52437d788fefe7d7b8492e69c445bd905f9b257c332d4f079d90",
-      "count": 26
+      "bytes": 1208711
     },
     {
-      "filename": "corpus_part_170.bin",
       "name": "corpus_part_170.bin",
-      "fichier": "corpus_part_170.bin",
-      "size": 3010898,
-      "sha256": "cac8a0201367172dcabb9cf6e0bbdcef1e8db24d110614128b4a5539e37c4f7d",
-      "count": 22
+      "bytes": 1152846
     },
     {
-      "filename": "corpus_part_171.bin",
       "name": "corpus_part_171.bin",
-      "fichier": "corpus_part_171.bin",
-      "size": 3115718,
-      "sha256": "e81d24e8ef8ff39cb6524f067fbb9d0eafb8639a22833842ae103940e7ea6ac9",
-      "count": 24
+      "bytes": 1194530
     },
     {
-      "filename": "corpus_part_172.bin",
       "name": "corpus_part_172.bin",
-      "fichier": "corpus_part_172.bin",
-      "size": 3102416,
-      "sha256": "3e6f88c1e4cda9f33931a1fc25ef48ece8bd94bb6ce4d81a19779333092c4355",
-      "count": 24
+      "bytes": 1177014
     },
     {
-      "filename": "corpus_part_173.bin",
       "name": "corpus_part_173.bin",
-      "fichier": "corpus_part_173.bin",
-      "size": 3083180,
-      "sha256": "482b0f1e83837aee31d26d2c469e82875bea9349365039110ebf995f909053a8",
-      "count": 17
+      "bytes": 1206844
     },
     {
-      "filename": "corpus_part_174.bin",
       "name": "corpus_part_174.bin",
-      "fichier": "corpus_part_174.bin",
-      "size": 3087748,
-      "sha256": "d98b541103f553a08042a7860137cc2c791f9b08644716705e021336613c8742",
-      "count": 25
+      "bytes": 1182938
     },
     {
-      "filename": "corpus_part_175.bin",
       "name": "corpus_part_175.bin",
-      "fichier": "corpus_part_175.bin",
-      "size": 3021920,
-      "sha256": "69ca38b20541d7a2ce889ee6a97b6250c362e7c51467b8a23e24cfc608fe1e01",
-      "count": 25
+      "bytes": 1183715
     },
     {
-      "filename": "corpus_part_176.bin",
       "name": "corpus_part_176.bin",
-      "fichier": "corpus_part_176.bin",
-      "size": 3036665,
-      "sha256": "0a5690e97c676087236e4df1c87fdd5e04a41c8d6693e6b9b136baf276403ec9",
-      "count": 22
+      "bytes": 1206996
     },
     {
-      "filename": "corpus_part_177.bin",
       "name": "corpus_part_177.bin",
-      "fichier": "corpus_part_177.bin",
-      "size": 3136807,
-      "sha256": "c874305a31f301acd187c4a7a100d99b0a8468af694be911533b6d156422e088",
-      "count": 24
+      "bytes": 1156842
     },
     {
-      "filename": "corpus_part_178.bin",
       "name": "corpus_part_178.bin",
-      "fichier": "corpus_part_178.bin",
-      "size": 3032163,
-      "sha256": "7a640be32ce9753a47e9d296b768d76aabc1addacc34341075aec9c78f699f9f",
-      "count": 20
+      "bytes": 1113921
     },
     {
-      "filename": "corpus_part_179.bin",
       "name": "corpus_part_179.bin",
-      "fichier": "corpus_part_179.bin",
-      "size": 3098568,
-      "sha256": "5489bbf32933b484738ebe0720f5eb66c1e37d812bf01ff990a082197575330a",
-      "count": 24
+      "bytes": 1141420
     },
     {
-      "filename": "corpus_part_180.bin",
       "name": "corpus_part_180.bin",
-      "fichier": "corpus_part_180.bin",
-      "size": 2597384,
-      "sha256": "2ee6c2020e30e063510ab9da5453edd545a6c0e7cf367f28f9d7f379db498be3",
-      "count": 27
+      "bytes": 1148188
     },
     {
-      "filename": "corpus_part_181.bin",
       "name": "corpus_part_181.bin",
-      "fichier": "corpus_part_181.bin",
-      "size": 3127588,
-      "sha256": "5f00fc32c17ea8f693b09b84c2fc5b82c926337ec5ec77f09822bddee7002bc9",
-      "count": 13
+      "bytes": 1167777
     },
     {
-      "filename": "corpus_part_182.bin",
       "name": "corpus_part_182.bin",
-      "fichier": "corpus_part_182.bin",
-      "size": 3102499,
-      "sha256": "cc8626fb7b8f4f1cea5c633dc9d6009f3f5e99d53ff15111128418a4b04e3f99",
-      "count": 35
+      "bytes": 1187654
     },
     {
-      "filename": "corpus_part_183.bin",
       "name": "corpus_part_183.bin",
-      "fichier": "corpus_part_183.bin",
-      "size": 2852806,
-      "sha256": "8e3249ed9b2e7edba0b4b01635952f35ee069a8769b481b887a27d397a1d6a2b",
-      "count": 407
+      "bytes": 1162183
     },
     {
-      "filename": "corpus_part_184.bin",
       "name": "corpus_part_184.bin",
-      "fichier": "corpus_part_184.bin",
-      "size": 3041015,
-      "sha256": "2cd0a5e63ce12e8bf338d45336cfad87cbeccd2add3f7add61bed889aa38e2d7",
-      "count": 16
+      "bytes": 1190456
     },
     {
-      "filename": "corpus_part_185.bin",
       "name": "corpus_part_185.bin",
-      "fichier": "corpus_part_185.bin",
-      "size": 560337,
-      "sha256": "8a33c05123dfe58698964ec6e4a3bf4f7dc2b4f0755daa8943744bce0ef31292",
-      "count": 5
+      "bytes": 1208076
+    },
+    {
+      "name": "corpus_part_186.bin",
+      "bytes": 1166943
+    },
+    {
+      "name": "corpus_part_187.bin",
+      "bytes": 1139848
+    },
+    {
+      "name": "corpus_part_188.bin",
+      "bytes": 1192112
+    },
+    {
+      "name": "corpus_part_189.bin",
+      "bytes": 1171926
+    },
+    {
+      "name": "corpus_part_190.bin",
+      "bytes": 1152020
+    },
+    {
+      "name": "corpus_part_191.bin",
+      "bytes": 1173318
+    },
+    {
+      "name": "corpus_part_192.bin",
+      "bytes": 1160684
+    },
+    {
+      "name": "corpus_part_193.bin",
+      "bytes": 1201648
+    },
+    {
+      "name": "corpus_part_194.bin",
+      "bytes": 1170546
+    },
+    {
+      "name": "corpus_part_195.bin",
+      "bytes": 1183818
+    },
+    {
+      "name": "corpus_part_196.bin",
+      "bytes": 1136883
+    },
+    {
+      "name": "corpus_part_197.bin",
+      "bytes": 1169327
+    },
+    {
+      "name": "corpus_part_198.bin",
+      "bytes": 1181988
+    },
+    {
+      "name": "corpus_part_199.bin",
+      "bytes": 1179310
+    },
+    {
+      "name": "corpus_part_200.bin",
+      "bytes": 1190238
+    },
+    {
+      "name": "corpus_part_201.bin",
+      "bytes": 1160833
+    },
+    {
+      "name": "corpus_part_202.bin",
+      "bytes": 1127105
+    },
+    {
+      "name": "corpus_part_203.bin",
+      "bytes": 1145174
+    },
+    {
+      "name": "corpus_part_204.bin",
+      "bytes": 1213594
+    },
+    {
+      "name": "corpus_part_205.bin",
+      "bytes": 1199382
+    },
+    {
+      "name": "corpus_part_206.bin",
+      "bytes": 1182267
+    },
+    {
+      "name": "corpus_part_207.bin",
+      "bytes": 1148111
+    },
+    {
+      "name": "corpus_part_208.bin",
+      "bytes": 1200517
+    },
+    {
+      "name": "corpus_part_209.bin",
+      "bytes": 1144693
+    },
+    {
+      "name": "corpus_part_210.bin",
+      "bytes": 1121729
+    },
+    {
+      "name": "corpus_part_211.bin",
+      "bytes": 1170160
+    },
+    {
+      "name": "corpus_part_212.bin",
+      "bytes": 1161073
+    },
+    {
+      "name": "corpus_part_213.bin",
+      "bytes": 1194925
+    },
+    {
+      "name": "corpus_part_214.bin",
+      "bytes": 1148576
+    },
+    {
+      "name": "corpus_part_215.bin",
+      "bytes": 1159127
+    },
+    {
+      "name": "corpus_part_216.bin",
+      "bytes": 1183121
+    },
+    {
+      "name": "corpus_part_217.bin",
+      "bytes": 1184055
+    },
+    {
+      "name": "corpus_part_218.bin",
+      "bytes": 1167436
+    },
+    {
+      "name": "corpus_part_219.bin",
+      "bytes": 1158055
+    },
+    {
+      "name": "corpus_part_220.bin",
+      "bytes": 1185043
+    },
+    {
+      "name": "corpus_part_221.bin",
+      "bytes": 1153585
+    },
+    {
+      "name": "corpus_part_222.bin",
+      "bytes": 1185662
+    },
+    {
+      "name": "corpus_part_223.bin",
+      "bytes": 1172772
+    },
+    {
+      "name": "corpus_part_224.bin",
+      "bytes": 1163925
+    },
+    {
+      "name": "corpus_part_225.bin",
+      "bytes": 1204095
+    },
+    {
+      "name": "corpus_part_226.bin",
+      "bytes": 1186268
+    },
+    {
+      "name": "corpus_part_227.bin",
+      "bytes": 1125927
+    },
+    {
+      "name": "corpus_part_228.bin",
+      "bytes": 1220999
+    },
+    {
+      "name": "corpus_part_229.bin",
+      "bytes": 1199160
+    },
+    {
+      "name": "corpus_part_230.bin",
+      "bytes": 1183620
+    },
+    {
+      "name": "corpus_part_231.bin",
+      "bytes": 1184024
+    },
+    {
+      "name": "corpus_part_232.bin",
+      "bytes": 1179522
+    },
+    {
+      "name": "corpus_part_233.bin",
+      "bytes": 1184469
+    },
+    {
+      "name": "corpus_part_234.bin",
+      "bytes": 1170673
+    },
+    {
+      "name": "corpus_part_235.bin",
+      "bytes": 1194664
+    },
+    {
+      "name": "corpus_part_236.bin",
+      "bytes": 1174572
+    },
+    {
+      "name": "corpus_part_237.bin",
+      "bytes": 1185978
+    },
+    {
+      "name": "corpus_part_238.bin",
+      "bytes": 1183531
+    },
+    {
+      "name": "corpus_part_239.bin",
+      "bytes": 1183397
+    },
+    {
+      "name": "corpus_part_240.bin",
+      "bytes": 1176670
+    },
+    {
+      "name": "corpus_part_241.bin",
+      "bytes": 1180547
+    },
+    {
+      "name": "corpus_part_242.bin",
+      "bytes": 1172605
+    },
+    {
+      "name": "corpus_part_243.bin",
+      "bytes": 1179109
+    },
+    {
+      "name": "corpus_part_244.bin",
+      "bytes": 1159311
+    },
+    {
+      "name": "corpus_part_245.bin",
+      "bytes": 1192405
+    },
+    {
+      "name": "corpus_part_246.bin",
+      "bytes": 1101995
+    },
+    {
+      "name": "corpus_part_247.bin",
+      "bytes": 1161788
+    },
+    {
+      "name": "corpus_part_248.bin",
+      "bytes": 1191121
+    },
+    {
+      "name": "corpus_part_249.bin",
+      "bytes": 1188409
+    },
+    {
+      "name": "corpus_part_250.bin",
+      "bytes": 1167391
+    },
+    {
+      "name": "corpus_part_251.bin",
+      "bytes": 1205126
+    },
+    {
+      "name": "corpus_part_252.bin",
+      "bytes": 1185381
+    },
+    {
+      "name": "corpus_part_253.bin",
+      "bytes": 1123711
+    },
+    {
+      "name": "corpus_part_254.bin",
+      "bytes": 1134749
+    },
+    {
+      "name": "corpus_part_255.bin",
+      "bytes": 1141093
+    },
+    {
+      "name": "corpus_part_256.bin",
+      "bytes": 1175126
+    },
+    {
+      "name": "corpus_part_257.bin",
+      "bytes": 1267988
+    },
+    {
+      "name": "corpus_part_258.bin",
+      "bytes": 1237925
+    },
+    {
+      "name": "corpus_part_259.bin",
+      "bytes": 1193298
+    },
+    {
+      "name": "corpus_part_260.bin",
+      "bytes": 1173857
+    },
+    {
+      "name": "corpus_part_261.bin",
+      "bytes": 1161228
+    },
+    {
+      "name": "corpus_part_262.bin",
+      "bytes": 1208119
+    },
+    {
+      "name": "corpus_part_263.bin",
+      "bytes": 1166474
+    },
+    {
+      "name": "corpus_part_264.bin",
+      "bytes": 1069156
+    },
+    {
+      "name": "corpus_part_265.bin",
+      "bytes": 1190982
+    },
+    {
+      "name": "corpus_part_266.bin",
+      "bytes": 1171124
+    },
+    {
+      "name": "corpus_part_267.bin",
+      "bytes": 1171316
+    },
+    {
+      "name": "corpus_part_268.bin",
+      "bytes": 1200646
+    },
+    {
+      "name": "corpus_part_269.bin",
+      "bytes": 1123231
+    },
+    {
+      "name": "corpus_part_270.bin",
+      "bytes": 1144909
+    },
+    {
+      "name": "corpus_part_271.bin",
+      "bytes": 1189484
+    },
+    {
+      "name": "corpus_part_272.bin",
+      "bytes": 1190333
+    },
+    {
+      "name": "corpus_part_273.bin",
+      "bytes": 1208308
+    },
+    {
+      "name": "corpus_part_274.bin",
+      "bytes": 1170993
+    },
+    {
+      "name": "corpus_part_275.bin",
+      "bytes": 1174083
+    },
+    {
+      "name": "corpus_part_276.bin",
+      "bytes": 1171549
+    },
+    {
+      "name": "corpus_part_277.bin",
+      "bytes": 1209503
+    },
+    {
+      "name": "corpus_part_278.bin",
+      "bytes": 1159887
+    },
+    {
+      "name": "corpus_part_279.bin",
+      "bytes": 1158076
+    },
+    {
+      "name": "corpus_part_280.bin",
+      "bytes": 1178665
+    },
+    {
+      "name": "corpus_part_281.bin",
+      "bytes": 1159704
+    },
+    {
+      "name": "corpus_part_282.bin",
+      "bytes": 1175706
+    },
+    {
+      "name": "corpus_part_283.bin",
+      "bytes": 1189023
+    },
+    {
+      "name": "corpus_part_284.bin",
+      "bytes": 1200911
+    },
+    {
+      "name": "corpus_part_285.bin",
+      "bytes": 1203256
+    },
+    {
+      "name": "corpus_part_286.bin",
+      "bytes": 1196544
+    },
+    {
+      "name": "corpus_part_287.bin",
+      "bytes": 1186051
+    },
+    {
+      "name": "corpus_part_288.bin",
+      "bytes": 1166945
+    },
+    {
+      "name": "corpus_part_289.bin",
+      "bytes": 1166634
+    },
+    {
+      "name": "corpus_part_290.bin",
+      "bytes": 1210718
+    },
+    {
+      "name": "corpus_part_291.bin",
+      "bytes": 1199623
+    },
+    {
+      "name": "corpus_part_292.bin",
+      "bytes": 1205563
+    },
+    {
+      "name": "corpus_part_293.bin",
+      "bytes": 1210950
+    },
+    {
+      "name": "corpus_part_294.bin",
+      "bytes": 1195308
+    },
+    {
+      "name": "corpus_part_295.bin",
+      "bytes": 1198571
+    },
+    {
+      "name": "corpus_part_296.bin",
+      "bytes": 1163297
+    },
+    {
+      "name": "corpus_part_297.bin",
+      "bytes": 1166860
+    },
+    {
+      "name": "corpus_part_298.bin",
+      "bytes": 1231659
+    },
+    {
+      "name": "corpus_part_299.bin",
+      "bytes": 1195188
+    },
+    {
+      "name": "corpus_part_300.bin",
+      "bytes": 1133313
+    },
+    {
+      "name": "corpus_part_301.bin",
+      "bytes": 1197622
+    },
+    {
+      "name": "corpus_part_302.bin",
+      "bytes": 1214936
+    },
+    {
+      "name": "corpus_part_303.bin",
+      "bytes": 1207137
+    },
+    {
+      "name": "corpus_part_304.bin",
+      "bytes": 1211028
+    },
+    {
+      "name": "corpus_part_305.bin",
+      "bytes": 1207842
+    },
+    {
+      "name": "corpus_part_306.bin",
+      "bytes": 1177265
+    },
+    {
+      "name": "corpus_part_307.bin",
+      "bytes": 1198150
+    },
+    {
+      "name": "corpus_part_308.bin",
+      "bytes": 1182800
+    },
+    {
+      "name": "corpus_part_309.bin",
+      "bytes": 1221907
+    },
+    {
+      "name": "corpus_part_310.bin",
+      "bytes": 1196959
+    },
+    {
+      "name": "corpus_part_311.bin",
+      "bytes": 1176773
+    },
+    {
+      "name": "corpus_part_312.bin",
+      "bytes": 1207828
+    },
+    {
+      "name": "corpus_part_313.bin",
+      "bytes": 1201993
+    },
+    {
+      "name": "corpus_part_314.bin",
+      "bytes": 1183863
+    },
+    {
+      "name": "corpus_part_315.bin",
+      "bytes": 1047561
+    },
+    {
+      "name": "corpus_part_316.bin",
+      "bytes": 1090548
+    },
+    {
+      "name": "corpus_part_317.bin",
+      "bytes": 1202604
+    },
+    {
+      "name": "corpus_part_318.bin",
+      "bytes": 1186069
+    },
+    {
+      "name": "corpus_part_319.bin",
+      "bytes": 1133222
+    },
+    {
+      "name": "corpus_part_320.bin",
+      "bytes": 1131354
+    },
+    {
+      "name": "corpus_part_321.bin",
+      "bytes": 1181320
+    },
+    {
+      "name": "corpus_part_322.bin",
+      "bytes": 1197865
+    },
+    {
+      "name": "corpus_part_323.bin",
+      "bytes": 1152417
+    },
+    {
+      "name": "corpus_part_324.bin",
+      "bytes": 1201218
+    },
+    {
+      "name": "corpus_part_325.bin",
+      "bytes": 1188394
+    },
+    {
+      "name": "corpus_part_326.bin",
+      "bytes": 1195434
+    },
+    {
+      "name": "corpus_part_327.bin",
+      "bytes": 1197013
+    },
+    {
+      "name": "corpus_part_328.bin",
+      "bytes": 1164526
+    },
+    {
+      "name": "corpus_part_329.bin",
+      "bytes": 1183543
+    },
+    {
+      "name": "corpus_part_330.bin",
+      "bytes": 1167624
+    },
+    {
+      "name": "corpus_part_331.bin",
+      "bytes": 1165077
+    },
+    {
+      "name": "corpus_part_332.bin",
+      "bytes": 1176615
+    },
+    {
+      "name": "corpus_part_333.bin",
+      "bytes": 1199030
+    },
+    {
+      "name": "corpus_part_334.bin",
+      "bytes": 1153694
+    },
+    {
+      "name": "corpus_part_335.bin",
+      "bytes": 1165267
+    },
+    {
+      "name": "corpus_part_336.bin",
+      "bytes": 1169193
+    },
+    {
+      "name": "corpus_part_337.bin",
+      "bytes": 1168051
+    },
+    {
+      "name": "corpus_part_338.bin",
+      "bytes": 1185947
+    },
+    {
+      "name": "corpus_part_339.bin",
+      "bytes": 1200779
+    },
+    {
+      "name": "corpus_part_340.bin",
+      "bytes": 1185364
+    },
+    {
+      "name": "corpus_part_341.bin",
+      "bytes": 1177663
+    },
+    {
+      "name": "corpus_part_342.bin",
+      "bytes": 1179836
+    },
+    {
+      "name": "corpus_part_343.bin",
+      "bytes": 1192529
+    },
+    {
+      "name": "corpus_part_344.bin",
+      "bytes": 1203247
+    },
+    {
+      "name": "corpus_part_345.bin",
+      "bytes": 1205491
+    },
+    {
+      "name": "corpus_part_346.bin",
+      "bytes": 1211520
+    },
+    {
+      "name": "corpus_part_347.bin",
+      "bytes": 1191353
+    },
+    {
+      "name": "corpus_part_348.bin",
+      "bytes": 1201600
+    },
+    {
+      "name": "corpus_part_349.bin",
+      "bytes": 1236624
+    },
+    {
+      "name": "corpus_part_350.bin",
+      "bytes": 1210708
+    },
+    {
+      "name": "corpus_part_351.bin",
+      "bytes": 1224975
+    },
+    {
+      "name": "corpus_part_352.bin",
+      "bytes": 1218390
+    },
+    {
+      "name": "corpus_part_353.bin",
+      "bytes": 1197846
+    },
+    {
+      "name": "corpus_part_354.bin",
+      "bytes": 1192650
+    },
+    {
+      "name": "corpus_part_355.bin",
+      "bytes": 1218743
+    },
+    {
+      "name": "corpus_part_356.bin",
+      "bytes": 1201562
+    },
+    {
+      "name": "corpus_part_357.bin",
+      "bytes": 1221080
+    },
+    {
+      "name": "corpus_part_358.bin",
+      "bytes": 1221935
+    },
+    {
+      "name": "corpus_part_359.bin",
+      "bytes": 1240436
+    },
+    {
+      "name": "corpus_part_360.bin",
+      "bytes": 1197917
+    },
+    {
+      "name": "corpus_part_361.bin",
+      "bytes": 1222389
+    },
+    {
+      "name": "corpus_part_362.bin",
+      "bytes": 1189366
+    },
+    {
+      "name": "corpus_part_363.bin",
+      "bytes": 1199807
+    },
+    {
+      "name": "corpus_part_364.bin",
+      "bytes": 1226448
+    },
+    {
+      "name": "corpus_part_365.bin",
+      "bytes": 1228989
+    },
+    {
+      "name": "corpus_part_366.bin",
+      "bytes": 1190040
+    },
+    {
+      "name": "corpus_part_367.bin",
+      "bytes": 1183162
+    },
+    {
+      "name": "corpus_part_368.bin",
+      "bytes": 1207413
+    },
+    {
+      "name": "corpus_part_369.bin",
+      "bytes": 1116540
+    },
+    {
+      "name": "corpus_part_370.bin",
+      "bytes": 1188928
+    },
+    {
+      "name": "corpus_part_371.bin",
+      "bytes": 1194870
+    },
+    {
+      "name": "corpus_part_372.bin",
+      "bytes": 1186057
+    },
+    {
+      "name": "corpus_part_373.bin",
+      "bytes": 1167731
+    },
+    {
+      "name": "corpus_part_374.bin",
+      "bytes": 1222842
+    },
+    {
+      "name": "corpus_part_375.bin",
+      "bytes": 1193888
+    },
+    {
+      "name": "corpus_part_376.bin",
+      "bytes": 1176981
+    },
+    {
+      "name": "corpus_part_377.bin",
+      "bytes": 1179559
+    },
+    {
+      "name": "corpus_part_378.bin",
+      "bytes": 1200164
+    },
+    {
+      "name": "corpus_part_379.bin",
+      "bytes": 1185229
+    },
+    {
+      "name": "corpus_part_380.bin",
+      "bytes": 1175184
+    },
+    {
+      "name": "corpus_part_381.bin",
+      "bytes": 1194537
+    },
+    {
+      "name": "corpus_part_382.bin",
+      "bytes": 1185748
+    },
+    {
+      "name": "corpus_part_383.bin",
+      "bytes": 1186965
+    },
+    {
+      "name": "corpus_part_384.bin",
+      "bytes": 1181025
+    },
+    {
+      "name": "corpus_part_385.bin",
+      "bytes": 1225783
+    },
+    {
+      "name": "corpus_part_386.bin",
+      "bytes": 1192873
+    },
+    {
+      "name": "corpus_part_387.bin",
+      "bytes": 1188816
+    },
+    {
+      "name": "corpus_part_388.bin",
+      "bytes": 1191327
+    },
+    {
+      "name": "corpus_part_389.bin",
+      "bytes": 1198889
+    },
+    {
+      "name": "corpus_part_390.bin",
+      "bytes": 1221851
+    },
+    {
+      "name": "corpus_part_391.bin",
+      "bytes": 1142868
+    },
+    {
+      "name": "corpus_part_392.bin",
+      "bytes": 1197882
+    },
+    {
+      "name": "corpus_part_393.bin",
+      "bytes": 1217324
+    },
+    {
+      "name": "corpus_part_394.bin",
+      "bytes": 1212548
+    },
+    {
+      "name": "corpus_part_395.bin",
+      "bytes": 1209280
+    },
+    {
+      "name": "corpus_part_396.bin",
+      "bytes": 1191857
+    },
+    {
+      "name": "corpus_part_397.bin",
+      "bytes": 1182147
+    },
+    {
+      "name": "corpus_part_398.bin",
+      "bytes": 1201143
+    },
+    {
+      "name": "corpus_part_399.bin",
+      "bytes": 1220012
+    },
+    {
+      "name": "corpus_part_400.bin",
+      "bytes": 1236412
+    },
+    {
+      "name": "corpus_part_401.bin",
+      "bytes": 1193417
+    },
+    {
+      "name": "corpus_part_402.bin",
+      "bytes": 1200202
+    },
+    {
+      "name": "corpus_part_403.bin",
+      "bytes": 1200733
+    },
+    {
+      "name": "corpus_part_404.bin",
+      "bytes": 1190260
+    },
+    {
+      "name": "corpus_part_405.bin",
+      "bytes": 1177773
+    },
+    {
+      "name": "corpus_part_406.bin",
+      "bytes": 1119798
+    },
+    {
+      "name": "corpus_part_407.bin",
+      "bytes": 1167433
+    },
+    {
+      "name": "corpus_part_408.bin",
+      "bytes": 1184113
+    },
+    {
+      "name": "corpus_part_409.bin",
+      "bytes": 1207772
+    },
+    {
+      "name": "corpus_part_410.bin",
+      "bytes": 1185097
+    },
+    {
+      "name": "corpus_part_411.bin",
+      "bytes": 1185431
+    },
+    {
+      "name": "corpus_part_412.bin",
+      "bytes": 1196438
+    },
+    {
+      "name": "corpus_part_413.bin",
+      "bytes": 1127064
+    },
+    {
+      "name": "corpus_part_414.bin",
+      "bytes": 1203605
+    },
+    {
+      "name": "corpus_part_415.bin",
+      "bytes": 1158014
+    },
+    {
+      "name": "corpus_part_416.bin",
+      "bytes": 1095790
+    },
+    {
+      "name": "corpus_part_417.bin",
+      "bytes": 1180429
+    },
+    {
+      "name": "corpus_part_418.bin",
+      "bytes": 1187059
+    },
+    {
+      "name": "corpus_part_419.bin",
+      "bytes": 1160172
+    },
+    {
+      "name": "corpus_part_420.bin",
+      "bytes": 1217575
+    },
+    {
+      "name": "corpus_part_421.bin",
+      "bytes": 1159771
+    },
+    {
+      "name": "corpus_part_422.bin",
+      "bytes": 1190193
+    },
+    {
+      "name": "corpus_part_423.bin",
+      "bytes": 1192986
+    },
+    {
+      "name": "corpus_part_424.bin",
+      "bytes": 1174267
+    },
+    {
+      "name": "corpus_part_425.bin",
+      "bytes": 1197168
+    },
+    {
+      "name": "corpus_part_426.bin",
+      "bytes": 1202677
+    },
+    {
+      "name": "corpus_part_427.bin",
+      "bytes": 1179022
+    },
+    {
+      "name": "corpus_part_428.bin",
+      "bytes": 1174364
+    },
+    {
+      "name": "corpus_part_429.bin",
+      "bytes": 1082642
+    },
+    {
+      "name": "corpus_part_430.bin",
+      "bytes": 946385
+    },
+    {
+      "name": "corpus_part_431.bin",
+      "bytes": 1119163
+    },
+    {
+      "name": "corpus_part_432.bin",
+      "bytes": 1162798
+    },
+    {
+      "name": "corpus_part_433.bin",
+      "bytes": 1181155
+    },
+    {
+      "name": "corpus_part_434.bin",
+      "bytes": 1196584
+    },
+    {
+      "name": "corpus_part_435.bin",
+      "bytes": 1172601
+    },
+    {
+      "name": "corpus_part_436.bin",
+      "bytes": 1155017
+    },
+    {
+      "name": "corpus_part_437.bin",
+      "bytes": 1174676
+    },
+    {
+      "name": "corpus_part_438.bin",
+      "bytes": 1129421
+    },
+    {
+      "name": "corpus_part_439.bin",
+      "bytes": 1142252
+    },
+    {
+      "name": "corpus_part_440.bin",
+      "bytes": 1162337
+    },
+    {
+      "name": "corpus_part_441.bin",
+      "bytes": 1162967
+    },
+    {
+      "name": "corpus_part_442.bin",
+      "bytes": 1173322
+    },
+    {
+      "name": "corpus_part_443.bin",
+      "bytes": 1164115
+    },
+    {
+      "name": "corpus_part_444.bin",
+      "bytes": 1147568
+    },
+    {
+      "name": "corpus_part_445.bin",
+      "bytes": 1109547
+    },
+    {
+      "name": "corpus_part_446.bin",
+      "bytes": 1171020
+    },
+    {
+      "name": "corpus_part_447.bin",
+      "bytes": 1184672
+    },
+    {
+      "name": "corpus_part_448.bin",
+      "bytes": 1149304
+    },
+    {
+      "name": "corpus_part_449.bin",
+      "bytes": 1176924
+    },
+    {
+      "name": "corpus_part_450.bin",
+      "bytes": 1211369
+    },
+    {
+      "name": "corpus_part_451.bin",
+      "bytes": 1165392
+    },
+    {
+      "name": "corpus_part_452.bin",
+      "bytes": 1189469
+    },
+    {
+      "name": "corpus_part_453.bin",
+      "bytes": 1197692
+    },
+    {
+      "name": "corpus_part_454.bin",
+      "bytes": 1162213
+    },
+    {
+      "name": "corpus_part_455.bin",
+      "bytes": 1171762
+    },
+    {
+      "name": "corpus_part_456.bin",
+      "bytes": 1179620
+    },
+    {
+      "name": "corpus_part_457.bin",
+      "bytes": 1174921
+    },
+    {
+      "name": "corpus_part_458.bin",
+      "bytes": 1191007
+    },
+    {
+      "name": "corpus_part_459.bin",
+      "bytes": 1160309
+    },
+    {
+      "name": "corpus_part_460.bin",
+      "bytes": 1120036
+    },
+    {
+      "name": "corpus_part_461.bin",
+      "bytes": 1096058
+    },
+    {
+      "name": "corpus_part_462.bin",
+      "bytes": 1204022
+    },
+    {
+      "name": "corpus_part_463.bin",
+      "bytes": 1244293
+    },
+    {
+      "name": "corpus_part_464.bin",
+      "bytes": 983425
+    },
+    {
+      "name": "corpus_part_465.bin",
+      "bytes": 1183599
+    },
+    {
+      "name": "corpus_part_466.bin",
+      "bytes": 1261287
+    },
+    {
+      "name": "corpus_part_467.bin",
+      "bytes": 1179610
+    },
+    {
+      "name": "corpus_part_468.bin",
+      "bytes": 792532
     }
-  ]
+  ],
+  "note": "Corpus littéraire complet généré dynamiquement."
 }
